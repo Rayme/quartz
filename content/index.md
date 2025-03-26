@@ -1,6 +1,8 @@
 ---
 title: 按钮与磁带
 ---
+> To make each day count.
+
 仿生猫会梦见电子猫粮吗？
 
 仿生猫不会梦见电子猫粮。
