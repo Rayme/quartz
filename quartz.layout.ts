@@ -37,7 +37,9 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+	order: ["date"],
+	}),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
