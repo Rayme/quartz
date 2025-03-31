@@ -3,10 +3,12 @@ title: 博客文章列表
 ---
 ## 分类
 
-[[blog posts/city observe|城市观察三部曲]]
+- [[blog posts/city observe|城市观察三部曲]]
+- [[blog posts/damn wechat|我骂微信]]
 ## 日期倒序
 ### 2025
 
+- [[atomic habits|掌控习惯]]
 - [[blog posts/nezha2|哪吒之魔童闹海]]
 - [[blog posts/rest in peace|世事无常]]
 - [[blog posts/my app defaults 2024|My App Defaults 2024]]
@@ -42,7 +44,20 @@ title: 博客文章列表
 ### 2022
 
 - [[blog posts/the razors edge|刀锋]]
+- [[note taking apps|几种笔记软件的使用感受]]
 ### 2021
 
 - [[blog posts/back to school|开学季]]
+- [[idle march 2021|当我发呆时，我在想什么 – 清明]]
+- [[spring festival movies 2021|2021春节电影集]]
+- [[idle new year 2021|当我发呆时，我在想什么 – 辛丑]]
+- [[my thoughts on wechat ten years|微信十年的产品思考]]
 - [[blog posts/taste of life|生活的味道]]
+- [[gossip january|一点碎碎念]]
+### 2020
+
+- [[thoughts about wechat 7 0|微信7.0之后的一点思考]]
+
+### 2017
+
+- [[justice league i dont know about|一个让我看不懂的正义联盟]]
