@@ -58,8 +58,11 @@ title: 博客文章列表
 - [[my thoughts on wechat ten years|微信十年的产品思考]]
 - [[blog posts/taste of life|生活的味道]]
 - [[gossip january|一点碎碎念]]
+- [[idle jan 2021|当我发呆时，我在想什么 – 季冬]]
+
 ### 2020
 
+- [[lost in 2020|失败2020]]
 - [[thoughts about wechat 7 0|微信7.0之后的一点思考]]
 ### 2018
 
