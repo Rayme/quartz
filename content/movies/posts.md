@@ -1,6 +1,8 @@
 ---
 title: 博客文章列表
 ---
+
+2025年50篇文章的目标，现在看来怕是有点难完成了。
 ## 分类
 
 - [[blog posts/city observe|城市观察三部曲]]
@@ -38,6 +40,7 @@ title: 博客文章列表
 - [[blog posts/barry|当一个杀手决定去当演员]]
 - [[blog posts/how i observe a blog|我怎么看博客]]
 - [[blog posts/my writing rules|写作排版习惯变迁]]
+- [[movies and shows watched recently 2023|近日观影2023]]
 - [[blog posts/gpd win max 2 review|GPD Win Max Review]]
 - [[blog posts/how i change about using pc|近期使用电脑的一些习惯改变]]
 - [[blog posts/how to host a nodejs version tiddlywiki|如何在服务器上部署一个基于 Node.js 的 TiddlyWiki]]
@@ -58,7 +61,9 @@ title: 博客文章列表
 ### 2020
 
 - [[thoughts about wechat 7 0|微信7.0之后的一点思考]]
+### 2018
 
+- [[mcu ten years|漫威十年]]
 ### 2017
 
 - [[justice league i dont know about|一个让我看不懂的正义联盟]]
