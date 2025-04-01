@@ -10,8 +10,8 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "仿生猫梦见电子猫粮",
     pageTitleSuffix: "",
-    enableSPA: false,
-    enablePopovers: false,
+    enableSPA: true,
+    enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
@@ -29,7 +29,7 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "f4f4f4",
+          light: "#f4f4f4",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
