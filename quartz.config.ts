@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "仿生猫梦见电子猫粮",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
