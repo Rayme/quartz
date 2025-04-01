@@ -18,11 +18,11 @@ date: 2025-03-27
 
 ---
 
-我阅读过原来的数字花园 [仿生猫不会梦见电子猫粮](https://jefftay.com)，两年出头的时间使用下来，其中可以算得上“知识”的内容占比少之又少，到了后期更多的是对于某个页面或列表的持续性更新，例如看过的影视剧、听过的音乐或书籍笔记，还有各种对调整样式和功能的记录。从这个角度出发，这个数字花园早已违背它创建时所要达到的定义/初衷：
+我阅读过原来的数字花园 [仿生猫不会梦见电子猫粮](https://old.jefftay.com)，两年出头的时间使用下来，其中可以算得上“知识”的内容占比少之又少，到了后期更多的是对于某个页面或列表的持续性更新，例如看过的影视剧、听过的音乐或书籍笔记，还有各种对调整样式和功能的记录。从这个角度出发，这个数字花园早已违背它创建时所要达到的定义/初衷：
 
 1. Topography over Timelines 拓扑结构优先而不是时间轴
 2. Continuous Growth 持续增长
-3. Imperfection & [Learning in Public](https://jefftay.com/#Learn%20in%20public) 非完美的、公开学习
+3. Imperfection & [Learning in Public](https://www.swyx.io/learn-in-public) 非完美的、公开学习
 4. Playful, Personal, and Experimental 有趣的，个人的，实验性的
 5. Intercropping & Content Diversity 套作（混合耕作）和内容多样性
 6. Independent Ownership 独立所有权

@@ -5,6 +5,7 @@ title: 博客文章列表
 
 - [[blog posts/city observe|城市观察三部曲]]
 - [[blog posts/damn wechat|我骂微信]]
+- [[blog posts/movies and shows|影视剧观后感]]
 ## 日期倒序
 ### 2025
 
@@ -17,9 +18,9 @@ title: 博客文章列表
 
 ### 2024
 
-- [[blog posts/two movies and three shows|近日观影]]
+- [[two movies and three shows 2024|2024近日观影]]
 - [[blog posts/15 questions on blogging|独立博客自省问卷15题]]
-- [[blog posts/july 2024 watched|七月观影]]
+- [[blog posts/july 2024 watched|2024七月观影]]
 - [[blog posts/the autobiography of benjamin franklin|《富兰克林自传》书摘]]
 - [[blog posts/arrow|绿箭侠]]
 - [[blog posts/three body problem|三体问题]]

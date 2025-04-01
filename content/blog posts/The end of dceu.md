@@ -1,6 +1,8 @@
 ---
 title: 《海王2》与 DCEU 的终结
 date: 2024-01-10
+tags:
+  - movies
 ---
 12月23日去看了 IMAX 版本的[《海王2：失落的帝国》](https://movie.douban.com/subject/30444942)。影院配置拉满，时间选得刚刚好。这是我在 DCEU（DC Extended Universe，DC 扩展宇宙） 中给作为 DC 粉丝的自己一个交代。
 
