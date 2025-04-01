@@ -19,4 +19,4 @@ ref: [不要在细节上雕花](https://mp.weixin.qq.com/s/2Q3BNpichZ1weCKMuRYau
 - 想学习或者做什么事情时，**立刻去做**，而不是围绕这个东西去寻求别人对此是如何想/如何做的
 
 > [!note]
-> 辩证理解：《老子》[[start small step|多易必多难]]。
+> 辩证理解：《道德经》[[start small step|多易必多难]]。

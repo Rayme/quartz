@@ -12,7 +12,7 @@ date: 2025-03-27
 >
 > 转念一想，我好像不小心陷入效率工具陷阱了。
 
-现在一年过去，Node.js TiddlyWiki 加载慢的问题仍然没有想到好的解决方法，甚至有时我自己访问时也会被龟速折磨得烦躁不已。我目光继续投向 Quartz，发掘了不少优秀的站点，例如 Quartz 作者的 [jzhao.xyz](https://jzhao.xyz) 和近期发现内容丰富又深刻的 [The Quantum Garden](https://quantumgardener.info)。遇见后者是我想要真正建立 Quartz 站点的契机。
+现在一年过去，Node.js TiddlyWiki 加载慢的问题仍然没有想到好的解决方法，甚至有时我自己访问时也会被龟速折磨得烦躁不已。我目光继续投向 Quartz，发掘了不少优秀的站点，例如 [Quartz](https://quartz.jzhao.xyz) 作者的 [jzhao.xyz](https://jzhao.xyz) 和近期发现内容丰富又深刻的 [The Quantum Garden](https://quantumgardener.info)。遇见后者是我想要真正建立 Quartz 站点的契机。
 
 根据我以往的经验，迫使我自己走上这条路的方法，便是在旧的站点声明暂停更新，告诉几位朋友我要换站点了。提高他们的期待，自己自然会开始担心，然后开始推进。
 
