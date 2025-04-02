@@ -1,7 +1,7 @@
 ---
 title: 费曼学习法
 ---
-费曼学习法 The Feynman Technique，也许是对自己认知改变最大的一个理论。
+费曼学习法 [The Feynman Technique](https://subjectguides.york.ac.uk/study-revision/feynman-technique)，也许是对自己认知改变最大的一个理论。
 
 对于一个概念，把它准确无误解释给一个八岁小孩听懂，这是理解这个概念的第一步。这一步能避免糊弄自己。
 
