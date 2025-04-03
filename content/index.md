@@ -11,9 +11,9 @@ title: 按钮与磁带
 
 ---
 
-在风起云涌的互联网生态，如何[[filter sources|获取高质量的信息]]？
+在风起云涌的互联网生态，如何[[filter sources|获取高质量的信息]]？对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。
 
-在许多时刻我都会过于注重细节。过于注重细节导致视野变窄，往往错过重要决策的窗口。李睿秋说[[skip details|不要在细节上雕花]]，以及在此展开的一些道理都对人很有帮助。
+但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，错过重要决策的窗口。
 
 Scott Young on [[the twelve foundations for a good life]]
 
