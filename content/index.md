@@ -5,10 +5,16 @@ title: 按钮与磁带
 
 ![[ilikecomeputer.png]]
 
+- [[why this site|为什么会有这个站点]]
+- [[now|my now page]]
+- [[posts|博客文章列表]]
+
 ---
+
+在风起云涌的互联网生态，如何[[filter sources|获取高质量的信息]]？
 
 在许多时刻我都会过于注重细节。过于注重细节导致视野变窄，往往错过重要决策的窗口。李睿秋说[[skip details|不要在细节上雕花]]，以及在此展开的一些道理都对人很有帮助。
 
-[[why this site|为什么会有这个站点]] | [[posts|博客文章列表]] | [[now|my now page]]
+Scott Young on [[the twelve foundations for a good life]]
 
-
+Nick Milo on [[say because|say "because"]]
