@@ -63,7 +63,15 @@ title: 博客文章列表
 ### 2020
 
 - [[lost in 2020|失败2020]]
+- [[ww84|为什么说神奇女侠1984不是一部合格的超级英雄片]]
+- [[what i am thinking while i am idle|当我发呆时，我在想什么]]
+- [[oneplus 8t|一加8T 使用体验]]
+- [[welcome back to the cinema|2020电影国庆春节档]]
+- [[life is worth living|《人间值得》书摘]]
+- [[where is my path|路在何方]]
+- [[recently august 2020|2020八月近况]]
 - [[thoughts about wechat 7 0|微信7.0之后的一点思考]]
+- [[kobe and the world after he retired 4 years|科比和他退役四年后的世界]]
 ### 2018
 
 - [[mcu ten years|漫威十年]]
