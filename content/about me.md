@@ -6,6 +6,8 @@ date: 2025-04-01
 
 我的博客：[陈仓颉](https://imzm.im)，2015年 WordPress 独立博客上线至今。过去曾有一个 TiddlyWiki 数字花园：[仿生猫不会梦见电子猫粮](https://wiki.imzm.im)。
 
+我的联系方式： zm.rayme at gmail.com
+
 ---
 
 > [!quote] \-

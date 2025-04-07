@@ -8,6 +8,7 @@ title: 按钮与磁带
 - [[why this site|为什么会有这个站点]]
 - [[now|my now page]]
 - [[posts|博客文章列表]]
+- [[tao/|道可道也]]
 
 我的博客：[陈仓颉](https://imzm.im)，[[about me|关于我]]
 
