@@ -1,4 +1,11 @@
-# Quartz v4
+## Info
+
+This is the repo of [jefftay.com](https://jefftay.com), a digital garden based on Quartz v4. Details below.
+
+Huge thanks to [jackyzha0](https://github.com/jackyzha0) and the Quartz community!
+
+
+## Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
