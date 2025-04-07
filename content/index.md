@@ -14,9 +14,9 @@ title: 按钮与磁带
 
 ---
 
-在风起云涌的互联网生态，如何[[filter sources|获取高质量的信息]]？对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。
+在风起云涌的互联网生态，如何[[filter sources|获取高质量的信息]]？对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，错过重要决策的窗口。
 
-但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，错过重要决策的窗口。
+Focus on [[like instead of want|what I like, not what I want]].
 
 Scott Young on [[the twelve foundations for a good life]]
 
