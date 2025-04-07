@@ -5,11 +5,11 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.RecentNotes({ title: "最近更新", limit: 4 })],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      博客: "https://imzm.im",
+	  "CC BY-SA 4.0": "https://creativecommons.org/licenses/by-sa/4.0",
     },
   }),
 }
@@ -42,9 +42,9 @@ export const defaultContentPageLayout: PageLayout = {
 	}),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+	Component.Backlinks({ title: "反向链接" }),
+	Component.Graph(),
   ],
 }
 

@@ -9,6 +9,8 @@ title: 按钮与磁带
 - [[now|my now page]]
 - [[posts|博客文章列表]]
 
+我的博客：[陈仓颉](https://imzm.im)，[[about me|关于我]]
+
 ---
 
 在风起云涌的互联网生态，如何[[filter sources|获取高质量的信息]]？对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。
