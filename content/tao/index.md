@@ -12,3 +12,6 @@ title: 我读《道德经》
 - [[good and evil|天下皆知美之为美]]
 - [[rule by doing nothing|不上贤使民不争]]
 - [[the initial beginning|和光同尘]]
+
+
+- [[soft and firm|人之生也柔弱]]

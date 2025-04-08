@@ -11,6 +11,7 @@ title: 博客文章列表
 ## 日期倒序
 ### 2025
 
+- [[scarcity brain|稀缺大脑]]
 - [[atomic habits|掌控习惯]]
 - [[blog posts/nezha2|哪吒之魔童闹海]]
 - [[blog posts/rest in peace|世事无常]]
