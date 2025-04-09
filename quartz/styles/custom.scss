@@ -2,31 +2,32 @@
 
 // put your custom CSS here!
 
-/* 通用宽度限制 
-.page > #quartz-body .center {
-  min-width: 48rem;
-  max-width: 48rem !important;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-*/
-
+/* 宽度限制 */
 .page > #quartz-body .center {
   max-width: 48rem;
-  min-width: 0;
+  min-width: 100%;
   margin-left: auto;
   margin-right: auto;
   padding-left: 1rem;
   padding-right: 1rem;
 }
+
 
 @media (max-width: 768px) {
   .page > #quartz-body .center {
     max-width: 100% !important;
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+  .site-title {
+	  font-size: 1.25rem;
+  }
+  .page-title h1, h1.article-title {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+  .page-header {
+    margin-top: 0.5rem;
   }
 }
 
