@@ -17,7 +17,7 @@ head: Component.Head({
   ],
 }),
   header: [],
-  afterBody: [Component.RecentNotes({ title: "最近更新", limit: 4 })],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       博客: "https://imzm.im",
@@ -52,7 +52,6 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
 	Component.Backlinks({ title: "反向链接" }),
-	Component.Graph(),
   ],
 }
 
