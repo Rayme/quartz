@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Noto Sans Traditional Chinese",
-        body: "Source Sans Pro",
-        code: "Ubuntu Mono",
+        header: "IBM Plex Sans TC",
+        body: "Noto Serif SC",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
