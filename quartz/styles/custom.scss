@@ -2,7 +2,7 @@
 
 // put your custom CSS here!
 
-/* 通用宽度限制 */
+/* 通用宽度限制 
 .page > #quartz-body .center {
   min-width: 48rem;
   max-width: 48rem !important;
@@ -11,6 +11,25 @@
   padding-left: 1rem;
   padding-right: 1rem;
 }
+*/
+
+.page > #quartz-body .center {
+  max-width: 48rem;
+  min-width: 0;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (max-width: 768px) {
+  .page > #quartz-body .center {
+    max-width: 100% !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
 
 /* 正文排版统一 */
 .center p,
