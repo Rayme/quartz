@@ -32,4 +32,4 @@ aliases:
 
 对于在辩论中跑题的，[[why people loves to argue and best way to deal with it|我们可以这么做]]
 
-[^1]:《身份、立场与偏见：为什么互联网愈发 “水火不容”》 idealclover 原文链接：https://idealclover.top/archives/614/
+[^1]:[《身份、立场与偏见：为什么互联网愈发 “水火不容”》](https://idealclover.top/archives/614) idealclover

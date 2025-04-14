@@ -7,9 +7,13 @@ title: 按钮与磁带
 
 - [[why this site|为什么会有这个站点]]
 - [[posts|博客文章列表]]
-- [[tao/|道可道也]]
+- [[tao/index|道可道也]]
 
 我的博客：[陈仓颉](https://imzm.im)，[[about me|关于我]]，[[now|my now page]]
+
+最近更新：
+
+- [[tao/index|道德经第5章至第10章]]
 
 ---
 
