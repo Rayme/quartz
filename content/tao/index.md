@@ -18,6 +18,11 @@ title: 我读《道德经》
 - 通行版第8章 帛书版第52章 [[water is like tao|上善似水]]
 - 通行版第9章 帛书版第53章 [[stop before fullness|功遂身退天之道也]]
 - 通行版第10章 帛书版第54章 [[nurture without owning|明白四达能毋以知乎]]
+- 通行版第11章 帛书版第55章 [[useful emptiness|有之以为利无之以为用]]
+- 通行版第12章 帛书版第56章 [[colorful blindness|五色使人目盲]]
+- 通行版第13章 帛书版第57章 [[self holds the world|宠辱若惊贵大患若身]]
+- 通行版第14章 帛书版第58章 [[formless origin|执今之道以御今之有]]
+- 通行版第15章 帛书版第59章 [[masters of the formless|古之善为道者]]
 
-
+- 通行版第63章 帛书版第26章 [[start small step|为无为事无事]]
 - 通行版第76章 帛书版第41章 [[soft and firm|人之生也柔弱]]
