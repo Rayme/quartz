@@ -23,6 +23,11 @@ title: 我读《道德经》
 - 通行版第13章 帛书版第57章 [[self holds the world|宠辱若惊贵大患若身]]
 - 通行版第14章 帛书版第58章 [[formless origin|执今之道以御今之有]]
 - 通行版第15章 帛书版第59章 [[masters of the formless|古之善为道者]]
+- 通行版第16章 帛书版第60章 [[still and clear|归根曰静知常明也]]
+- 通行版第17章 帛书版第61章 [[invisible leadership|太上下知有之]]
+- 通行版第18章 帛书版第62章 [[the loss of tao|故大道废案有仁义]]
+- 通行版第19章 帛书版第63章 [[pure and plain|见素抱朴少私寡欲]]
+- 通行版第20章 帛书版第64章 [[stay foolish|我愚人之心也]]
 
 - 通行版第63章 帛书版第26章 [[start small step|为无为事无事]]
 - 通行版第76章 帛书版第41章 [[soft and firm|人之生也柔弱]]

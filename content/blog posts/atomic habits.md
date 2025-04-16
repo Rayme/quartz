@@ -8,7 +8,7 @@ date: 2025-03-27
 
 [[talent choices tiredness|关于天赋、选择和厌倦]]，[[review and reflection|关于回顾和反思]]
 
-本书提到的书籍：[[tao/|《道德经》]]、《思考，快与慢》、[[homo deus|《人类简史》]]、《这书能让你戒烟》
+本书提到的书籍：[[tao/index|《道德经》]]、《思考，快与慢》、《人类简史》、《这书能让你戒烟》
 
 ## part 1 微习惯的力量
 
