@@ -7,7 +7,7 @@ title: 博客文章列表
 
 - [[blog posts/city observe|城市观察三部曲]]
 - [[blog posts/damn wechat|我骂微信]]
-- [[blog posts/movies and shows|影视剧观后感]]
+- [[movies and shows|影视剧观后感]]
 ## 日期倒序
 ### 2025
 

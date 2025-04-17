@@ -10,13 +10,14 @@ title: 按钮与磁带
 航线
 
 - [[why this site|为什么会有这个站点]]
-- [[posts|博客文章列表]]
-- [[tao/index|道可道也]]
+- [[posts|博客文章]] | [[movies and shows|影视剧观后感]]
+- [[tao/index|道可道也]] 
 
 Thyself
 
 - [[about me|关于我]]
 - [[now|我最近在做什么]]
+- [[random thoughts|要多想]]
 
 最近更新
 
