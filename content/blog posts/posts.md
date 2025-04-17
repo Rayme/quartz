@@ -28,7 +28,7 @@ title: 博客文章列表
 - [[blog posts/arrow|绿箭侠]]
 - [[blog posts/three body problem|三体问题]]
 - [[blog posts/spring festival movies 2024|2024春节观影]]
-- [[blog posts/The end of dceu|《海王2》与 DCEU 的终结]]
+- [[the end of dceu|《海王2》与 DCEU 的终结]]
 
 ### 2023
 
