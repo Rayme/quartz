@@ -1,1 +1,19 @@
 @use "./base.scss";
+
+/* 字间距与行间距微调（全局正文） */
+body {
+  line-height: 1.8;            // 你已设置，可保留
+  letter-spacing: 0.02em;      // 微调字距，适配中英文混排
+}
+
+/* 段落文字细调（可选） */
+.center p {
+  letter-spacing: 0.02em;
+  line-height: 1.8;
+}
+
+/* 标题不加字距，避免松散，可单独细调 */
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 0;
+  line-height: 1.4;
+}
