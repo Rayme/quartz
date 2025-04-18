@@ -21,7 +21,8 @@ Thyself
 
 最近更新
 
-- 0416 [[tao/index|《道德经》第16章至第20章]]
+- 0418 [[tao/index|《道德经》第21章、第24章]]
+- 0417 [[thoughts on vol 74|思考 AI]]，[[thoughts on vol 80|思考中文互联网]]
 - 0408 [[scarcity brain|《稀缺大脑》读后感]]
 - 0327 [[atomic habits|《掌控习惯》读后感]]
 

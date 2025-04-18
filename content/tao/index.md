@@ -28,6 +28,8 @@ title: 我读《道德经》
 - 通行版第18章 帛书版第62章 [[the loss of tao|故大道废案有仁义]]
 - 通行版第19章 帛书版第63章 [[pure and plain|见素抱朴少私寡欲]]
 - 通行版第20章 帛书版第64章 [[stay foolish|我愚人之心也]]
+- 通行版第21章 帛书版第65章 [[shape of the formless|孔德之容唯道是从]]
+- 通行版第24章 帛书版第66章 [[travel light|炊者不立]]
 
 - 通行版第63章 帛书版第26章 [[start small step|为无为事无事]]
 - 通行版第76章 帛书版第41章 [[soft and firm|人之生也柔弱]]
