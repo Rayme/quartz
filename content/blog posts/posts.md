@@ -1,13 +1,12 @@
 ---
-title: 博客文章列表
+title: 博客文章
 ---
-
 2025年50篇文章的目标，现在看来怕是有点难完成了。
 ## 分类
 
-- [[blog posts/city observe|城市观察三部曲]]
-- [[blog posts/damn wechat|我骂微信]]
-- [[movies and shows|影视剧观后感]]
+- [[city observe|城市观察系列]] | [[movies and shows|影视剧观后感]] 
+- [[digital life|科技生活]] | [[i love books|出版与印刷]] 
+- [[damn wechat|我骂微信]] 
 ## 日期倒序
 ### 2025
 
@@ -78,9 +77,71 @@ title: 博客文章列表
 - [[Nonviolent Communication|《非暴力沟通》书摘]]
 - [[spring festival faded|年味已消逝]]
 - [[bye 2019 hi 2020|再见 2019，2020 你好 吗？]]
+
+### 2019
+
+- [[rich dad poor dad|《富爸爸穷爸爸》书摘]]
+- [[experience on phones|提升智能手机用户体验的几点心得]]
+- [[aug 10 2015|2015年8月10日]]
+- [[national day|国庆二三事]]
+- [[whisper sept|九月梦呓]]
+- [[oneplus 7 pro|一加7 pro 使用体验]]
+- [[whisper august|八月梦呓]]
+- [[nezha|“我命由我不由天！是魔是仙我说了算！”]]
+- [[whisper july|七月梦呓]]
+- [[whisper june|六月梦呓]]
+- [[whisper may|五月梦呓]]
+- [[whisper april|四月梦呓]]
+- [[whisper march|三月梦呓]]
+- [[movie recently 2019|近日观影 2019]]
+- [[the taste of spring festival fades|年味渐消逝]]
+- [[bye 2018 hi 2019|再见 2018 你好 2019]]
+
 ### 2018
 
+- [[flypy|小鹤双拼5天体验]]
+- [[taylor swift|从村霉到电音霉]]
+- [[octalk|十月闲谈]]
+- [[a little complaint|一点牢骚]]
+- [[notes of the alchemist|《牧羊少年奇幻之旅》书摘]]
+- [[oneplus 6 review|一加6 使用体验]]
+- [[the future of china smartphones|未来旗舰和他们的未来]]
 - [[mcu ten years|漫威十年]]
+- [[bangkok and phuket in thai|泰国曼谷&普吉岛游记]]
+- [[the moon and sixpence|月亮与六便士]]
+- [[2018 untitled|无题2018]]
+- [[kobe and the nba after retired 2 years|科比和他退役两年后的NBA]]
+- [[shitty notches|垃圾“刘海屏”]]
+- [[three billboards black panther get out|三块广告牌、黑豹、逃出绝命镇]]
+- [[movies review in spring festival 2018|2018春节国产电影观后感]]
+- [[tiaoyitiao and zen|跳一跳与修行]]
+- [[memories of primary school|童年回忆录]]
+- [[the taste of spring festival|年味]]
+- [[wechat|微信的优与劣]]
+- [[if i did not touch that cat|如果那天晚上我没有在家楼下碰到那只野猫]]
+- [[social network anxiety|社交网络焦虑症]]
+- [[hi 2018|你好2018]]
 ### 2017
 
+- [[bye 2017|再见2017]]
+- [[loving vincent|至爱梵高]]
 - [[justice league i dont know about|一个让我看不懂的正义联盟]]
+- [[the restraint of devices|数码设备的断舍离]]
+- [[iphone x|顺电简单体验 iPhone X]]
+- [[the puzzle of cross border ecommerce|跨境电商的困境]]
+- [[lan|局域网]]
+- [[gpd pocket the best umpc|GPD Pocket 现代最强 UMPC？]]
+- [[2017 untitled|无题 2017]]
+- [[wonder woman|Wonder Woman: DC影业的翻身之作？]]
+- [[study since fifteen|吾十有五而志于学]]
+- [[nothing is true|菩提本无树]]
+- [[kobe and the nba after|科比和他退役后的NBA]]
+- [[3 6|3.6 凌晨至白天]]
+
+### 2016
+
+- [[16 7 22|16.7.22]]
+
+### 2015
+
+- [[8 3 8 10|8.3 8.10]]
