@@ -22,7 +22,7 @@ Thyself
 最近更新
 
 - 0421 [[city observe#城市观察三部曲|城市观察三部曲]]，[[city observe#年味三部曲|年味三部曲]]，[[posts|博客文章]]更新
-- 0418 [[tao/index|《道德经》第21章、第24章]]
+- 0418 [[tao/index|《道德经》第22章、第23章]]
 - 0417 [[thoughts on vol 74|思考 AI]]，[[thoughts on vol 80|思考中文互联网]]
 - 0408 [[scarcity brain|《稀缺大脑》读后感]]
 - 0327 [[atomic habits|《掌控习惯》读后感]]
@@ -38,3 +38,8 @@ Focus on [[like instead of want|what I like, not what I want]].
 [[the twelve foundations for a good life]] by Scott Young
 
 [[say because|say "because"]] by Nick Milo
+
+> Focus on the things you are for, not the things you are against.
+> Many people spend large chunks of their day thinking about what they hate. They are always telling you about something they dislike: this food, that subject, this political party, that coworker.
+> You are more than your frustrations. Build your identity around what you love.
+> \- [James Clear](https://jamesclear.com/3-2-1/april-17-2025) 
