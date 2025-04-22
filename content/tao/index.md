@@ -32,6 +32,7 @@ title: 我读《道德经》
 - 通行版第24章 帛书版第66章 [[travel light|炊者不立]]
 - 通行版第22章 帛书版第67章 [[less brings clarity|曲则全枉则正]]
 - 通行版第23章 帛书版第68章 [[let it be|希言自然]]
+- 通行版第25章 帛书版第69章 [[tao follows nature|道法自然]]
 
 - 通行版第63章 帛书版第26章 [[start small step|为无为事无事]]
 - 通行版第76章 帛书版第41章 [[soft and firm|人之生也柔弱]]
