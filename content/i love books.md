@@ -1,6 +1,9 @@
 ---
 title: 出版与印刷
 ---
+> [!quote] Francis Bacon
+> Reading maketh a full man; conference a ready man; and writing an exact man.
+
 - [[scarcity brain|稀缺大脑]]
 - [[atomic habits|掌控习惯]]
 - [[blog posts/the autobiography of benjamin franklin|《富兰克林自传》书摘]]
