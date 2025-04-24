@@ -21,11 +21,9 @@ Thyself
 
 最近更新
 
-- 0423 [[tao|《道德经》第26章]]
+- 0424 [[tao|《道德经》第29章]]
 - 0421 [[city observe#城市观察三部曲|城市观察三部曲]]，[[city observe#年味三部曲|年味三部曲]]，[[posts|博客文章]]更新
-- 0417 [[thoughts on vol 74|思考 AI]]，[[thoughts on vol 80|思考中文互联网]]
-- 0408 [[scarcity brain|《稀缺大脑》读后感]]
-- 0327 [[atomic habits|《掌控习惯》读后感]]
+- 0417 [[random thoughts|思考简中互联网和 AI]]
 
 ---
 
