@@ -21,7 +21,7 @@ Thyself
 
 最近更新
 
-- 0424 [[tao|《道德经》第29章]]
+- 0425 [[tao|《道德经》道经部分和分类]]，[[sleep better|睡眠相关]]
 - 0421 [[city observe#城市观察三部曲|城市观察三部曲]]，[[city observe#年味三部曲|年味三部曲]]，[[posts|博客文章]]更新
 - 0417 [[random thoughts|思考简中互联网和 AI]]
 
@@ -30,6 +30,8 @@ Thyself
 在风起云涌的互联网生态，如何[[filter sources|获取高质量的信息]]？对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，错过重要决策的窗口。
 
 在[[atomic habits|《掌控习惯》]]中，关于[[review and reflection|培养好习惯、回顾和反思]]，能够当作一种对任何状态下的自我提醒。
+
+睡眠是人的一天中最重要的事，尤其是对于能量少的人群。[[sleep better|拒绝熬夜，从我做起。]]
 
 Focus on [[like instead of want|what I like, not what I want]].
 
