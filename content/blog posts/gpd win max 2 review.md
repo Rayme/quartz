@@ -58,4 +58,4 @@ I can’t not think of more cons of the WM2 by now. I am going to use it longer 
 
 There is also a thumb fingerprint unlock function on the power button, right in the front of the device. But I find it not very sensitive, it doesn’t recognite my fingerprint everytime. So I mostly just type in my password.
 
-The speaker is better too. I watched some Youtube videos without headphones and it sounds nice. The speaker is better too. I watched some Youtube videos without headphones and it sounds nice. I didn’t even notice there is a fan spinning because of the fan is not loud at all.
+The speaker is better too. I watched some Youtube videos without headphones and it sounds nice. I didn’t even notice there is a fan spinning because of the fan is not loud at all.
