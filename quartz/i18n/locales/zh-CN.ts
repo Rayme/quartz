@@ -30,10 +30,10 @@ export default {
       darkMode: "暗色模式",
     },
     explorer: {
-      title: "探索",
+	title: "上下而求索",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "自豪地使用",
     },
     graph: {
       title: "关系图谱",
@@ -47,8 +47,8 @@ export default {
       linkToOriginal: "指向原始笔记的链接",
     },
     search: {
-      title: "搜索",
-      searchBarPlaceholder: "搜索些什么",
+      title: "落叶的位置",
+      searchBarPlaceholder: "谱出一首诗",
     },
     tableOfContents: {
       title: "目录",
