@@ -1,0 +1,13 @@
+---
+title: 创造更多，而不是消费
+date: 2025-04-30
+---
+刷社交媒体是消费，看影视剧是消费，阅读和听歌都是消费。
+
+写作和输出是创造，绘画是创造，做笔记和做一个产品都是创造。
+
+这二者同样都要消耗精力，精力是有限的，如同时间。花费更多资源在创造上，留下一些痕迹，而不是把资源分给平台。把控好自己的[生产资料](https://her.blue/bie-zai-rang-ping-tai-cao-kong-ni-ru-he-zai-suan-fa-shi-dai-bao-chi-qing-xing)。
+
+消费也可以一定程度转化成创造。例如阅读过的[[i love books|书籍]]、[[movies and shows|影视剧]]、社交媒体上的 thread，常常可以看到有价值的内容，结合自己已有的知识去生产，便成为了创造。
+
+ref: [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more) TJCX 这篇文章读完的当天我写下了[[taste of life|生活的味道]]

@@ -30,7 +30,7 @@ Thyself
 
 在风起云涌的互联网生态，如何[[filter sources|获取高质量的信息]]？对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，错过重要决策的窗口。
 
-注重[[manage your energy not your time|管理精力]]，而不是管理时间。
+注重[[manage your energy not your time|管理精力]]，而不是管理时间。更多地[[consume less create more|创造，而不是消费]]。
 
 在[[atomic habits|《掌控习惯》]]中，关于[[review and reflection|培养好习惯、回顾和反思]]，能够当作一种对任何状态下的自我提醒。
 
