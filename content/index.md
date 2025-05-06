@@ -10,7 +10,8 @@ title: 按钮与磁带
 航线
 
 - [[why this site|为什么会有这个站点]]
-- [[posts|博客文章]] | [[movies and shows|影视剧观后感]] | [[i love books|书籍读后感]]
+- [[posts|博客文章]]
+- [[movies and shows|影视剧观后感]] | [[i love books|书籍读后感]]
 - [[tao|道可道也]] 
 
 Thyself

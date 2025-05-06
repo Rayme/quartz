@@ -3,6 +3,7 @@ title: 科技生活
 ---
 ## 赛博社会
 
+- [[700 days after|七百天后]]
 - [[blog posts/my app defaults 2024|My App Defaults 2024]]
 - [[blog posts/15 questions on blogging|独立博客自省问卷15题]]
 - [[blog posts/learning french with duolingo|在多邻国无压学习法语100天]]

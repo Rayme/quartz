@@ -1,15 +1,16 @@
 ---
 title: 博客文章
 ---
-2025年50篇文章的目标，现在看来怕是有点难完成了。
+执笔无定法。
 ## 分类
 
-- [[city observe|城市观察系列]] | [[movies and shows|影视剧观后感]] 
+- [[city observe|城市观察]] | [[movies and shows|影视剧观后感]] 
 - [[digital life|科技生活]] | [[i love books|出版与印刷]] 
 - [[damn wechat|我骂微信]] 
 ## 日期倒序
 ### 2025
 
+- [[700 days after|七百天后]]
 - [[scarcity brain|稀缺大脑]]
 - [[atomic habits|掌控习惯]]
 - [[blog posts/nezha2|哪吒之魔童闹海]]

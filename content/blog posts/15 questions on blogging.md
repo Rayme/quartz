@@ -10,7 +10,7 @@ WordPress 要是可以 @ 别人点名提醒就好了。源：[独立博客自省
 
 ## 2. 你的博客上次更新是什么时候？
 
-2024年8月12日写了一篇[七月观影](https://imzm.im/july-2024-watched/)，也算不上新文章，而是[维基](https://jefftay.com/)里的[观影记录](https://jefftay.com/#Films)整理。
+2024年8月12日写了一篇[七月观影](https://imzm.im/july-2024-watched/)，也算不上新文章，而是[旧维基](https://wiki.imzm.im/#Films)里的观影记录整理。（注：现已转移至[[movies and shows|影视剧观后感]]）
 
 ## 3. 你的博客文章是原创的吗？
 
