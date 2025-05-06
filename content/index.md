@@ -10,7 +10,7 @@ title: 按钮与磁带
 航线
 
 - [[why this site|为什么会有这个站点]]
-- [[posts|博客文章]] | [[movies and shows|影视剧观后感]]
+- [[posts|博客文章]] | [[movies and shows|影视剧观后感]] | [[i love books|书籍读后感]]
 - [[tao|道可道也]] 
 
 Thyself
@@ -21,6 +21,7 @@ Thyself
 
 最近更新
 
+- 0506 [[cognitive awakening|《认知觉醒》读后感]]
 - 0427 [[manage your energy not your time|管理精力而不是时间]]
 - 0425 [[tao|《道德经》道经部分和分类]]，[[sleep better|睡眠相关]]
 - 0421 [[city observe#城市观察三部曲|城市观察三部曲]]，[[city observe#年味三部曲|年味三部曲]]，[[posts|博客文章]]更新

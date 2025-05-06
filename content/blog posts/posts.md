@@ -74,7 +74,7 @@ title: 博客文章
 - [[kobe and the world after he retired 4 years|科比和他退役四年后的世界]]
 - [[homo deus|《未来简史》书摘]]
 - [[waterloo bridge|魂断蓝桥]]
-- [[Nonviolent Communication|《非暴力沟通》书摘]]
+- [[nonviolent communication|《非暴力沟通》书摘]]
 - [[spring festival faded|年味已消逝]]
 - [[bye 2019 hi 2020|再见 2019，2020 你好 吗？]]
 
