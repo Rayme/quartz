@@ -22,9 +22,10 @@ Thyself
 
 最近更新
 
+- 0507 [[tao#德经|《道德经》第38章到第42章]]，[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
 - 0506 [[cognitive awakening|《认知觉醒》读后感]]
 - 0427 [[manage your energy not your time|管理精力而不是时间]]
-- 0425 [[tao|《道德经》道经部分和分类]]，[[sleep better|睡眠相关]]
+- 0425 [[sleep better|睡眠相关]]
 - 0421 [[city observe#城市观察三部曲|城市观察三部曲]]，[[city observe#年味三部曲|年味三部曲]]，[[posts|博客文章]]更新
 - 0417 [[random thoughts|思考简中互联网和 AI]]
 
@@ -38,7 +39,7 @@ Thyself
 
 睡眠是人的一天中最重要的事，尤其是对于能量少的人群。[[sleep better|拒绝熬夜，从我做起。]]
 
-Focus on [[like instead of want|what I like, not what I want]].
+Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
 
 [[the twelve foundations for a good life]] by Scott Young
 

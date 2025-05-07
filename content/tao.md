@@ -10,7 +10,6 @@ title: 我读《道德经》
 - 通行版：王弼《老子道德经注》
 
 ---
-
 ## 玄之又玄
 
 ### 众妙之门
@@ -23,6 +22,7 @@ title: 我读《道德经》
 - [[tao follows nature|道法自然]]
 - [[nameless tao|道恒无名]]
 - [[formless yet abundant|执大象天下往]]
+- [[formless tao|大方无隅]]
 
 ### 道之动
 
@@ -35,6 +35,8 @@ title: 我读《道德经》
 - [[force leads to loss|为者败之执者失之]]
 - [[becoming by not being|圣人之能成大也以其不为大也]]
 - [[guard with the uncarved|无名之朴]]
+- [[reversal in tao|反也者道之动也]]
+- [[tao brings forth|道生一]]
 
 ### 借道而行
 
@@ -57,9 +59,13 @@ title: 我读《道德经》
 - [[quit while ahead|善者果而已矣]]
 - [[inner over outer|知人者智也]]
 - [[bend to win|微明]]
+- [[true virtue|上德不德]]
+- [[start small step|为无为事无事]]
 
 ---
 ## 《道德经》目录
+
+章节按照通行版排序，按照帛书版为主研读。
 ### 道经
 
 - 通行版第1章 帛书版第45章 [[what is tao|道可道也非恒道也]]
@@ -102,5 +108,10 @@ title: 我读《道德经》
 
 ### 德经
 
+- 通行版第38章 帛书版第1章 [[true virtue|上德不德]]
+- 通行版第39章 帛书版第2章 [[one sustains all|硌硌若石]]
+- 通行版第40章 帛书版第4章 [[reversal in tao|反也者道之动也]]
+- 通行版第41章 帛书版第3章 [[formless tao|大方无隅]]
+- 通行版第42章 帛书版第5章 [[tao brings forth|道生一]]
 - 通行版第63章 帛书版第26章 [[start small step|为无为事无事]]
 - 通行版第76章 帛书版第41章 [[soft and firm|人之生也柔弱]]
