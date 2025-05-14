@@ -22,7 +22,8 @@ Thyself
 
 最近更新
 
-- 0507 [[tao#德经|《道德经》第38章到第42章]]，[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
+- 0514 [[tao#德经|《道德经》第43章到第48章]]
+- 0507[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
 - 0506 [[cognitive awakening|《认知觉醒》读后感]]
 - 0427 [[manage your energy not your time|管理精力而不是时间]]
 - 0425 [[sleep better|睡眠相关]]

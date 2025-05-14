@@ -10,6 +10,7 @@ title: 博客文章
 ## 日期倒序
 ### 2025
 
+- [[cognitive awakening|认知 觉醒了吗？]]
 - [[700 days after|七百天后]]
 - [[scarcity brain|稀缺大脑]]
 - [[atomic habits|掌控习惯]]

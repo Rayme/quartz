@@ -23,6 +23,7 @@ title: 我读《道德经》
 - [[nameless tao|道恒无名]]
 - [[formless yet abundant|执大象天下往]]
 - [[formless tao|大方无隅]]
+- [[softest yet strongest|天下之至柔]]
 
 ### 道之动
 
@@ -113,5 +114,11 @@ title: 我读《道德经》
 - 通行版第40章 帛书版第4章 [[reversal in tao|反也者道之动也]]
 - 通行版第41章 帛书版第3章 [[formless tao|大方无隅]]
 - 通行版第42章 帛书版第5章 [[tao brings forth|道生一]]
+- 通行版第43章 帛书版第6章 [[softest yet strongest|天下之至柔]]
+- 通行版第44章 帛书版第7章 [[be sufficient|知足不辱知止不殆]]
+- 通行版第45章 帛书版第8章 [[imperfect and humble|大成若缺]]
+- 通行版第46章 帛书版第9章 [[constant contentment|知足之足恒足矣]]
+- 通行版第47章 帛书版第10章 [[do without doing|不见而明弗为而成]]
+- 通行版第48章 帛书版第11章 [[doing by not doing|为学者日益闻道者日损]]
 - 通行版第63章 帛书版第26章 [[start small step|为无为事无事]]
 - 通行版第76章 帛书版第41章 [[soft and firm|人之生也柔弱]]

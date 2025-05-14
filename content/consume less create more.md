@@ -11,3 +11,8 @@ date: 2025-04-30
 消费也可以一定程度转化成创造。例如阅读过的[[i love books|书籍]]、[[movies and shows|影视剧]]、社交媒体上的 thread，常常可以看到有价值的内容，结合自己已有的知识去生产，便成为了创造。
 
 ref: [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more) TJCX 这篇文章读完的当天我写下了[[taste of life|生活的味道]]
+
+> The person who learns the most in any classroom is the teacher.
+> If you really want to learn a topic, then “teach” it. Write a book. Teach a class. Build a product. Start a company.
+> The act of making something will force you to learn more deeply than reading ever will.
+> \- [James Clear](https://jamesclear.com/3-2-1/may-8-2025)
