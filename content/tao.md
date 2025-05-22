@@ -38,6 +38,7 @@ title: 我读《道德经》
 - [[guard with the uncarved|无名之朴]]
 - [[reversal in tao|反也者道之动也]]
 - [[tao brings forth|道生一]]
+- [[nurture but do not rule|道生之而德畜之]]
 
 ### 借道而行
 
@@ -62,6 +63,8 @@ title: 我读《道德经》
 - [[bend to win|微明]]
 - [[true virtue|上德不德]]
 - [[start small step|为无为事无事]]
+- [[be kind and trust|圣人恒无心]]
+- [[to follow tao|天下有始]]
 
 ---
 ## 《道德经》目录
@@ -120,5 +123,9 @@ title: 我读《道德经》
 - 通行版第46章 帛书版第9章 [[constant contentment|知足之足恒足矣]]
 - 通行版第47章 帛书版第10章 [[do without doing|不见而明弗为而成]]
 - 通行版第48章 帛书版第11章 [[doing by not doing|为学者日益闻道者日损]]
+- 通行版第49章 帛书版第12章 [[be kind and trust|圣人恒无心]]
+- 通行版第50章 帛书版第13章 [[live as it is|出生入死]]
+- 通行版第51章 帛书版第14章 [[nurture but do not rule|道生之而德畜之]]
+- 通行版第52章 帛书版第15章 [[to follow tao|天下有始]]
 - 通行版第63章 帛书版第26章 [[start small step|为无为事无事]]
 - 通行版第76章 帛书版第41章 [[soft and firm|人之生也柔弱]]

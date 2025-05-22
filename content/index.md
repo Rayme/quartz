@@ -22,6 +22,7 @@ Thyself
 
 最近更新
 
+- 0522 [[tao#德经|《道德经》第49章到第52章]]，[[on practice|实践论]]
 - 0514 [[tao#德经|《道德经》第43章到第48章]]
 - 0507[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
 - 0506 [[cognitive awakening|《认知觉醒》读后感]]
@@ -34,7 +35,7 @@ Thyself
 
 在风起云涌的互联网生态，如何[[filter sources|获取高质量的信息]]？对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，错过重要决策的窗口。
 
-注重[[manage your energy not your time|管理精力]]，而不是管理时间。更多地[[consume less create more|创造，而不是消费]]。
+注重[[manage your energy not your time|管理精力]]，而不是管理时间。更多地[[consume less create more|创造，而不是消费]]。多动手[[on practice|实践]]，少停留在理论层面。
 
 在[[atomic habits|《掌控习惯》]]中，关于[[review and reflection|培养好习惯、回顾和反思]]，能够当作一种对任何状态下的自我提醒。
 
