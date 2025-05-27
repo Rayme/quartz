@@ -39,6 +39,8 @@ Thyself
 
 睡眠是人的一天中最重要的事，尤其是对于能量少的人群。[[sleep better|拒绝熬夜，从我做起。]]
 
+刻意减少 AI 的使用频率对于保护自己的思考过程有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者让 AI 帮助批判某一事物的特定视角。
+
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
 
 [[the twelve foundations for a good life]] by Scott Young
