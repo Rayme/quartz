@@ -127,5 +127,8 @@ title: 我读《道德经》
 - 通行版第50章 帛书版第13章 [[live as it is|出生入死]]
 - 通行版第51章 帛书版第14章 [[nurture but do not rule|道生之而德畜之]]
 - 通行版第52章 帛书版第15章 [[to follow tao|天下有始]]
+- 通行版第53章 帛书版第16章 [[the path of tao|大道甚夷]]
+- 通行版第54章 帛书版第17章 [[the root of all|以天下观天下]]
+- 通行版第55章 帛书版第18章 [[be pure and plain|含德之厚者比于赤子]]
 - 通行版第63章 帛书版第26章 [[start small step|为无为事无事]]
 - 通行版第76章 帛书版第41章 [[soft and firm|人之生也柔弱]]

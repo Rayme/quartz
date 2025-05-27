@@ -6,7 +6,7 @@ title: 出版与印刷
 
 20250520 阅读设备从【实体书 + 电脑 + Kindle + iPad mini + 手机】变成【实体书 + 手机】，可以更专注于特定几本书深入阅读，而不会被分散注意力。毕竟光手机上的书籍就已经有24本在读、254本未读。
 
-- 系统之美
+- [[thinking in systems|系统之美]]
 - [[cognitive awakening|认知觉醒]]
 - [[scarcity brain|稀缺大脑]]
 - [[atomic habits|掌控习惯]]

@@ -22,14 +22,12 @@ Thyself
 
 最近更新
 
-- 0522 [[tao#德经|《道德经》第49章到第52章]]，[[on practice|实践论]]
-- 0514 [[tao#德经|《道德经》第43章到第48章]]
+- 0527 [[tao#德经|《道德经》通行版至第55章]]，[[thinking in systems|《系统之美》读后感]]
+- 0522 [[on practice|实践论]]
 - 0507[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
 - 0506 [[cognitive awakening|《认知觉醒》读后感]]
 - 0427 [[manage your energy not your time|管理精力而不是时间]]
 - 0425 [[sleep better|睡眠相关]]
-- 0421 [[city observe#城市观察三部曲|城市观察三部曲]]，[[city observe#年味三部曲|年味三部曲]]，[[posts|博客文章]]更新
-- 0417 [[random thoughts|思考简中互联网和 AI]]
 
 ---
 
