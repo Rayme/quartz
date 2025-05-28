@@ -22,7 +22,9 @@ Thyself
 
 最近更新
 
-- 0527 [[tao#德经|《道德经》通行版至第55章]]，[[thinking in systems|《系统之美》读后感]]
+[[tao#德经|《道德经》通行版至第58章]]
+
+- 0527 [[thinking in systems|《系统之美》读后感]]
 - 0522 [[on practice|实践论]]
 - 0507[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
 - 0506 [[cognitive awakening|《认知觉醒》读后感]]

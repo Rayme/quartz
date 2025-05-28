@@ -16,3 +16,12 @@ ref: [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more
 > If you really want to learn a topic, then “teach” it. Write a book. Teach a class. Build a product. Start a company.
 > The act of making something will force you to learn more deeply than reading ever will.
 > \- [James Clear](https://jamesclear.com/3-2-1/may-8-2025)
+
+20250528 更新：
+
+> The hard part isn't knowing what to do; it's doing it daily, whether you feel like it or not.
+> 
+> The challenge isn't knowing you should work out; it's putting on your shoes and running in the cold when you'd rather sit at home under a warm blanket. The challenge isn't determining the most important project; it's sitting down and doing it when you'd rather browse social media.
+> 
+> If you're waiting for inspiration, you've already lost.
+> \- [FS](https://fs.blog/brain-food/october-27-2024)

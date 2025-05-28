@@ -130,5 +130,8 @@ title: 我读《道德经》
 - 通行版第53章 帛书版第16章 [[the path of tao|大道甚夷]]
 - 通行版第54章 帛书版第17章 [[the root of all|以天下观天下]]
 - 通行版第55章 帛书版第18章 [[be pure and plain|含德之厚者比于赤子]]
+- 通行版第56章 帛书版第19章 [[be humble and silence|知者弗言言者弗知]]
+- 通行版第57章 帛书版第20章 [[rule without interfence|以正治邦]]
+- 通行版第58章 帛书版第21章 [[fortune and misfortune|祸福之所倚]]
 - 通行版第63章 帛书版第26章 [[start small step|为无为事无事]]
 - 通行版第76章 帛书版第41章 [[soft and firm|人之生也柔弱]]
