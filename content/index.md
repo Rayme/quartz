@@ -22,14 +22,14 @@ Thyself
 
 最近更新
 
-[[tao#德经|《道德经》通行版至第58章]]
+[[tao#德经|《道德经》通行版至第64章]]
 
+- 0603 [[thunderbolts|《雷霆特攻队*》观后感]]，[[random thoughts|要多想]]
 - 0527 [[thinking in systems|《系统之美》读后感]]
 - 0522 [[on practice|实践论]]
 - 0507[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
 - 0506 [[cognitive awakening|《认知觉醒》读后感]]
 - 0427 [[manage your energy not your time|管理精力而不是时间]]
-- 0425 [[sleep better|睡眠相关]]
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: The Twelve Foundations for a Good Life
-date:
+date: 2024-07-19
 ---
 [Scott Young](https://www.scotthyoung.com/blog/2024/07/09/the-twelve-foundations-for-a-good-life/)
 
