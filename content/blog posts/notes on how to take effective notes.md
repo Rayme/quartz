@@ -1,6 +1,8 @@
 ---
 title: 从《笔记的方法》中学到的笔记的方法
 date: 2023-11-28
+tags:
+  - books
 ---
 [flomo](https://flomoapp.com) 两位作者刘少楠和刘白光的新书[《笔记的方法》](https://book.douban.com/subject/36615020)于十月底发布，我用一个多月时间边读边实践，总阅读时间接近6个小时。仔细读完全书，获得一些心得和可以马上实践的纲领。感谢[小胡同学](https://yinji.org/5178.html)的赠送。
 

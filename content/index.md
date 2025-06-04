@@ -7,20 +7,20 @@ title: 按钮与磁带
 
 ---
 
-航线
+## 航线
 
 - [[why this site|为什么会有这个站点]]
-- [[posts|博客文章]]
-- [[movies and shows|影视剧观后感]] | [[i love books|书籍读后感]]
-- [[tao|道可道也]] 
+- [[posts|博客文章]] | [[movies and shows|影视剧观后感]] | [[i love books|书籍读后感]]
+- [[tao|道可道也]]
+- [[quotes from others|他们如是说]]
 
-Thyself
+## Thyself
 
+- [[random thoughts|要多想]]
 - [[about me|关于我]]
 - [[now|我最近在做什么]]
-- [[random thoughts|要多想]]
 
-最近更新
+## 最近更新
 
 [[tao#德经|《道德经》通行版至第64章]]
 

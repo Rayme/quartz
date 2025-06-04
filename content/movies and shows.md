@@ -46,3 +46,21 @@ date: 2025-04-01
 - 0127 [[the wandering earth 2|流浪地球2]] 📽️
 
 2023年之前，许多看过的好电影都没有留下记录。以后若重温再酌情添加。
+
+## 2020
+
+- 1215 [[what i am thinking while i am idle#后翼弃兵|后翼弃兵]]
+- xxxx [[welcome back to the cinema#1917|1917]] 📽️
+- 0906 [[welcome back to the cinema#信条|信条]] 📽️
+- 0318 [[waterloo bridge|魂断蓝桥]]
+
+## 2018
+
+- 0427 [[mcu ten years|复仇者联盟：无限战争]] 📽️
+- xxxx [[three billboards black panther get out#三块广告牌|三块广告牌]] 📽️
+- xxxx [[three billboards black panther get out#逃出绝命镇|逃出绝命镇]]
+- 0218 [[movies review in spring festival 2018#《红海行动》|红海行动]] 📽️
+
+## 2017
+
+- 1212 [[loving vincent|至爱梵高]] 📽️

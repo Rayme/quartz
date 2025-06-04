@@ -50,6 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
 	}),
   ],
   right: [
+	Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
 	Component.Backlinks({ title: "反向链接" }),
   ],

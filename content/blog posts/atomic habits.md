@@ -1,6 +1,8 @@
 ---
 title: 掌控习惯
 date: 2025-03-27
+tags:
+  - books
 ---
 我订阅了 James Clear 的 [The 3-2-1 Newsletter](https://jamesclear.com/3-2-1)，每周四固定发一篇心灵鸡汤给我，其中包含：3 Ideas From Me(James Clear)，2 Quotes From Others，1 Questions For You，老实说我很少能在这上面获得非常有价值的内容。两年多下来，这些订阅邮件能让我感受到触动并记录下来的不过区区十几条。后来我发现 James Clear 写过一本书叫做 _Atomic Habits_，中文名《掌控习惯》，于是花了两个多月时间、共7个小时仔细读完，并做下不少笔记。不得不说，James Clear 在一本书内讲的内容价值，于我而言远远超过他每周一篇鸡汤。
 

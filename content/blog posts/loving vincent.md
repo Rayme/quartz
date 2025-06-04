@@ -1,6 +1,8 @@
 ---
 title: 至爱梵高
 date: 2017-12-14
+tags:
+  - movies
 ---
 > Now I understand
 > What you tried to say to me
