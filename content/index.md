@@ -7,29 +7,26 @@ title: 按钮与磁带
 
 ---
 
-## 航线
+## 航线 ⚓
 
 - [[why this site|为什么会有这个站点]]
 - [[posts|博客文章]] | [[movies and shows|影视剧观后感]] | [[i love books|书籍读后感]]
 - [[tao|道可道也]]
 - [[quotes from others|他们如是说]]
-
-## Thyself
+## Thyself 💭
 
 - [[random thoughts|要多想]]
 - [[about me|关于我]]
 - [[now|我最近在做什么]]
+## 最近更新 🗞️
 
-## 最近更新
-
-[[tao#德经|《道德经》通行版至第64章]]
-
-- 0603 [[thunderbolts|《雷霆特攻队*》观后感]]，[[random thoughts|要多想]]
+- 0605 [[ai|AI]] [[siddhartha|人人都是悉达多]]
+- 0604 [[tao|我读《道德经》]] [[quotes from others|他们如是说]]
+- 0603 [[thunderbolts|《雷霆特攻队*》观后感]] [[random thoughts|要多想]] [[strange stories from metro|地铁怪谈]]
 - 0527 [[thinking in systems|《系统之美》读后感]]
 - 0522 [[on practice|实践论]]
 - 0507[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
 - 0506 [[cognitive awakening|《认知觉醒》读后感]]
-- 0427 [[manage your energy not your time|管理精力而不是时间]]
 
 ---
 
@@ -41,7 +38,7 @@ title: 按钮与磁带
 
 睡眠是人的一天中最重要的事，尤其是对于能量少的人群。[[sleep better|拒绝熬夜，从我做起。]]
 
-刻意减少 AI 的使用频率对于保护自己的思考过程有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者让 AI 帮助批判某一事物的特定视角。
+刻意减少 [[ai|AI]] 的使用频率对于保护自己的思考过程有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者让 AI 帮助批判某一事物的特定视角。
 
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
 

@@ -10,6 +10,7 @@ title: 博客文章
 ## 日期倒序
 ### 2025
 
+- [[siddhartha|人人都是悉达多]]
 - [[strange stories from metro|地铁怪谈]]
 - [[cognitive awakening|认知 觉醒了吗？]]
 - [[700 days after|七百天后]]

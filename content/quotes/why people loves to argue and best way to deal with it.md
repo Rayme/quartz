@@ -1,6 +1,8 @@
 ---
 title: Why people loves to argue and best way to deal with it
 date: 2023-10-16
+tags:
+  - quotes
 ---
 2021-08-24 [Nanette Litya](https://thelowdown.momentum.asia/why-people-loves-to-argue-and-best-way-to-deal-with-it)
 

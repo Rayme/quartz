@@ -8,3 +8,5 @@ title: 他们如是说
 - [[hidden costs of success]] James Clear
 - [[perfection is impossible]] Roger Federer
 - [[smaller surface area]] FS
+- [[like instead of want]] James Clear
+- [[why people loves to argue and best way to deal with it]] Nanette Litya

@@ -27,6 +27,7 @@ title: 我读《道德经》
 - [[softest yet strongest|天下之至柔]]
 - [[the path of tao|大道甚夷]]
 - [[tao sees equally|道者万物之注也]]
+- [[soft and firm|人之生也柔弱]]
 
 ### 道之动
 
@@ -43,6 +44,8 @@ title: 我读《道德经》
 - [[tao brings forth|道生一]]
 - [[nurture but do not rule|道生之而德畜之]]
 - [[fortune and misfortune|祸福之所倚]]
+- [[bow is like tao|天之道损有余而补不足]]
+- [[softness overcomes hardness|天下莫柔弱于水]]
 
 ### 借道而行
 
@@ -74,3 +77,6 @@ title: 我读《道德经》
 - [[be humble and silence|知者弗言言者弗知]]
 - [[start small step|为无为事无事]]
 - [[grasp small things|百仞之高始于足下]]
+- [[treasures of tao|我恒有三宝持而宝之]]
+- [[know nothing|知不知尚矣]]
+- [[the way of tao|人之道为而弗争]]
