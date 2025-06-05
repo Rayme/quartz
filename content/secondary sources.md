@@ -16,33 +16,33 @@ date: 2024-01-16
 
 > a lot of the times laymen (and everyone is a layman in at least one field) do not have the expertise to evaluate that. Sometimes, the best way to confirm the reliability secondary source is to just read a lot of other secondary sources.
 > 
-> If you give somebody a primary source that is a snippet of text and expect them to come up with something that makes sense, instead of a tertiary source that has written to educate and explain, they’re going to have a rough time.
+> If you give somebody a primary source that is a snippet of text and expect them to come up with something that makes sense, instead of a tertiary source that has written to educate and explain, they're going to have a rough time.
 
 关于如何评估信源的权威性，以及关于维基百科的想法：
 
 > How do you find sources you can trust? How can you evaluate information without devoting your entire life to becoming an expert in every subject you have any interest in whatsoever?
 > 
-> To keep beating this drum — **sometimes you need secondary and tertiary sources**. I would argue that starting with Wikipedia is actually the most logical and sensible starting place, despite the average educator’s habit of declaring Wikipedia absolutely verboten. It’s to the point where I’ve had students straight-faced tell me Wikipedia is obviously worse than whatever they get from the first result on Google. **Wikipedia, however, offers a decent overview of the state of play — which allows you to decide how to spend your time and whether to chase it all the way down to primary sources.**
+> To keep beating this drum — **sometimes you need secondary and tertiary sources**. I would argue that starting with Wikipedia is actually the most logical and sensible starting place, despite the average educator's habit of declaring Wikipedia absolutely verboten. It's to the point where I've had students straight-faced tell me Wikipedia is obviously worse than whatever they get from the first result on Google. **Wikipedia, however, offers a decent overview of the state of play — which allows you to decide how to spend your time and whether to chase it all the way down to primary sources.**
 
 媒体、学者等权威信源仍有其局限性，必须通过自身经验去判断真实性：
 
-> Journals aren’t typically punished for publishing bad papers, universities sometimes outright refuse to investigate blatant frauds, and academics are pressured to publish regardless of publication quality. Journalists are **incentivized to publish sensational things**. Propaganda outlets are trying to get people to buy into a particular worldview, for whatever reason. This doesn’t automatically mean they’re lying or that the information is wrong (a man going into space can be sensational and true), but it does raise the bar for a double-check.
+> Journals aren't typically punished for publishing bad papers, universities sometimes outright refuse to investigate blatant frauds, and academics are pressured to publish regardless of publication quality. Journalists are **incentivized to publish sensational things**. Propaganda outlets are trying to get people to buy into a particular worldview, for whatever reason. This doesn't automatically mean they're lying or that the information is wrong (a man going into space can be sensational and true), but it does raise the bar for a double-check.
 > 
-> If someone makes a claim that you feel inclined to repeat, **triple-check it**. There aren’t enough man-hours to confirm everything you read, whether it matches your pre-existing biases (and everybody has them, they’re a natural consequence of having a knowledge base) or not.
+> If someone makes a claim that you feel inclined to repeat, **triple-check it**. There aren't enough man-hours to confirm everything you read, whether it matches your pre-existing biases (and everybody has them, they're a natural consequence of having a knowledge base) or not.
 > 
 > ...
 > 
-> just because a claim was published in a respected textbook that was recommended by an actual historian doesn’t mean that every other historian agrees with it.
+> just because a claim was published in a respected textbook that was recommended by an actual historian doesn't mean that every other historian agrees with it.
 
 或者通过阅读更多更广来磨练自己的直觉。
 
 在看到争论时，判断他们言论的适用范围，信源的作者，加入这个讨论的核心原因，以及讨论中的其他人都在说什么。
 
-> I recommend trying to **read widely**, because it will help hone your instincts. If somebody makes a claim that doesn’t “feel” right, track it down. But even if you have no context to evaluate the truth of a particular claim, you can **evaluate how broad the claim is**.
+> I recommend trying to **read widely**, because it will help hone your instincts. If somebody makes a claim that doesn't “feel” right, track it down. But even if you have no context to evaluate the truth of a particular claim, you can **evaluate how broad the claim is**.
 > 
 > ...
 > 
-> **Find out what other people say**. This is good practice anyway, because even people who aren’t trying to peddle bigotry and nonsense are often wrong because of perfectly normal biases that aren’t, like, awful. （很难的长难句）
+> **Find out what other people say**. This is good practice anyway, because even people who aren't trying to peddle bigotry and nonsense are often wrong because of perfectly normal biases that aren't, like, awful. （很难的长难句）
 > 
 > ... pay attention to **who created the source**.
 > 
@@ -56,4 +56,4 @@ date: 2024-01-16
 
 关于 Learn in public 的一个思路：
 
-> You can’t do this kind of rigorous fact-checking for everything, so a good rule of thumb is to **consider the return on investment** (ROI) .
+> You can't do this kind of rigorous fact-checking for everything, so a good rule of thumb is to **consider the return on investment** (ROI) .

@@ -1,6 +1,8 @@
 ---
 title: About Fluid Thinking
 date: 2024-01-29
+tags:
+  - quotes
 ---
 From Mental Tune-Up #3 by [Nick Milo](https://www.linkingyourthinking.com/)
 

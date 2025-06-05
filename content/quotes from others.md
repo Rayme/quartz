@@ -10,3 +10,6 @@ title: 他们如是说
 - [[smaller surface area]] FS
 - [[like instead of want]] James Clear
 - [[why people loves to argue and best way to deal with it]] Nanette Litya
+- [[focus on the things you are for]] James Clear
+- [[the twelve foundations for a good life]] Scott Young
+- [[say because]] Nick Milo

@@ -20,9 +20,9 @@ title: 按钮与磁带
 - [[now|我最近在做什么]]
 ## 最近更新 🗞️
 
-- 0605 [[ai|AI]] [[siddhartha|人人都是悉达多]]
-- 0604 [[tao|我读《道德经》]] [[quotes from others|他们如是说]]
-- 0603 [[thunderbolts|《雷霆特攻队*》观后感]] [[random thoughts|要多想]] [[strange stories from metro|地铁怪谈]]
+- 0605 [[ai|AI]]，[[siddhartha|人人都是悉达多]]
+- 0604 [[tao|我读《道德经》]]，[[quotes from others|他们如是说]]
+- 0603 [[thunderbolts|《雷霆特攻队*》观后感]]，[[random thoughts|要多想]]，[[strange stories from metro|地铁怪谈]]
 - 0527 [[thinking in systems|《系统之美》读后感]]
 - 0522 [[on practice|实践论]]
 - 0507[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
@@ -42,11 +42,4 @@ title: 按钮与磁带
 
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
 
-[[the twelve foundations for a good life]] by Scott Young
-
 [[say because|say "because"]] by Nick Milo
-
-> Focus on the things you are for, not the things you are against.
-> Many people spend large chunks of their day thinking about what they hate. They are always telling you about something they dislike: this food, that subject, this political party, that coworker.
-> You are more than your frustrations. Build your identity around what you love.
-> \- [James Clear](https://jamesclear.com/3-2-1/april-17-2025) 
