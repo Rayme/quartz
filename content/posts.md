@@ -10,6 +10,7 @@ title: 博客文章
 ## 日期倒序
 ### 2025
 
+- [[thinking in systems|与系统共舞]]
 - [[siddhartha|人人都是悉达多]]
 - [[strange stories from metro|地铁怪谈]]
 - [[cognitive awakening|认知 觉醒了吗？]]
@@ -45,7 +46,7 @@ title: 博客文章
 - [[blog posts/how i observe a blog|我怎么看博客]]
 - [[blog posts/my writing rules|写作排版习惯变迁]]
 - [[movies and shows watched recently 2023|近日观影2023]]
-- [[blog posts/gpd win max 2 review|GPD Win Max Review]]
+- [[blog posts/gpd win max 2 review|GPD Win Max 2 Review]]
 - [[blog posts/how i change about using pc|近期使用电脑的一些习惯改变]]
 - [[blog posts/how to host a nodejs version tiddlywiki|如何在服务器上部署一个基于 Node.js 的 TiddlyWiki]]
 
