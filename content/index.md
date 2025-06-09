@@ -20,7 +20,7 @@ title: 按钮与磁带
 - [[now|我最近在做什么]]
 ## 最近更新 🗞️
 
-- 0609 [[thinking in systems|《系统之美》读后感]]
+- 0609 [[thinking in systems|《系统之美》读后感]]，[[create orginal works|原创写作瓶颈和外部化]]
 - 0605 [[ai|AI]]，[[siddhartha|人人都是悉达多]]
 - 0604 [[tao|我读《道德经》]]，[[quotes from others|他们如是说]]
 - 0603 [[thunderbolts|《雷霆特攻队*》观后感]]，[[random thoughts|要多想]]，[[strange stories from metro|地铁怪谈]]

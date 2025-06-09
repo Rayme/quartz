@@ -4,6 +4,7 @@ title: 要多想
 
 ## 2025
 
+- 0609 [[create orginal works|原创写作瓶颈和外部化]]
 - 0507 [[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
 - 0430 [[consume less create more|创造更多，而不是消费]]
 - 0429 [[manage your energy not your time|管理精力，而不是管理时间]]
