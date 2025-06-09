@@ -19,4 +19,4 @@ title: 出版与印刷
 - [[nonviolent communication|《非暴力沟通》]]
 - [[rich dad poor dad|《富爸爸穷爸爸》]]
 - [[notes of the alchemist|《牧羊少年奇幻之旅》]]
-- [[the moon and sixpence|《月亮与六便士>]]
+- [[the moon and sixpence|《月亮与六便士》]]
