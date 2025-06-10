@@ -22,11 +22,11 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: false,
+      cdnCaching: true,
       typography: {
-        header: "sans-serif",
-        body: "sans-serif",
-        code: "Consolas",
+        header: "Noto Sans CJK",
+        body: "Noto Sans CJK",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
