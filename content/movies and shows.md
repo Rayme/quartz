@@ -50,8 +50,8 @@ date: 2025-04-01
 ## 2020
 
 - 1215 [[what i am thinking while i am idle#后翼弃兵|后翼弃兵]]
-- xxxx [[welcome back to the cinema#1917|1917]] 📽️
-- 0906 [[welcome back to the cinema#信条|信条]] 📽️
+- xxxx [[welcome back to the cinema 2020#1917|1917]] 📽️
+- 0906 [[welcome back to the cinema 2020#信条|信条]] 📽️
 - 0318 [[waterloo bridge|魂断蓝桥]]
 
 ## 2018

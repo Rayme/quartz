@@ -1,5 +1,5 @@
 ---
-title: 2024近日观影
+title: 2024 近日观影
 date: 2024-12-19
 tags:
   - movies

@@ -20,15 +20,16 @@ title: 按钮与磁带
 - [[now|我最近在做什么]]
 ## 最近更新 🗞️
 
-- 0609 [[thinking in systems|《系统之美》读后感]]，[[create orginal works|原创写作瓶颈和外部化]]
-- 0605 [[ai|AI]]，[[siddhartha|人人都是悉达多]]
-- 0604 [[tao|我读《道德经》]]，[[quotes from others|他们如是说]]
-- 0603 [[thunderbolts|《雷霆特攻队*》观后感]]，[[random thoughts|要多想]]，[[strange stories from metro|地铁怪谈]]
-- 0522 [[on practice|实践论]]
-- 0507[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
-- 0506 [[cognitive awakening|《认知觉醒》读后感]]
+> [!example]- 收束
+> 
+> - 0609 [[thinking in systems|《系统之美》读后感]]，[[create orginal works|原创写作瓶颈和外部化]]
+> - 0605 [[ai|AI]]，[[siddhartha|人人都是悉达多]]
+> - 0604 [[tao|我读《道德经》]]，[[quotes from others|他们如是说]]
+> - 0603 [[thunderbolts|《雷霆特攻队*》观后感]]，[[random thoughts|要多想]]，[[strange stories from metro|地铁怪谈]]
+> - 0522 [[on practice|实践论]]
+> - 0507[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
+> - 0506 [[cognitive awakening|《认知觉醒》读后感]]
 
----
 
 在风起云涌的互联网生态，如何[[filter sources|获取高质量的信息]]？对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，错过重要决策的窗口。
 
@@ -41,5 +42,3 @@ title: 按钮与磁带
 刻意减少 [[ai|AI]] 的使用频率对于保护自己的思考过程有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者让 AI 帮助批判某一事物的特定视角。
 
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
-
-[[say because|say "because"]] by Nick Milo

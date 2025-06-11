@@ -4,6 +4,7 @@ title: 要多想
 
 ## 2025
 
+- 0611 [[do now pages archive needed|Now pages 需要归档吗？]]
 - 0609 [[create orginal works|原创写作瓶颈和外部化]]
 - 0507 [[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
 - 0430 [[consume less create more|创造更多，而不是消费]]

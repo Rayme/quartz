@@ -47,6 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
 	order: ["date"],
+	folderDefaultState: "collapsed",
 	}),
   ],
   right: [
