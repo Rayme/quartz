@@ -21,12 +21,12 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "local",
       cdnCaching: false,
       typography: {
-        header: "Noto Sans SC",
-        body: "Noto Sans SC",
-        code: "JetBrains Mono",
+        header: "Noto Sans SC Variable",
+        body: "Noto Sans SC Variable",
+        code: "Fira Mono",
       },
       colors: {
         lightMode: {
