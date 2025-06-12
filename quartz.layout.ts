@@ -14,10 +14,6 @@ head: Component.Head({
       rel: "stylesheet",
       href: "https://cdn.jsdelivr.net/npm/@fontsource/jetbrains-mono/index.css",
     },
-	{
-	  rel: "stylesheet",
-	  href: "https://chinese-fonts-cdn.deno.dev/packages/syst/dist/SourceHanSerifCN/result.css",
-	},
   ],
 }),
   header: [],
