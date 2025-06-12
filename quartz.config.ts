@@ -26,7 +26,7 @@ const config: QuartzConfig = {
       typography: {
         header: "SourceHanSerifCN",
         body: "SourceHanSerifCN",
-        code: "Fira Mono",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
