@@ -22,7 +22,7 @@ title: 科技生活
 - [[blog posts/oneplus ace 2 pro|一加 Ace 2 Pro 使用体验]]
 - [[oneplus 8t|一加8T 使用体验]]
 - [[oneplus 7 pro|一加7 pro 使用体验]]
-- [[blog posts/gpd win max 2 review|GPD Win Max Review]]
+- [[blog posts/gpd win max 2 review|GPD Win Max 2 Review]]
 - [[experience on phones|提升智能手机用户体验的几点心得]]
 - [[oneplus 6 review|一加6 使用体验]]
 - [[the future of china smartphones|未来旗舰和他们的未来]]
