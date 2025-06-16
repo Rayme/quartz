@@ -38,7 +38,7 @@ date: 2025-04-01
 - 1005 [[the equalizer 3|伸冤人3]]
 - 0903 [[oppenheimer|奥本海默]] 📽️
 - 0718 [[election 2|黑社会以和为贵]]
-- 0714 [[mission impossible 7|碟中谍：致命清算7]] 📽️
+- 0714 [[mission impossible 7|碟中谍7：致命清算]] 📽️
 - 0630 [[barry|Barry]]
 - 0524 [[john wick chapter 4|疾速追杀4]]
 - 0505 [[movies and shows watched recently 2023#银河护卫队3|银河护卫队3]] 📽️
