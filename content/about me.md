@@ -11,6 +11,8 @@ date: 2025-06-11
 - zm.rayme at gmail.com
 - x@raymekee
 
+本站点暂无评论区，如欲留言请移步[博客关于页](https://imzm.im/about)
+
 ---
 
 > [!quote] \-

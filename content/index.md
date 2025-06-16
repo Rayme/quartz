@@ -7,6 +7,7 @@ title: 按钮与磁带
 
 > [!tip]- 最近更新 🗞️
 > 
+> - 0617 [[ballerina|《芭蕾杀姬》观后感]]
 > - 0609 [[thinking in systems|《系统之美》读后感]]，[[create orginal works|原创写作瓶颈和外部化]]
 > - 0605 [[ai|AI]]，[[siddhartha|人人都是悉达多]]
 > - 0604 [[tao|我读《道德经》]]，[[quotes from others|他们如是说]]

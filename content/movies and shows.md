@@ -10,6 +10,8 @@ date: 2025-04-01
 
 ## 2025
 
+- 0614 [[ballerina|芭蕾杀姬]] 📽️
+- 0607 碟中谍8：最终清算 📽️
 - 0518 [[thunderbolts|雷霆特攻队*]] 📽️
 - 0225 [[the gorge|峡谷]]
 - 0129 [[nezha2|哪吒之魔童闹海]] 📽️
@@ -36,7 +38,7 @@ date: 2025-04-01
 - 1005 [[the equalizer 3|伸冤人3]]
 - 0903 [[oppenheimer|奥本海默]] 📽️
 - 0718 [[election 2|黑社会以和为贵]]
-- 0714 [[mission impossible 7|碟中谍7]] 📽️
+- 0714 [[mission impossible 7|碟中谍：致命清算7]] 📽️
 - 0630 [[barry|Barry]]
 - 0524 [[john wick chapter 4|疾速追杀4]]
 - 0505 [[movies and shows watched recently 2023#银河护卫队3|银河护卫队3]] 📽️
