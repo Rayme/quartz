@@ -23,10 +23,13 @@ date: 2025-04-01
 	- 2025年4月5日，去电影院再看了一遍《破·地狱：感恩特别版》，时间延长到140分钟，增加了一些剧情完善人物。
 - 1126 [[two movies and three shows 2024#英雄联盟：双城之战第二季|双城之战第二季]]
 - 1114 [[two movies and three shows 2024#企鹅人|企鹅人]]
+- 0902 [[the god of cookery|食神]] 📽️
+- 0822 [[furiosa|疯狂的麦克斯：狂暴女神]]
 - 0726 [[july 2024 watched#死侍与金刚狼|死侍与金刚狼]]
 - 0722 [[july 2024 watched#洛基第二季|洛基第二季]]
 - 0720 [[july 2024 watched#黑袍纠察队第四季|黑袍纠察队第四季]]
 - 0714 [[vintage point|刺杀据点]]
+- 0502 [[twilight of the warriors|九龙城寨之围城]] 📽️
 - 0501 [[howls moving castle|哈尔的移动城堡]] 📽️
 - 0427 [[good will hunting|心灵捕手]]
 - 0212 [[spring festival movies 2024#飞驰人生2|飞驰人生2]] 📽️
