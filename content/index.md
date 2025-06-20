@@ -7,6 +7,7 @@ title: 按钮与磁带
 
 > [!tip]- 最近更新 🗞️
 > 
+> - 0620 [[movies and shows|影视剧观后感清单]]，[[notetaking|笔记相关页面]]，[[my note taking rules|我的笔记方法]]，[[obsidian|Obsidian]]，[[tiddlywiki|TiddlyWiki]]
 > - 0617 [[ballerina|《芭蕾杀姬》观后感]]
 > - 0609 [[thinking in systems|《系统之美》读后感]]，[[create orginal works|原创写作瓶颈和外部化]]
 > - 0605 [[ai|AI]]，[[siddhartha|人人都是悉达多]]
@@ -21,6 +22,8 @@ title: 按钮与磁带
 注重[[manage your energy not your time|管理精力]]，而不是管理时间。更多地[[consume less create more|创造，而不是消费]]。多动手[[on practice|实践]]，少停留在理论层面。
 
 在[[atomic habits|《掌控习惯》]]中，关于[[review and reflection|培养好习惯、回顾和反思]]，能够当作一种对任何状态下的自我提醒。
+
+一套好的[[notetaking|记笔记方法]]能够帮助我们更好地执行上述这些工作。
 
 睡眠是人的一天中最重要的事，尤其是对于能量少的人群。[[sleep better|拒绝熬夜，从我做起。]]
 
@@ -41,6 +44,6 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
 
 ## Thyself 💭
 
-- [[about me|关于我]]
 - [[now|我最近在做什么]]
+- [[about me|关于我]]
 - [[why this site|为什么会有这个站点]]

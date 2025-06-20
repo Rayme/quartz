@@ -38,8 +38,11 @@ date: 2025-04-01
 
 - 1118 [[bohemian rhapsody|波西米亚狂想曲]]
 - 1028 [[scent of a woman|闻香识女人]]
+- 1007 [[the continental|大陆酒店]]
 - 1005 [[the equalizer 3|伸冤人3]]
+- 0930 [[gran turismo|GT赛车：极速狂飙]]
 - 0903 [[oppenheimer|奥本海默]] 📽️
+- 0813 [[spiderman across the spider verse|蜘蛛侠：纵横宇宙]]
 - 0718 [[election 2|黑社会以和为贵]]
 - 0714 [[mission impossible 7|碟中谍7：致命清算]] 📽️
 - 0630 [[barry|Barry]]
