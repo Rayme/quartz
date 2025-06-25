@@ -8,7 +8,7 @@ head: Component.Head({
   links: [
     {
       rel: "stylesheet",
-      href: "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans-sc/index.css",
+      href: "https://cdn.jsdelivr.net/npm/misans-webfont/misans-style.css",
     },
     {
       rel: "stylesheet",

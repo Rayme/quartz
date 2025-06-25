@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "local",
       cdnCaching: false,
       typography: {
-        header: "Noto Sans SC",
-        body: "Noto Sans SC",
+        header: "Misans Normal",
+        body: "Misans Bold",
         code: "JetBrains Mono",
       },
       colors: {
