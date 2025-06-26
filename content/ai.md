@@ -12,6 +12,7 @@ date: 2025-06-05
 ---
 ## 1H25
 
+- 2025-06-26 今天 Google 发布了 [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent)，从[量子位](https://www.qbitai.com/2025/06/301735.html)和其他渠道可知，这又是谷歌一次王炸产品发布，重点集中在强大、开源和超高的免费 token 额度。我马上在 [GitHub](https://github.com/google-gemini/gemini-cli) 上 star 了这个项目，然后跟随[段小草的方案](https://zhuanlan.zhihu.com/p/1921330328833857501)设置了一番体验。
 - 2025-03-07 春节期间，DeepSeek R1 的低成本高性能迫使其他厂商不是纷纷接入 DeepSeek 就是把自己大语言模型开源，Sam Altman 甚至直接说自己站在历史错误的一边。随之而来的是各类人士对 DeepSeek 表示反感，就如同他们过去对其他类似产品表示反感一样。前一天（3月6日）另一款产品 Manus 又是一夜之间爆火，还没来得及看看它的样子，邀请码已经炒到几万一个。稍加搜索，Manus 是“是一个通用的AI代理”（AI Agent），能自己上手做事情。它并非市面第一家，如今这么大的热度有些不太正常。
 - 2025-02-02 自去年圣诞以来，AI 行业又经历一轮大爆发：DeepSeek 接连发布 V3 和 R1。尤其是后者，使用下来效果惊人，公开的思考过程、低廉的部署成本、开源以及无使用门槛大大地给整个 AI 行业祛魅，换来的是硅谷地震，原始 AI 龙头紧急发布各种通报。
 ## 2H24
