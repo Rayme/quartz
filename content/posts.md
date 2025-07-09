@@ -9,6 +9,7 @@ title: 博客文章
 ## 日期倒序
 ### 2025
 
+- [[travel in liu zhou|柳州见闻]]
 - [[thinking in systems|与系统共舞]]
 - [[siddhartha|人人都是悉达多]]
 - [[strange stories from metro|地铁怪谈]]

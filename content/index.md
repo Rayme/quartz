@@ -7,6 +7,7 @@ title: 按钮与磁带
 
 > [!tip]- 最近更新 🗞️
 > 
+> - 0709 [[now]]，[[movies and shows|院线观影记录更新]]，[[travel in liu zhou|柳州见闻]]
 > - 0620 [[movies and shows|影视剧观后感清单]]，[[notetaking|笔记相关页面]]，[[my note taking rules|我的笔记方法]]，[[obsidian|Obsidian]]，[[tiddlywiki|TiddlyWiki]]
 > - 0617 [[ballerina|《芭蕾杀姬》观后感]]
 > - 0609 [[thinking in systems|《系统之美》读后感]]，[[create orginal works|原创写作瓶颈和外部化]]

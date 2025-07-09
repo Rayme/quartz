@@ -5,6 +5,7 @@ title: 城市观察
 
 ## 城市观察系列
 
+- 2025-07-09 [[travel in liu zhou|柳州见闻]]
 - 2025-06-03 [[strange stories from metro|地铁怪谈]]
 - 2025-01-03 [[blog posts/711 store|便利店]]
 - 2021-09-01 [[blog posts/back to school|开学季]]
