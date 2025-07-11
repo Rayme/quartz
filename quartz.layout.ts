@@ -5,16 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
 head: Component.Head({
   meta: [],
-  links: [
-    {
-      rel: "stylesheet",
-      href: "https://cdn.jsdelivr.net/npm/misans-webfont/misans-style.css",
-    },
-    {
-      rel: "stylesheet",
-      href: "https://cdn.jsdelivr.net/npm/@fontsource/jetbrains-mono/index.css",
-    },
-  ],
+  links: [],
 }),
   header: [],
   afterBody: [],

@@ -1,6 +1,20 @@
 @use "./base.scss";
 
+
+@font-face {
+	font-family: "MiSans";
+	font-style: normal;
+	font-weight: normal;
+	src: url("https://font.sec.miui.com/font/css?family=MiSans:400,450:Chinese_Simplify,Latin&display=swap");
+}
+
+:root {
+  --bodyFont: "MiSans" !important;
+  --headerFont: "MiSans" !important;
+}
+
 /* 字间距与行间距微调*/
+
 body {
   font-family: 'Misans', sans-serif;
   line-height: 1.8;
