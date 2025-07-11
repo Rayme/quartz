@@ -48,6 +48,7 @@ export default (() => {
             {cfg.theme.typography.title && (
               <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
             )}
+<link rel="stylesheet" crossorigin="anonymous" href="https://unpkg.com/misans@4.1.0/lib/Normal/MiSans-Regular.min.css" />
           </>
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />

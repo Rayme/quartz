@@ -7,6 +7,7 @@ title: 按钮与磁带
 
 > [!tip]- 最近更新 🗞️
 > 
+> - 0711 [[how to calm|平复情绪的方法]]
 > - 0709 [[now]]，[[movies and shows|院线观影记录更新]]，[[travel in liu zhou|柳州见闻]]
 > - 0620 [[movies and shows|影视剧观后感清单]]，[[notetaking|笔记相关页面]]，[[my note taking rules|我的笔记方法]]，[[obsidian|Obsidian]]，[[tiddlywiki|TiddlyWiki]]
 > - 0617 [[ballerina|《芭蕾杀姬》观后感]]
@@ -26,7 +27,7 @@ title: 按钮与磁带
 
 一套好的[[notetaking|记笔记方法]]能够帮助我们更好地执行上述这些工作。
 
-睡眠是人的一天中最重要的事，尤其是对于能量少的人群。[[sleep better|拒绝熬夜，从我做起。]]
+睡眠是人的一天中最重要的事，尤其是对于能量少的人群。[[sleep better|拒绝熬夜，从我做起]]。，
 
 刻意减少 [[ai|AI]] 的使用频率对于保护自己的思考过程有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者让 AI 帮助批判某一事物的特定视角。
 

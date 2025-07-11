@@ -33,7 +33,7 @@ export default {
 	title: "上下而求索",
     },
     footer: {
-      createdWith: "自豪地使用",
+      createdWith: "Created with",
     },
     graph: {
       title: "关系图谱",
@@ -64,7 +64,7 @@ export default {
     },
     error: {
       title: "无法找到",
-      notFound: "私有笔记或笔记不存在。",
+      notFound: "你遁入虚无。",
       home: "返回首页",
     },
     folderContent: {

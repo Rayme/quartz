@@ -8,7 +8,7 @@ tags:
 
 > I asked if you're a good man or a bad man. You said you didn't know. Only good man would've said that.
 > 
-> - Enzo
+> \- Enzo
 
 五金侠的最后一部（也许是），质感相比前两部有了质的飞跃。第三部相比前两部有了更深一层的拷问，电影始终专注于这个问题：我是一个好人还是一个坏人？
 
