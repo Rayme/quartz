@@ -27,9 +27,9 @@ title: 按钮与磁带
 
 一套好的[[notetaking|记笔记方法]]能够帮助我们更好地执行上述这些工作。
 
-睡眠是人的一天中最重要的事，尤其是对于能量少的人群。[[sleep better|拒绝熬夜，从我做起]]。，
+睡眠是人的一天中最重要的事，尤其是对于能量少的人群。[[sleep better|拒绝熬夜，从我做起]]。
 
-刻意减少 [[ai|AI]] 的使用频率对于保护自己的思考过程有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者让 AI 帮助批判某一事物的特定视角。
+刻意减少 [[ai|AI]] 的使用频率对于保护自己的**思考过程**有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者借助 AI 从不同视角批判特定事物。
 
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
 
