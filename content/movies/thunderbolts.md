@@ -2,7 +2,6 @@
 title: 雷霆特攻队*
 tags:
   - movies
-date: 2025-05-18
 ---
 2025-05-18 Thunderbolts*
 
