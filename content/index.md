@@ -6,7 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
-> 
+> - 0718 [[easy has a cost]]，[[now]]
 > - 0711 [[how to calm|平复情绪的方法]]
 > - 0709 [[now]]，[[movies and shows|院线观影记录更新]]，[[travel in liu zhou|柳州见闻]]
 > - 0620 [[movies and shows|影视剧观后感清单]]，[[notetaking|笔记相关页面]]，[[my note taking rules|我的笔记方法]]，[[obsidian|Obsidian]]，[[tiddlywiki|TiddlyWiki]]
