@@ -6,7 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
-> - 0725 [[now]]
+> - 0806 [[now]]，[[gossip on movies|影视剧想法]]
 > - 0718 [[easy has a cost]]
 > - 0711 [[how to calm|平复情绪的方法]]
 > - 0709 [[now]]，[[movies and shows|院线观影记录更新]]，[[travel in liu zhou|柳州见闻]]
@@ -39,7 +39,7 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
  
 过往发表在博客的[[posts|文章]]。写得最多的主题：
 
-[[movies and shows|影视剧观后感]] |  [[i love books|书籍读后感]] | [[digital life|科技生活]]
+[[movies and shows|影视剧观后感]]（[[gossip on movies|影视剧想法]]） |  [[i love books|书籍读后感]] | [[digital life|科技生活]]
 
 喜欢聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
