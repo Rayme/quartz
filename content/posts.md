@@ -7,6 +7,7 @@ title: 博客文章
 - [[movies and shows|影视剧观后感]] |  [[i love books|书籍读后感]] | [[digital life|科技生活]]
 - [[city observe|城市观察]] | [[damn wechat|我骂微信]] 
 ## 日期倒序
+
 ### 2025
 
 - [[travel in liu zhou|柳州见闻]]

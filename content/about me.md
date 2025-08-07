@@ -11,7 +11,7 @@ date: 2025-07-11
 - zm.rayme at gmail.com
 - x@raymekee
 
-本站点暂无评论区，如欲留言请移步[博客关于页](https://imzm.im/about)。本站使用 [MiSans](https://hyperos.mi.com/font/zh) 字体，遵循 [MiSans字体知识产权许可协议](https://hyperos.mi.com/font-download/MiSans%E5%AD%97%E4%BD%93%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE.pdf)。
+本站使用 [MiSans](https://hyperos.mi.com/font/zh) 字体，遵循 [MiSans字体知识产权许可协议](https://hyperos.mi.com/font-download/MiSans%E5%AD%97%E4%BD%93%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE.pdf)。
 
 ---
 
