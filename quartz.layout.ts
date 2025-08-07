@@ -8,7 +8,23 @@ head: Component.Head({
   links: [],
 }),
   header: [],
-  afterBody: [],
+  afterBody: [
+		Component.Comments({
+			provider: 'giscus',
+			options: {
+      // from data-repo
+			repo: 'Rayme/quartz',
+      // from data-repo-id
+      repoId: 'R_kgDOOO4mDQ',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOOO4mDc4Ct5BJ',
+      // from data-lang
+      lang: 'zh-CN'
+    }
+  }),
+  ],
   footer: Component.Footer({
     links: {
       博客: "https://imzm.im",
@@ -43,7 +59,6 @@ export const defaultContentPageLayout: PageLayout = {
 	}),
   ],
   right: [
-	Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
 	Component.Backlinks({ title: "反向链接" }),
   ],

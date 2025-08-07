@@ -6,6 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
+> - 0807 [[site log|站点更新日志]]
 > - 0806 [[now]]，[[gossip on movies|影视剧想法]]
 > - 0718 [[easy has a cost]]
 > - 0711 [[how to calm|平复情绪的方法]]
@@ -22,7 +23,7 @@ title: 按钮与磁带
 
 互联网风起云涌，如何[[filter sources|获取高质量的信息]]？对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，错过重要决策的窗口。
 
-注重[[manage your energy not your time|管理精力]]，而不是管理时间。更多地[[consume less create more|创造，而不是消费]]。多动手[[on practice|实践]]，少停留在理论层面。
+注重[[manage your energy not your time|管理精力]]，而不是管理时间。更多地[[consume less create more|创造，而不是消费]]。多动手[[on practice|实践]]，少停留在理论层面。把自己的生活模式当作一个[[life as a system|完整的系统]]。
 
 在[[atomic habits|《掌控习惯》]]中，关于[[review and reflection|培养好习惯、回顾和反思]]，能够当作一种对任何状态下的自我提醒。
 
@@ -39,7 +40,9 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
  
 过往发表在博客的[[posts|文章]]。写得最多的主题：
 
-[[movies and shows|影视剧观后感]]（[[gossip on movies|影视剧想法]]） |  [[i love books|书籍读后感]] | [[digital life|科技生活]]
+- [[movies and shows|影视剧观后感]] | [[gossip on movies|影视剧想法]]
+- [[i love books|书籍读后感]]
+- [[digital life|科技生活]]
 
 喜欢聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
@@ -49,4 +52,4 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
 
 - [[now|我最近在做什么]]
 - [[about me|关于我]]
-- [[why this site|为什么会有这个站点]]
+- [[why this site|为什么会有这个站点]] | [[site log|站点日志]]
