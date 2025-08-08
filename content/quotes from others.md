@@ -1,6 +1,7 @@
 ---
 title: 他们如是说
 ---
+- [[action relieves anxiety]] James Clear
 - [[easy has a cost]] James Clear
 - [[stop overthinking]] FS
 - [[stop fighting your nature]] FS
