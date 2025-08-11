@@ -12,33 +12,44 @@ date: 2025-04-01
 
 ## 2025
 
-- 0727 南京照相馆 📽️
-- 0725 长安的荔枝 📽️
-- 0707 F1 📽️
-- 0704 侏罗纪世界：重生 📽️ 	==非常烂，别看，快逃。==
+- 0727 [[dead to rights|南京照相馆]] 📽️
+- 0725 [[the lychee road|长安的荔枝]] 📽️
+- 0707 [[f1|F1：狂飙飞车]]📽️
+- 0704 侏罗纪世界：重生 📽️ **非常烂，别看，快逃。**
 - 0614 [[ballerina|芭蕾杀姬]] 📽️
-- 0607 碟中谍8：最终清算 📽️
+- 0607 [[mission impossible 8|碟中谍8：最终清算]] 📽️
 - 0518 [[thunderbolts|雷霆特攻队*]] 📽️
 - 0225 [[the gorge|峡谷]]
+- 0131 唐探1900 📽️
 - 0129 [[nezha2|哪吒之魔童闹海]] 📽️
-
+- 0101 误杀3 📽️
 ## 2024
 
 - 1223 [[yellowstone|黄石]]
+- 1214 [[two movies and three shows 2024#误判|误判]] 📽️
 - 1219 [[two movies and three shows 2024#破·地狱|破·地狱]] 📽️
 	- 2025年4月5日，去电影院再看了一遍《破·地狱：感恩特别版》，时间延长到140分钟，增加了一些剧情完善人物。
 - 1126 [[two movies and three shows 2024#英雄联盟：双城之战第二季|双城之战第二季]]
 - 1114 [[two movies and three shows 2024#企鹅人|企鹅人]]
+- 1012 哈利波特与魔法石
+- 1109 焚城 📽️
 - 0902 [[the god of cookery|食神]] 📽️
 - 0822 [[furiosa|疯狂的麦克斯：狂暴女神]]
-- 0726 [[july 2024 watched#死侍与金刚狼|死侍与金刚狼]]
+- 0731 [[july 2024 watched#抓娃娃|抓娃娃]] 📽️
+- 0726 [[july 2024 watched#死侍与金刚狼|死侍与金刚狼]] 📽️
 - 0722 [[july 2024 watched#洛基第二季|洛基第二季]]
 - 0720 [[july 2024 watched#黑袍纠察队第四季|黑袍纠察队第四季]]
 - 0714 [[vintage point|刺杀据点]]
+- 0627 [[july 2024 watched#海关战线|海关战线]] 📽️
+- 0611 [[july 2024 watched#谈判专家|谈判专家]] 📽️
 - 0502 [[twilight of the warriors|九龙城寨之围城]] 📽️
 - 0501 [[howls moving castle|哈尔的移动城堡]] 📽️
 - 0427 [[good will hunting|心灵捕手]]
+- 0217 [[spring festival movies 2024#第二十条|第二十条]] 📽️
 - 0212 [[spring festival movies 2024#飞驰人生2|飞驰人生2]] 📽️
+- 0211 [[spring festival movies 2024#热辣滚烫|热辣滚烫]] 📽️
+- 0210 [[spring festival movies 2024#目中无人：以眼还眼|目中无人2：以眼还眼]]
+- 0201 [[spring festival movies 2024#养蜂人|养蜂人]]
 
 ## 2023
 

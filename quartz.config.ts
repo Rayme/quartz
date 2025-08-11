@@ -13,8 +13,8 @@ const config: QuartzConfig = {
     enableSPA: false,
     enablePopovers: true,
     analytics: {
-      provider: 'google',
-	  tagId: 'G-FL57TJ11N4',
+      provider: '',
+	  tagId: '',
     },
     locale: "zh-CN",
     baseUrl: "jefftay.com",
