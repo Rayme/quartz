@@ -10,6 +10,11 @@ date: 2025-06-05
 关于 AI 编年史，[Artificial Intelligence Timeline](https://nhlocal.github.io/AiTimeline) 整理得更加客观且清晰易读。
 
 ---
+
+## 2H25
+
+- 2025-08-13 自8月8日 [OpenAI 发布 GPT-5](https://www.ithome.com/0/873/829.htm) 后，外界对这个版本模型的质疑就没有停止过。我从未得到好的机会试用，只能在官网看到关于 GPT-5 的宣传，询问大模型仍然获得“我是 GPT-4o”的回答。殊不知 GPT-5 的拉胯让更多用户怒喷 OpenAI 放回 4o 模型。这几天 Sam Altman 又跟 Elon Musk 打起嘴仗（后者在7月10日发布 Grok 4 并声称这是世界最强大语言模型），看得实在厌烦。
+
 ## 1H25
 
 - 2025-06-26 今天 Google 发布了 [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent)，从[量子位](https://www.qbitai.com/2025/06/301735.html)和其他渠道可知，这又是谷歌一次王炸产品发布，重点集中在强大、开源和超高的免费 token 额度。我马上在 [GitHub](https://github.com/google-gemini/gemini-cli) 上 star 了这个项目，然后跟随[段小草的方案](https://zhuanlan.zhihu.com/p/1921330328833857501)设置了一番体验。

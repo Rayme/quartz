@@ -10,6 +10,7 @@ title: 博客文章
 
 ### 2025
 
+- [[the shadows edge|捕风追影]]
 - [[summer movies 2025|2025 暑期观影]]
 - [[travel in liu zhou|柳州见闻]]
 - [[thinking in systems|与系统共舞]]
