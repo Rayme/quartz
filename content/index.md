@@ -6,6 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
+> - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
 > - 0813 [[now]]，[[the shadows edge|捕风追影]]，[[ai|AI]]
 > - 0811 [[movies and shows|影视剧观后感]]：[[mission impossible 8|碟中谍8：最终清算]]，[[f1|F1：狂飙飞车]]，[[the lychee road|长安的荔枝]]，[[dead to rights|南京照相馆]]
 > - 0807 [[site log|站点更新日志]]，[[anything other than productivity|工具只是工具，重要的是工具以外的一切]]
