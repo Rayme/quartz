@@ -1,0 +1,127 @@
+@use "./base.scss";
+
+// Quartz SCSS variables for shadcn/ui style
+// Using more compatible Hex and RGBA values
+
+// 浅色模式（Light Mode）
+$light-quartz-dark: #252525;
+$light-quartz-light: #ffffff; // 背景色设置为纯白色
+$light-quartz-secondary: #ffffff; // 辅助背景色也设置为纯白色
+$light-quartz-tertiary: #ebebeb;
+$light-quartz-highlight: #ffffff;
+$light-quartz-outline: #ebebeb;
+$light-quartz-link: #343434;
+
+// 深色模式（Dark Mode）
+$dark-quartz-dark: #fbfbfb;
+$dark-quartz-light: #252525;
+$dark-quartz-secondary: #454545;
+$dark-quartz-tertiary: rgba(255, 255, 255, 0.1);
+$dark-quartz-highlight: #454545;
+$dark-quartz-outline: rgba(255, 255, 255, 0.15);
+$dark-quartz-link: #e9e9e9;
+
+// 圆角
+$radius: 0.625rem;
+
+// 字体设置
+$font-family-body: 'Misans', sans-serif;
+$font-family-code: 'Fira Mono', monospace;
+
+// 应用主题变量
+.light {
+  --quartz-dark: #{$light-quartz-dark};
+  --quartz-light: #{$light-quartz-light};
+  --quartz-secondary: #{$light-quartz-secondary};
+  --quartz-tertiary: #{$light-quartz-tertiary};
+  --quartz-highlight: #{$light-quartz-highlight};
+  --quartz-outline: #{$light-quartz-outline};
+  --quartz-link: #{$light-quartz-link};
+}
+
+.dark {
+  --quartz-dark: #{$dark-quartz-dark};
+  --quartz-light: #{$dark-quartz-light};
+  --quartz-secondary: #{$dark-quartz-secondary};
+  --quartz-tertiary: #{$dark-quartz-tertiary};
+  --quartz-highlight: #{$dark-quartz-highlight};
+  --quartz-outline: #{$dark-quartz-outline};
+  --quartz-link: #{$dark-quartz-link};
+}
+
+// 通用字体设置
+body {
+  font-family: $font-family-body;
+  line-height: 1.8;
+  letter-spacing: 0.02em;
+  background-color: var(--quartz-light); // 确保 body 背景为纯白
+}
+
+code, pre {
+  font-family: $font-family-code;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 0;
+  line-height: 1.4;
+}
+
+// 核心组件样式
+.page,
+.section,
+.popover-container,
+.callout-container,
+.content,
+.side-bar {
+  border-radius: $radius;
+  background-color: var(--quartz-secondary); // 确保内容区背景为纯白
+}
+
+// 侧边栏和目录栏样式
+.side-bar,
+.toc-container {
+  border: 1px solid var(--quartz-tertiary);
+  padding: 1rem;
+}
+
+// 代码块样式
+pre {
+  background-color: var(--quartz-secondary);
+  border: 1px solid var(--quartz-tertiary);
+  border-radius: $radius;
+  padding: 0.75rem;
+}
+
+code {
+  background-color: var(--quartz-secondary);
+  border: 1px solid var(--quartz-tertiary);
+  border-radius: $radius;
+  padding: 0.15rem 0.35rem;
+}
+
+// 链接样式
+a {
+  color: var(--quartz-link);
+  background: none; // 移除背景色
+}
+
+// 外部链接加上下划线
+a[href^="http"], a[href^="https"] {
+  text-decoration: underline;
+}
+
+// 内部链接（包括toc和侧边栏）保持无下划线
+.toc-container a,
+.side-bar a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+// 段落文字
+.center p {
+  letter-spacing: 0.02em;
+  line-height: 1.8;
+}
