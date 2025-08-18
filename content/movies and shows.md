@@ -12,6 +12,7 @@ date: 2025-04-01
 
 ## 2025
 
+- 0817 [[prometheaus|普罗米修斯]]
 - 0812 [[the shadows edge|捕风追影]] 📽️
 - 0727 [[dead to rights|南京照相馆]] 📽️
 - 0725 [[the lychee road|长安的荔枝]] 📽️
