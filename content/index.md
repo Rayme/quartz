@@ -6,8 +6,9 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
+> - 0822 [[now]]，[[ai|AI]]，[[self authorship|Self-Authorship]]
 > - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
-> - 0813 [[now]]，[[the shadows edge|捕风追影]]，[[ai|AI]]
+> - 0813 [[the shadows edge|《捕风追影》观后感]]，[[ai|AI]]
 > - 0811 [[movies and shows|影视剧观后感]]：[[mission impossible 8|碟中谍8：最终清算]]，[[f1|F1：狂飙飞车]]，[[the lychee road|长安的荔枝]]，[[dead to rights|南京照相馆]]
 > - 0807 [[site log|站点更新日志]]，[[anything other than productivity|工具只是工具，重要的是工具以外的一切]]
 > - 0806 [[gossip on movies|影视剧想法]]
@@ -20,13 +21,24 @@ title: 按钮与磁带
 > - 0605 [[ai|AI]]，[[siddhartha|人人都是悉达多]]
 > - 0604 [[tao|我读《道德经》]]，[[quotes from others|他们如是说]]
 > - 0603 [[thunderbolts|《雷霆特攻队*》观后感]]，[[random thoughts|要多想]]，[[strange stories from metro|地铁怪谈]]
-> - 0522 [[on practice|实践论]]
-> - 0507[[simulation and the hard problem of consciousness|模拟现实与知觉难题]]
-> - 0506 [[cognitive awakening|《认知觉醒》读后感]]
 
+## Horizon 🌏
+ 
+[[posts|博客文章列表]]。写得最多的主题：
+
+- [[movies and shows|影视剧观后感]] | [[gossip on movies|影视剧想法]]
+- [[i love books|书籍读后感]]
+- [[digital life|科技生活]]
+
+喜欢聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
+
+慢慢学习[[tao|《道德经》]]。
 ## Anchor ⚓
 
 互联网风起云涌，应当注重[[filter sources|筛选高质量的信息]]。对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，错过重要决策的窗口。
+
+> 焦虑来自于信息无序的涌入，最终导致选择瘫痪。
+> \- [少楠](https://mp.weixin.qq.com/s/0ikMi55OxMpPwYCaLXXuvg)
 
 注重[[manage your energy not your time|管理精力]]，而不是管理时间。更多地[[consume less create more|创造，而不是消费]]。多动手[[on practice|实践]]，少停留在理论层面。把自己的生活模式当作一个[[life as a system|完整的系统]]。
 
@@ -39,17 +51,6 @@ title: 按钮与磁带
 刻意减少 [[ai|AI]] 的使用频率对于保护自己的**思考过程**有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者借助 AI 从不同视角批判特定事物。
 
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
-## Horizon 🌏
- 
-过往发表在博客的[[posts|文章]]。写得最多的主题：
-
-- [[movies and shows|影视剧观后感]] | [[gossip on movies|影视剧想法]]
-- [[i love books|书籍读后感]]
-- [[digital life|科技生活]]
-
-喜欢聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
-
-慢慢学习[[tao|《道德经》]]。
 
 ## Thyself 💭
 

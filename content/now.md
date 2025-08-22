@@ -1,6 +1,40 @@
 ---
-date: 2025-08-13
+date: 2025-08-22
 ---
+## 20250822
+
+身体已经完全恢复。工作中的变动已经发生，有少许遗憾和不足，但欣然接受。生活的变化也在一步步展开。但是的学习上有些懈怠，日常记录变少，出现不少信息丢失的情况。应当调整心态，继续执行对生活的记录，任何媒介、任何内容都是可以记录的对象。过去这段时间浮躁心又起，我想也许是外界变化加上内心视角导致的。放长远来看，其实是一个很正常的现象。意识到比焦虑更重要。
+
+暑期马上就要结束了。尽管我已经脱离学生身份很久，但不会放弃学习这件事。实体书籍已经许久未碰，从这天开始回去多摸摸纸张的感觉，还有感受印刷的气味。
+
+看了《普罗米修斯》，没有想象中那么恐怖，反而是我可以接受的科幻，探讨的是人类永恒的母题。
+
+舆论场上的噪音并没有减少，**社交媒体**这个媒介注定充满噪音和干扰。避免信息过载，找到自己真正想要的是什么，什么是对自己有益的。做能产生正向反馈的事情，少接触或者远离消耗注意力和心气的事情。
+
+依然热爱生活，没有失去对事物的好奇心。对于更多事件愿意尝试更深入思考一点，说得更少，想得更多些。努力做到**实事求是**。尝试从多个角度理解问题，越是理解，立场越是坚定。多做**重要不紧急**的事，坚持长期主义并用心实践。
+
+在[[learning french with duolingo|多邻国上学习法语]]已经811天，开始失去追逐高排名和高分数的耐心，对于学习法语的兴趣在逐渐下降中。
+
+年度写作50篇博文竞赛进度：17 - 14
+
+不要停止关注巴以冲突。
+
+---
+
+这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)
+
+_This now page is inspired by Derek Sivers_
+
+- [The /now page movement](https://sive.rs/nowff)
+- about [nownownow.com](https://nownownow.com/about)
+- [My /now page](https://nownownow.com/p/WIIG) on nownownow.com
+
+People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
+
+---
+
+20250813 实践 [[do now pages archive needed|追溯时间切片]]，归档过去写过的 now pages，读起来能体会到生活不再是空白一片。
+
 ## 20250813
 
 身体恢复，重新投入到工作和生活中。生活有了大变动，工作也要即将迎来不大不小的变动。最近这段时间应该是一个特殊的时刻，放在人生长河里可能当作一个里程碑。这也包括心灵上的。
@@ -20,32 +54,6 @@ date: 2025-08-13
 - 《面纱》毛姆
 
 《局外人》和《启示路》也许会降低优先级。
-
-舆论场上的噪音并没有减少，**社交媒体**这个媒介注定充满噪音和干扰。避免信息过载，找到自己真正想要的是什么，什么是对自己有益的。做能产生正向反馈的事情，少接触或者远离消耗注意力和心气的事情。
-
-依然热爱生活，没有失去对事物的好奇心。对于更多事件愿意尝试更深入思考一点，说得更少，想得更多些。努力做到**实事求是**。尝试从多个角度理解问题，越是理解，立场越是坚定。多做**重要不紧急**的事，坚持长期主义并用心实践。
-
-在[[learning french with duolingo|多邻国上学习法语]]已经802天，开始失去追逐高排名和高分数的耐心，甚至有些天只想做一个挑战或一个单元。已经习惯用英文学习法语，许久没有触碰西班牙语，只开了个头。
-
-年度写作50篇博文竞赛进度：17 - 14（截止20250813，小胡的博客断断续续宕机中）
-
-不要停止关注巴以冲突。
-
----
-
-这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)
-
-_This now page is inspired by Derek Sivers_
-
-- [The /now page movement](https://sive.rs/nowff)
-- about [nownownow.com](https://nownownow.com/about)
-- [My /now page](https://nownownow.com/p/WIIG) on nownownow.com
-
-People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
-
----
-
-20250813 实践 [[do now pages archive needed|追溯时间切片]]，归档过去写过的 now pages，读起来能体会到生活不再是空白一片。
 ## 20250806
 
 7月30日突然生了一场大病，几乎所有症状都与新冠一致，我想我大抵是阳了。多年后还是没有逃脱这个病毒再次攻击。病着的这段时间也让我思考，什么是重要的，什么是不重要的，当然因为生病导致脑子烧坏了一部分，这期间设想的几乎全部作废。
