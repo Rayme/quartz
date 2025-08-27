@@ -32,7 +32,7 @@ Owen 的网站启发了我对于一个站点能够以什么格式放入什么类
 
 ---
 
-我阅读过原来的数字花园 [仿生猫不会梦见电子猫粮](https://wiki.imzm.im)，两年出头的时间使用下来，其中可以算得上“知识”的内容占比少之又少，到了后期更多的是对于某个页面或列表的持续性更新，例如看过的影视剧、听过的音乐或书籍笔记，还有各种对调整样式和功能的记录。从这个角度出发，这个数字花园早已违背它创建时所要达到的定义/初衷：
+我阅读过原来的数字花园 [仿生猫不会梦见电子猫粮](https://wiki.imzm.im)，两年出头的时间使用下来，其中可以算得上“知识”的内容占比少之又少，到了后期更多的是对于某个页面或列表的持续性更新，例如看过的影视剧、听过的音乐或书籍笔记，还有各种对调整样式和功能的记录。从这个角度出发，这个数字花园早已违背它创建时所要达到的定义/初衷[^1]：
 
 1. Topography over Timelines 拓扑结构优先而不是时间轴
 2. Continuous Growth 持续增长
@@ -58,3 +58,5 @@ Owen 的网站启发了我对于一个站点能够以什么格式放入什么类
 仿生猫不会梦见电子猫粮。
 
 仿生猫梦见电子猫粮。
+
+[^1]: [The Six Patterns of Gardening](https://maggieappleton.com/garden-history#the-six-patterns-of-gardening) **A Brief History & Ethos of the Digital Garden** by Maggie Appleton

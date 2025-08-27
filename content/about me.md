@@ -11,9 +11,9 @@ date: 2025-07-11
 - zm.rayme at gmail.com
 - x@raymekee
 
-本站使用 [MiSans](https://hyperos.mi.com/font/zh) 字体，遵循 [MiSans字体知识产权许可协议](https://hyperos.mi.com/font-download/MiSans%E5%AD%97%E4%BD%93%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE.pdf)。
-
 ---
 
 > [!quote] \-
 > “独立之精神，自由之思想”是我们每个人最重要的财富，希望你永远保有它。出社会后，坚守自己的理想是件不容易的事，希望你能坚定不移地走下去，把你的愿景变成我们渴望的现实。
+> 
+> \- 高中语文老师
