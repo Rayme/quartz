@@ -6,6 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
+> - 0828 [[ai|AI]]，[[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
 > - 0822 [[now]]，[[ai|AI]]，[[self authorship|Self-Authorship]]
 > - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
 > - 0813 [[the shadows edge|《捕风追影》观后感]]，[[ai|AI]]
@@ -27,8 +28,8 @@ title: 按钮与磁带
 [[posts|博客文章列表]]。写得最多的主题：
 
 - [[movies and shows|影视剧观后感]] | [[gossip on movies|影视剧想法]]
-- [[i love books|书籍读后感]]
-- [[digital life|科技生活]]
+- [[i love books|书籍读后感]] | [[music|音乐]]
+- [[digital life|科技生活]] | [[ai|主观 AI 编年史]]
 
 喜欢聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 

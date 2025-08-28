@@ -4,8 +4,12 @@
 
 body {
   font-family: 'Misans', sans-serif;
-  line-height: 1.8;
+  line-height: 1.8em;
   letter-spacing: 0.02em;
+}
+
+li {
+  line-height: 1.9rem;
 }
 
 /* 代码块字体 */
@@ -17,11 +21,18 @@ code, pre {
 /* 段落文字细调*/
 .center p {
   letter-spacing: 0.02em;
-  line-height: 1.8;
+  line-height: 1.8em;
 }
 
 /* 标题不加字距，避免松散 */
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
-  line-height: 1.4;
+  line-height: 1.4em;
+}
+
+/* 移动端标题尺寸修改 */
+@media screen and (max-width: 600px) {
+  h2.page-title {
+    font-size: 1.2rem;
+}
 }

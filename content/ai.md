@@ -13,6 +13,7 @@ date: 2025-06-05
 
 ## 2H25
 
+- 2025-08-28 这几天，近期大放异彩的 Google Gemini 又进化了，这一次是图生图：[Gemini 2.5 Flash Image Preview](https://developers.googleblog.com/zh-hans/introducing-gemini-2-5-flash-image)。我在社交媒体看到一个神奇的 prompt，能把真实照片或其他图片生成桌面手办，背景还有电脑屏幕和柜子的物件，一下子竟然分不清是否真实照片，以往 AI 生图那种 AI 味几乎消失。我马上用霉霉刚发布的专辑海报试了一下，效果竟然出奇的好，需要很仔细才能分辨出来是 AI 生图。这个模型的发布想必会是一个关键节点。[IT之家的新闻](https://www.ithome.com/0/878/269.htm)，[Google AI Studio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview)
 - 2025-08-27 自 DeepSeek V3.1 发布后，我使用这个版本的次数增加了，使用体验比 V3 甚至 R1 要好上不少，没有之前那么多幻觉，语言也更加接地气。不过还是没有摆脱过于吹捧用户的倾向。
 - 2025-08-22 8月21日，Deepseek 发布了 DeepSeek V3.1 版本，没有传闻中的 R2，扩展了上下文至 128K，似乎合并了推理模式和快速模式。从短暂的使用体验来看，这一版本速度比以往快了一点点，瞎扯皮的现象有所减少，但还是有点对用户谄媚的心态存在。
 - 2025-08-13 自8月8日 [OpenAI 发布 GPT-5](https://www.ithome.com/0/873/829.htm) 后，外界对这个版本模型的质疑就没有停止过。我从未得到好的机会试用，只能在官网看到关于 GPT-5 的宣传，询问大模型仍然获得“我是 GPT-4o”的回答。殊不知 GPT-5 的拉胯让更多用户怒喷 OpenAI 放回 4o 模型。这几天 Sam Altman 又跟 Elon Musk 打起嘴仗（后者在7月10日发布 Grok 4 并声称这是世界最强大语言模型），看得实在厌烦。
@@ -35,7 +36,7 @@ date: 2025-06-05
 ## 1H24
 
 - 2024-05-27 OpenAI 近期重大事件（丑闻）合集：OpenAI 大批员工离职；ChatGPT 声音 Sky 极像斯嘉丽·约翰逊，发布之前与斯嘉丽沟通过配音事宜但寡姐拒绝；奥特曼声称其不知道离职协议中的【禁止批评 OpenAI 否则回收股权】部分，但很快爆出官方文件有其签名；OpenAI 反对大模型开源，奥特曼称不知 Open 为何意。已有不少媒体做整理：[IT之家](https://www.ithome.com/0/770/404.htm)，[差评](https://mp.weixin.qq.com/s/SWfeb2r_Qz9t1GpBczFh_Q)，[酷玩实验室](https://mp.weixin.qq.com/s/6Ddm2xYpLR7EbDX8uZmNbQ)
-- 2024-05-15 [202311 OpenAI 高层动荡](https://rayme.github.io/#202311%20OpenAI%20%E9%AB%98%E5%B1%82%E5%8A%A8%E8%8D%A1)事件是有余温的，今天 Ilya [宣布](https://twitter.com/ilyasut/status/1790517455628198322)离职 OpenAI。2024-05-18 宫斗剧还在继续，IT之家[做了整理](https://www.ithome.com/0/768/963.htm)。
+- 2024-05-15 2023年11月 OpenAI 高层动荡事件是有余温的，今天 Ilya [宣布](https://twitter.com/ilyasut/status/1790517455628198322)离职 OpenAI。2024-05-18 宫斗剧还在继续，IT之家[做了整理](https://www.ithome.com/0/768/963.htm)。
 - 2024-05-14 OpenAI 在今天发布了新的免费大语言模型：[GPT-4o](https://openai.com/index/hello-gpt-4o)（[IT之家新闻](https://www.ithome.com/0/767/693.htm)），很遗憾我的账号还没有被灰度，在 [Poe](https://poe.com/) 上可以免费试用约10条，暂时没有体会到先进之处。
 - 2024-04-19 发现一个低调的 AI 应用：[flowith](https://flo.ing/)（或[这个入口](https://try.flowith.io/)，据开发者称，因为精力全部投入到产品上，因此官网基本上没人管……），设计和使用相当让人惊喜：无限画布、提问分支、图谱结构、AI 决策、开放网络搜索、MidJourney 生图，每一步都打在 AI 应用的七寸上。甚至产生比 Perplexity 更重的付费意愿。开发者在推特写了一条很长的 [thread](https://twitter.com/DerekNee/status/1780848075264921711) 来介绍他们的产品。
 - 2024-04-17 今天发现 [Perplexity AI](https://perplexity.ai/) 使用港区的 IP 无法访问，提示 `We have detected unusual activity coming from your IP address and blocked your request.` 切换到美区 IP 恢复正常。
@@ -52,10 +53,10 @@ date: 2025-06-05
     - 英伟达是 AI 行业的幕后，马斯克也在推动他的 xAI。
 - 2023-11-23 [Pi AI](https://pi.ai/) 的母公司 Inflection 发布了新模型：[Inflection-2: The Next Step Up](https://inflection.ai/inflection-2)。最近与 Pi 的交流增多，它可以很好解决一些生活上的小问题，可以安抚情绪，也可以教你法语。虽然没有记忆，但是作为一个 AI，它有着快速响应、画面好看、基于 web 的特点。
 - 2023-11-22 ChatGPT 今日[面向所有用户开放 ChatGPT Voice](https://www.ithome.com/0/734/164.htm)。
-- 2023-11 [202311 OpenAI 高层动荡](https://rayme.github.io/#202311%20OpenAI%20%E9%AB%98%E5%B1%82%E5%8A%A8%E8%8D%A1)
+- 2023-11 OpenAI 高层动荡
 - 2023-11-15 今日发现一个新的 AI：[Pi AI](https://pi.ai/) by Inflection。对话跟真人几乎一样，目前没有明显限制，可玩性挺高。
     - 2023-11-20 很遗憾缺乏长期记忆功能，使得同时只有一个 thread 的设定失去其意义。
-- 2023-11-14 [布道者和扒底裤的](https://rayme.github.io/#%E5%B8%83%E9%81%93%E8%80%85%E5%92%8C%E6%89%92%E5%BA%95%E8%A3%A4%E7%9A%84)
+- 2023-11-14 [布道者和扒底裤的](https://mp.weixin.qq.com/s/-u9jk8KWutWThzjwoDPGYA)
 - 2023-11-03 OpenAI 几日前发布了一个[新版本](https://www.searchenginejournal.com/new-version-of-chatgpt-gives-access-to-all-gpt-4-tools-at-once/499607)：GPT-4 (All Tools)。该版本已经可以联网访问搜索，并且接收用户发送的图片和 PDF 文件等信息，是今年9月的更新内容之一。
 - 2023-10-30 发现一个 ChatGPT/Bing 平替：[Perplexity AI](https://www.perplexity.ai/)，似乎有无限数量的普通问答和有限数量的 Copilot 问答。初步使用体验：响应速度比 Bing 快，时效性比 ChatGPT 高，使用门槛比二者低，界面好看。
     - 2023-11-20 Perplexity 与 ChatGPT 同源，作者是从 OpenAI 离职出来创业的大佬。近期使用体验是这么多 AI 产品里完成度最高的，也是性价比最高的之一。
@@ -67,8 +68,8 @@ date: 2025-06-05
 	- 2023-05-24 和菜头连续发了两篇相关的公众号文章：[作文老师孙燕姿](https://mp.weixin.qq.com/s/sCdgBTDhkqQsdOvR1ohZtg) | [孙燕姿作文赏析](https://mp.weixin.qq.com/s/IjjtuMK77zhmafcTDsX_mQ) 可以很明确感受到菜头对孙燕姿这篇文章的喜爱。
 - 2023-05-24 [微软发布 Windows Copilot AI 助理](https://www.ithome.com/0/694/690.htm)。纪念死去的 Cortana。
 - 2023-05-18 **AI 行业的发展指数级增长，目力所及已经跟不上了。不再频繁更新。**
-- 2023-04-07 前几天的 [ChatGPT](https://rayme.github.io/#ChatGPT) 封号事件还没有后续，今天阿里云也发布了自家大模型：[通义千问](https://tongyi.aliyun.com/)，听起来就像是文心一言的下联。
-- 2023-04-03 从爱范儿收到的[突发新闻](https://mp.weixin.qq.com/s/sqamuEo9N1hUzbVq8PBI6A)，[ChatGPT](https://rayme.github.io/#ChatGPT) 开始大面积封禁亚洲账号。目前我的账号暂时是安全状态。
+- 2023-04-07 前几天的 ChatGPT 封号事件还没有后续，今天阿里云也发布了自家大模型：[通义千问](https://tongyi.aliyun.com/)，听起来就像是文心一言的下联。
+- 2023-04-03 从爱范儿收到的[突发新闻](https://mp.weixin.qq.com/s/sqamuEo9N1hUzbVq8PBI6A)，ChatGPT 开始大面积封禁亚洲账号。目前我的账号暂时是安全状态。
 - 2023-03-29 今天的大新闻，科技精英的联名公开信：[Pause Giant AI Experiments: An Open Letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments)，呼吁全球实验室停止研发比 GPT-4 更强的 AI，截至此时已经有1125人签名。相关新闻：[GPT-4 引发担忧，马斯克等千名科技人士呼吁暂停更强 AI 开发](https://www.ithome.com/0/683/051.htm)
 - 对了，不久前 New Bing 的每日提问回合继续上升，来到20回合，每日总上限200条。
 - 2023-03-25 几天没有仔细关注 AI 新闻，突然 OpenAI 就发布了 GPT-Plugin，MidJourney 版本来到了 v5，Adobe 发布了 Firefly，Mozilla 也开始投资 AI。
@@ -80,14 +81,14 @@ date: 2025-06-05
 - 2023-03-15 OpenAI 最近动作颇多，今天发布了 [GPT-4 新模型](https://www.ithome.com/0/679/661.htm)，[New Bing 用的就是 GPT-4](https://www.ithome.com/0/679/679.htm)。
 - 2023-03-14 New Bing 又又提升了对话限制，现在是15回合，总是150条。另外 Microsoft Edge 更新到111版本，工具栏自带一个 New Bing 的快捷方式。
 - 2023-03-09 New Bing 又提升了对话限制，现在可以聊10个回合了，总数达到120条。
-- 2023-03-07 基于 [ConversationWithNewBing](https://rayme.github.io/#ConversationWithNewBing) 重新进行了一次对话：[NewConversationWithNewBing](https://rayme.github.io/#NewConversationWithNewBing) 结局让人沉默。
+- 2023-03-07 基于 [ConversationWithNewBing](https://wiki.imzm.im/#ConversationWithNewBing) 重新进行了一次对话：[NewConversationWithNewBing](https://wiki.imzm.im/#NewConversationWithNewBing) 结局让人沉默。
 - 2023-03-06 一个[文生图和图生图站点](https://rightbrain.art/text2Image)，速度快模型多，暂时没看到收费点。
 - 2023-03-06 New Bing 把每回合对话限制提高到8条。聊胜于无吧。
 - 2023-03-02 New Bing 移动端上线了，现在可以通过手机上的 Bing 应用开启聊天了。
 - 2023-02-28 前段时间 New Bing 恢复，限制每段交流只有6句。限制更多回答范围，增加三种回答语气：（更多）创造力/平衡/精确。目前一直用的是创造力，另外二者基本没有使用。6句基本上可以解答大部分问题，可惜不能长时间交流了。
 - 2023-02-17 今天的 New Bing 无法正常问答了，一直提示`正在尝试重新连接` 还有个 refresh 按钮
 - 2023-02-16 [ChatGPTPromptInjection](https://news.mydrivers.com/1/890/890577.htm)
-- 2023-02-14 [ConversationWithNewBing](https://rayme.github.io/#ConversationWithNewBing) 仿佛把一个 AI 逼急了
+- 2023-02-14 [ConversationWithNewBing](https://wiki.imzm.im/#ConversationWithNewBing) 仿佛把一个 AI 逼急了
 - 2023-02-13 经过一天的体验，New Bing 比 ChatGPT 强多了。主要强在以下几个方面：实时结果，不像 ChatGPT 的数据库只截至到2021年；给出数据源，每一个数据的出处很清晰；正确的前提下会坚持自己的说法，ChatGPT 容易低头认错；访问起来比 ChatGPT 轻松，也不需要注册账号。
     - 对了，New Bing 的模型是和 ChatGPT 同源的，但是实际应用上，前者更生产力，其中的关键就是 Bing 作为一个搜索引擎辅助（search engine assistant）更能直接地帮助到使用者，而不是相对独立又有历史数据限制的 ChatGPT。
     - 2023-02-16 更新：在使用 Bing 的过程中，我提了几个工作中的相关问题，他能比较贴合地回答。尚未验证准确性，但这是一个很好的起始。
