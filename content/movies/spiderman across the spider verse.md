@@ -1,6 +1,8 @@
 ---
 title: 蜘蛛侠：纵横宇宙
 date: 2023-08-13
+tags:
+  - movies
 ---
 Spider-Man: Across the Spider-Verse
 

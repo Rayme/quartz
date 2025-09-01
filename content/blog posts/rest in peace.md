@@ -16,3 +16,5 @@ R.I.P.
 ? – 2025-02-11
 
 纪念那位于2025年2月逝去的故友，本文改编自他的剧场序幕。
+
+[In Memory of Hanxin](https://hanxin.inmemories.org)

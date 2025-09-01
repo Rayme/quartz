@@ -36,3 +36,8 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1.2rem;
 }
 }
+
+/* 目录页面日期部分宽度修改 */
+li.section-li>.section {
+  grid-template-columns: fit-content(9em) 3fr 1fr;
+}

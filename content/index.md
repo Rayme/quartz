@@ -6,6 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
+> - 0901 [[now]]，[[ai|AI]]
 > - 0828 [[ai|AI]]，[[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
 > - 0822 [[now]]，[[ai|AI]]，[[self authorship|Self-Authorship]]
 > - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
