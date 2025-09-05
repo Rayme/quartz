@@ -13,6 +13,7 @@ date: 2025-06-05
 
 ## 2H25
 
+- 2025-09-05 今天最抽象的新闻莫过于 Anthropic 刚刚发布的一篇声明：[Updating restrictions of sales to unsupported regions](https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions)，内容用词激进，地缘政治和意识形态意味非常浓厚。了解到 Anthropic 的 CEO 的履历后，更是有了一些新的心得。
 - 2025-09-01 那个让人担忧的未来，似乎离我们越来越近了。本来以为普通人对 AI 的理解，不会匮乏到认为 AI 所吐一切为真，但事实确实是有人会选择相信。今天果壳的文章讲述了这个事件：[“ChatBot 精神病”，这两年维基百科最火的词条](https://36kr.com/p/3446704470365832)，同时意外检索到[这篇文章](https://36kr.com/p/3447603000268163)，这是大语言模型近距离影响生死的又一案例。
 - 2025-08-28 这几天，近期大放异彩的 Google Gemini 又进化了，这一次是图生图：[Gemini 2.5 Flash Image Preview](https://developers.googleblog.com/zh-hans/introducing-gemini-2-5-flash-image)。我在社交媒体看到一个神奇的 prompt，能把真实照片或其他图片生成桌面手办，背景还有电脑屏幕和柜子的物件，一下子竟然分不清是否真实照片，以往 AI 生图那种 AI 味几乎消失。我马上用霉霉刚发布的专辑海报试了一下，效果竟然出奇的好，需要很仔细才能分辨出来是 AI 生图。这个模型的发布想必会是一个关键节点。[IT之家的新闻](https://www.ithome.com/0/878/269.htm)，[Google AI Studio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview)
 - 2025-08-27 自 DeepSeek V3.1 发布后，我使用这个版本的次数增加了，使用体验比 V3 甚至 R1 要好上不少，没有之前那么多幻觉，语言也更加接地气。不过还是没有摆脱过于吹捧用户的倾向。
