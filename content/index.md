@@ -6,8 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
-> - 0904 [[ai|AI]]
-> - 0901 [[now]]
+> - 0917 [[now]]，[[ai|主观 AI 编年史]]，[[long live macdonalds]]，[[make a tool with gemini in python|用 Gemini 2.5 Pro 制作一个小工具]]
 > - 0828 [[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
 > - 0822 [[now]]，[[self authorship|Self-Authorship]]
 > - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]

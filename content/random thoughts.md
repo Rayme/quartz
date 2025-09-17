@@ -4,6 +4,7 @@ title: 要多想
 
 ## 2025
 
+- 0917 [[make a tool with gemini in python|Gemini 2.5 Flash 帮我做了一个小工具]]
 - 0807 [[anything other than productivity|工具只是工具，重要的是工具以外的一切]]
 - 0611 [[do now pages archive needed|Now pages 需要归档吗？]]
 - 0609 [[create orginal works|原创写作瓶颈和外部化]]
