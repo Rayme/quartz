@@ -1,6 +1,17 @@
 ---
 date: 2025-09-17
 ---
+这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)
+
+_This now page is inspired by Derek Sivers_
+
+- [The /now page movement](https://sive.rs/nowff)
+- about [nownownow.com](https://nownownow.com/about)
+- [My /now page](https://nownownow.com/p/WIIG) on nownownow.com
+
+People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
+
+---
 ## 20250917
 
 九月以意想不到的形式突然过半。这一个月以来身体状况起起伏伏，外在环境和内心都正在发生许多变化，我感受到我与世界的交互与融合更加深了。
@@ -13,32 +24,9 @@ date: 2025-09-17
 
 自从订阅了 [[make a tool with gemini in python|Gemini AI Pro]] 之后，我使用这个大模型的时间大幅增加，几乎不再使用 Perplexity 和 DeepSeek，连 ChatGPT 的使用频次也下降了非常多。Gemini 在许多方面都比其他几个大模型更加适合我用，他帮助我解决了许多实际问题，而不是作为一个简单的交流对象。
 
-舆论场上的噪音并没有减少，**社交媒体**这个媒介注定充满噪音和干扰。避免信息过载，找到自己真正想要的是什么，什么是对自己有益的。多做能产生正向反馈的事情，少接触或者远离消耗注意力和心气的事情。
-
-依然热爱生活，没有失去对事物的好奇心。对于更多事件愿意尝试更深入思考一点，说得更少，想得更多些。努力做到**实事求是**。尝试从多个角度理解问题，越是理解，立场越是坚定。多做**重要不紧急**的事，坚持长期主义并用心实践。
-
-在[[learning french with duolingo|多邻国上学习法语]]已经836天，失去追逐高排名和高分数的耐心，对于学习法语的兴趣在逐渐下降中。
-
-年度写作50篇博文竞赛进度：25 - 15 （[小胡](https://yinji.org)已经完成一半了！）
-
-不要停止关注巴以冲突。
+年度写作50篇博文竞赛进度：26 - 16 （[小胡](https://yinji.org)已经完成一半了！）
 
 ---
-
-这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)
-
-_This now page is inspired by Derek Sivers_
-
-- [The /now page movement](https://sive.rs/nowff)
-- about [nownownow.com](https://nownownow.com/about)
-- [My /now page](https://nownownow.com/p/WIIG) on nownownow.com
-
-People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
-
----
-
-20250813 实践 [[do now pages archive needed|追溯时间切片]]，归档过去写过的 now pages，读起来能体会到生活不再是空白一片。
-
 ## 20250901
 
 瞬间来到九月，这一年速度比往年更快了。工作变动完后，如今逐渐稳定下来，稳步推进生活里的各项事务，虽稍稍快但也乐在其中。

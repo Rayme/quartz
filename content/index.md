@@ -9,7 +9,7 @@ title: 按钮与磁带
 > - 0918 [[attention training|注意力训练]]
 > - 0917 [[now]]，[[ai|主观 AI 编年史]]，[[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
 > - 0828 [[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
-> - 0822 [[now]]，[[self authorship|Self-Authorship]]
+> - 0822 [[self authorship|Self-Authorship]]
 > - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
 > - 0813 [[the shadows edge|《捕风追影》观后感]]
 > - 0811 [[movies and shows|影视剧观后感]]：[[mission impossible 8|碟中谍8：最终清算]]，[[f1|F1：狂飙飞车]]，[[the lychee road|长安的荔枝]]，[[dead to rights|南京照相馆]]
@@ -18,12 +18,8 @@ title: 按钮与磁带
 > - 0718 [[easy has a cost]]
 > - 0711 [[how to calm|平复情绪的方法]]
 > - 0709 [[movies and shows|院线观影记录更新]]，[[travel in liu zhou|柳州见闻]]
-> - 0620 [[movies and shows|影视剧观后感清单]]，[[notetaking|笔记相关页面]]，[[my note taking rules|我的笔记方法]]，[[obsidian|Obsidian]]，[[tiddlywiki|TiddlyWiki]]
-> - 0617 [[ballerina|《芭蕾杀姬》观后感]]
-> - 0609 [[thinking in systems|《系统之美》读后感]]，[[create orginal works|原创写作瓶颈和外部化]]
-> - 0605 [[ai|AI]]，[[siddhartha|人人都是悉达多]]
-> - 0604 [[tao|我读《道德经》]]，[[quotes from others|他们如是说]]
-> - 0603 [[thunderbolts|《雷霆特攻队*》观后感]]，[[random thoughts|要多想]]，[[strange stories from metro|地铁怪谈]]
+> 
+> [[site log#内容更新归档|内容更新归档]]
 
 ## Horizon 🌏
  
@@ -54,10 +50,17 @@ title: 按钮与磁带
 刻意减少 [[ai|AI]] 的使用频率对于保护自己的**思考过程**有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者借助 AI 从不同视角批判特定事物。
 
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
-
 ## Thyself 💭
 
 - [[now|我最近在做什么]]
 - [[about me|关于我]]
 - [[why this site|为什么会有这个站点]]
 - [[site log|站点日志]]
+
+---
+
+如无特别声明，除引用内容外，本站所有内容均由人类写作。
+
+本站点内容采用 [知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
+
+![[by-sa.png|88x31]] ![[Written-By-Human-Not-By-AI-Badge-white.png|88x31]]

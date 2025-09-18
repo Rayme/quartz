@@ -2,7 +2,6 @@
 title: AI
 date: 2025-06-05
 ---
-
 20250605 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 
 最后一次记录是2025年3月7日，距今（6月5日）短短两个月，AI 行业继续风云变幻。就在过去的一个月内发生这些事：Manus 还未死亡，GPT-5 即将面世，Claude 4 和谷歌的 Gemini 2.5 Pro 大杀四方，谷歌的 Veo3 的[一个视频](https://x.com/HashemGhaili/status/1925616536791760987)震撼世人……已经难以跟进。
@@ -40,7 +39,8 @@ date: 2025-06-05
 ## 1H24
 
 - 2024-05-27 OpenAI 近期重大事件（丑闻）合集：OpenAI 大批员工离职；ChatGPT 声音 Sky 极像斯嘉丽·约翰逊，发布之前与斯嘉丽沟通过配音事宜但寡姐拒绝；奥特曼声称其不知道离职协议中的【禁止批评 OpenAI 否则回收股权】部分，但很快爆出官方文件有其签名；OpenAI 反对大模型开源，奥特曼称不知 Open 为何意。已有不少媒体做整理：[IT之家](https://www.ithome.com/0/770/404.htm)，[差评](https://mp.weixin.qq.com/s/SWfeb2r_Qz9t1GpBczFh_Q)，[酷玩实验室](https://mp.weixin.qq.com/s/6Ddm2xYpLR7EbDX8uZmNbQ)
-- 2024-05-15 2023年11月 OpenAI 高层动荡事件是有余温的，今天 Ilya [宣布](https://twitter.com/ilyasut/status/1790517455628198322)离职 OpenAI。2024-05-18 宫斗剧还在继续，IT之家[做了整理](https://www.ithome.com/0/768/963.htm)。
+- 2024-05-15 2023年11月 OpenAI 高层动荡事件是有余温的，今天 Ilya [宣布](https://twitter.com/ilyasut/status/1790517455628198322)离职 OpenAI。
+	- 2024-05-18 宫斗剧还在继续，IT之家[做了整理](https://www.ithome.com/0/768/963.htm)。
 - 2024-05-14 OpenAI 在今天发布了新的免费大语言模型：[GPT-4o](https://openai.com/index/hello-gpt-4o)（[IT之家新闻](https://www.ithome.com/0/767/693.htm)），很遗憾我的账号还没有被灰度，在 [Poe](https://poe.com/) 上可以免费试用约10条，暂时没有体会到先进之处。
 - 2024-04-19 发现一个低调的 AI 应用：[flowith](https://flo.ing/)（或[这个入口](https://try.flowith.io/)，据开发者称，因为精力全部投入到产品上，因此官网基本上没人管……），设计和使用相当让人惊喜：无限画布、提问分支、图谱结构、AI 决策、开放网络搜索、MidJourney 生图，每一步都打在 AI 应用的七寸上。甚至产生比 Perplexity 更重的付费意愿。开发者在推特写了一条很长的 [thread](https://twitter.com/DerekNee/status/1780848075264921711) 来介绍他们的产品。
 - 2024-04-17 今天发现 [Perplexity AI](https://perplexity.ai/) 使用港区的 IP 无法访问，提示 `We have detected unusual activity coming from your IP address and blocked your request.` 切换到美区 IP 恢复正常。
