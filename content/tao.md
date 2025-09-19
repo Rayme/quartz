@@ -75,7 +75,6 @@ title: 我读《道德经》
 - [[the root of all|以天下观天下]]
 - [[be pure and plain|含德之厚者比于赤子]]
 - [[be humble and silence|知者弗言言者弗知]]
-- [[start small step|为无为事无事]]
 - [[grasp small things|百仞之高始于足下]]
 - [[treasures of tao|我恒有三宝持而宝之]]
 - [[know nothing|知不知尚矣]]

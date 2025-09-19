@@ -20,7 +20,6 @@ date: 2025-08-07
 
 - [Gavin Arturo Gamboa](https://gavart.ist/)
 - [TriTarget.org](https://tritarget.org/)
-- [槿航园录](https://note.justgoidea.com/)
 - [Projects & Privacy](https://be-far.com/)
 - [⦗ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱: h0p3⦘](https://h0p3.neocities.org/)
 - [Joel Hooks](https://joelhooks.com/)

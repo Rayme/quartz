@@ -34,12 +34,12 @@ title: 按钮与磁带
 慢慢学习[[tao|《道德经》]]。
 ## Anchor ⚓
 
-互联网风起云涌，应当注重[[filter sources|筛选高质量的信息]]。对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，事情都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，错过重要决策的窗口。
+互联网风起云涌，应当注重[[filter sources|筛选高质量的信息]]。对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，摄入的内容尽量都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，产生[[confirmation bias|确认偏见]]，错过重要决策的窗口。
 
 > 焦虑来自于信息无序的涌入，最终导致选择瘫痪。
 > \- [少楠](https://mp.weixin.qq.com/s/0ikMi55OxMpPwYCaLXXuvg)
 
-注重[[manage your energy not your time|管理精力]]，而不是管理时间。更多地[[consume less create more|创造，而不是消费]]。多动手[[on practice|实践]]，少停留在理论层面。把自己的生活模式当作一个[[life as a system|完整的系统]]。
+注重[[manage your energy not your time|管理精力]]，更多地[[consume less create more|创造]]，控制数字内容消费。多动手[[on practice|实践]]，少停留在理论层面。把自己的生活模式当作一个[[life as a system|完整的系统]]。
 
 在[[atomic habits|《掌控习惯》]]中，关于[[review and reflection|培养好习惯、回顾和反思]]，能够当作一种对任何状态下的自我提醒。
 
