@@ -10,6 +10,7 @@ title: 博客文章
 
 ### 2025
 
+- [[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
 - [[long live macdonalds|麦门永存。]]
 - [[the shadows edge|捕风追影]]
 - [[summer movies 2025|2025 暑期观影]]

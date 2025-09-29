@@ -6,18 +6,15 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
+> - 0929 [[now]]，[[on how to read|如何读书]]
 > - 0918 [[attention training|注意力训练]]
-> - 0917 [[now]]，[[ai|主观 AI 编年史]]，[[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
+> - 0917 [[ai|主观 AI 编年史]]，[[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
 > - 0828 [[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
 > - 0822 [[self authorship|Self-Authorship]]
 > - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
 > - 0813 [[the shadows edge|《捕风追影》观后感]]
 > - 0811 [[movies and shows|影视剧观后感]]：[[mission impossible 8|碟中谍8：最终清算]]，[[f1|F1：狂飙飞车]]，[[the lychee road|长安的荔枝]]，[[dead to rights|南京照相馆]]
 > - 0807 [[site log|站点更新日志]]，[[anything other than productivity|工具只是工具，重要的是工具以外的一切]]
-> - 0806 [[gossip on movies|影视剧想法]]
-> - 0718 [[easy has a cost]]
-> - 0711 [[how to calm|平复情绪的方法]]
-> - 0709 [[movies and shows|院线观影记录更新]]，[[travel in liu zhou|柳州见闻]]
 > 
 > [[site log#内容更新归档|内容更新归档]]
 
@@ -43,7 +40,7 @@ title: 按钮与磁带
 
 在[[atomic habits|《掌控习惯》]]中，关于[[review and reflection|培养好习惯、回顾和反思]]，能够当作一种对任何状态下的自我提醒。
 
-一套好的[[notetaking|记笔记方法]]能够帮助我们更好地执行上述这些工作。
+一套好的[[notetaking|记笔记方法]]能够帮助我们更好地执行上述这些工作。关于[[on how to read|如何读书]]，既有方法，也可以完全顺其自然。
 
 睡眠是人的一天中最重要的事，尤其是对于能量少的人群。[[sleep better|拒绝熬夜，从我做起]]。
 

@@ -12,6 +12,18 @@ _This now page is inspired by Derek Sivers_
 People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
 
 ---
+## 20250929
+
+突然半个月过去，沉浸在生活和工作中完全没意识到时间就这么过去了。日常很繁忙，事务繁多，倒也算得上稳步推进，没有遇到太大的挫折和阻碍，只有经历了一次大台风。工作中准备十月的旺季，但并不抱有太大希望，听从市场的手。生活中快乐获得越来越多，人的心态也越来越好了。
+
+上一次记录 now，我还在追《凡人修仙传》。现在发现那就是我最后一次看凡人了，因为在那之后我在追《终极名单：黑狼》和《和平使者》两部电视剧（甚至还没来得及看《V世代》）。前者高开低走，后者一如既往地抽象。这半个月来继续重温老电影，如《窃听风云》和《跟踪》。看了口碑暴跌的《神奇四侠：初露锋芒》，这部电影的品质配得上它的评分。唯一的优点是贯穿整部电影的复古未来主义，我实在是对这种风格没有任何抵抗力。
+
+赛博书架又多了几本书籍，有在某地方见到马上加入书架的，也有订阅了某些书籍然后送书侠赠送的，如《人有人的用处》、《红色资本》等。关于计算机组成原理的书籍，之前的《编码》不求甚解，借助更多书籍了解，如《计算机是怎样跑起来》。这些书我都不确定什么时候能读完、会不会读完，我只知道看到感兴趣的就添加，兴致来了就读，不给自己设限，也不定目标，享受最纯粹的阅读乐趣。实体书籍方面我拾起《面纱》和 *Useful Not True*，感受实实在在的物理智慧。
+
+跟随小胡的脚步，创建了一个相册：[何来尘埃飞舞](https://photo.imzm.org)，我拍的许多照片终于有了藏身之地。
+
+年度写作50篇博文竞赛进度：27 - 16
+
 ## 20250917
 
 九月以意想不到的形式突然过半。这一个月以来身体状况起起伏伏，外在环境和内心都正在发生许多变化，我感受到我与世界的交互与融合更加深了。
@@ -23,8 +35,6 @@ People nowadays hold different positions, and it is growing frustrating. We need
 手上的 [[gpd win max 2 review|GPD Win Max 2]] 出现电池鼓包现象，从安全角度讲不能继续使用了。但老伙计说可以换一个电池，我决定去会会 GPD 公司。于是只用了十几分钟就给我换了一个新电池，还有合理的价格，让我的这台电脑焕发新生。
 
 自从订阅了 [[make a tool with gemini in python|Gemini AI Pro]] 之后，我使用这个大模型的时间大幅增加，几乎不再使用 Perplexity 和 DeepSeek，连 ChatGPT 的使用频次也下降了非常多。Gemini 在许多方面都比其他几个大模型更加适合我用，他帮助我解决了许多实际问题，而不是作为一个简单的交流对象。
-
-年度写作50篇博文竞赛进度：26 - 16 （[小胡](https://yinji.org)已经完成一半了！）
 
 ---
 ## 20250901
