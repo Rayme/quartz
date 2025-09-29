@@ -6,9 +6,9 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
-> - 0929 [[now]]，[[on how to read|如何读书]]
+> - 0929 [[now]]，[[on how to read|如何读书]]，[[ai|主观 AI 编年史]]，[[about me|关于我]]
 > - 0918 [[attention training|注意力训练]]
-> - 0917 [[ai|主观 AI 编年史]]，[[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
+> - 0917 [[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
 > - 0828 [[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
 > - 0822 [[self authorship|Self-Authorship]]
 > - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
@@ -36,7 +36,7 @@ title: 按钮与磁带
 > 焦虑来自于信息无序的涌入，最终导致选择瘫痪。
 > \- [少楠](https://mp.weixin.qq.com/s/0ikMi55OxMpPwYCaLXXuvg)
 
-注重[[manage your energy not your time|管理精力]]，更多地[[consume less create more|创造]]，控制数字内容消费。多动手[[on practice|实践]]，少停留在理论层面。把自己的生活模式当作一个[[life as a system|完整的系统]]。
+注重[[manage your energy not your time|管理精力]]，更多地[[consume less create more|创造]]，控制数字内容消费。多动手[[on practice|实践]]，少停留在理论层面。避免[[get your body going|拖延症]]（[[atomic habits#让它简便易行|让它简便易行]]）。把自己的生活模式当作一个[[life as a system|完整的系统]]。
 
 在[[atomic habits|《掌控习惯》]]中，关于[[review and reflection|培养好习惯、回顾和反思]]，能够当作一种对任何状态下的自我提醒。
 

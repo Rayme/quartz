@@ -2,7 +2,7 @@
 title: 如何读书
 date: 2025-09-29
 ---
-- [How to Remember What You Read](https://fs.blog/how-to-remember-what-you-read) FS
+[How to Remember What You Read](https://fs.blog/how-to-remember-what-you-read) FS
 
 这篇文章提到关于读书的几个原则：
 
@@ -31,4 +31,7 @@ date: 2025-09-29
 
 读书的过程和读完之后，对于有用的书籍，记得[[my note taking rules|做笔记]]哦。
 
+---
+
 20250929 待更新：[How to better remember what you read](https://nesslabs.com/remember-what-you-read) Anne-Laure Le Cunff
+

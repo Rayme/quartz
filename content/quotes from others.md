@@ -1,6 +1,7 @@
 ---
 title: 他们如是说
 ---
+- [[get your body going]] James Clear
 - [[self authorship|Self-Authorship: The Art of Trusting Your Own Authority]] Anne-Laure Le Cunff
 - [[work harder until work smarter]] FS
 - [[action relieves anxiety]] James Clear
