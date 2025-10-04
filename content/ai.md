@@ -12,6 +12,8 @@ date: 2025-06-05
 
 ## 2H25
 
+- 2025-10-04 OpenAI 在10月1日发布了 [Sora 2](https://openai.com/index/sora-2)，上一次引起比较大震撼的视频生成模型还是 Veo3，不过短短几个月前。由于 Sora by OpenAI 只在 iOS 平台上架，我还没能试用到，尽管我在各种社交媒体已经看到许多邀请码。我天生对邀请码机制反感，于是决定观望一阵。并且“AI 换脸”在历史上并没有很好的名声。
+	- 另外，Gemini 3.0 Pro 要发布了，我很期待。
 - 2025-09-29 最近半个月，主要新闻是 DeepSeek 发布 [DeepSeek-V3.2-Exp 模型](https://mp.weixin.qq.com/s/6hKi5F_S2zQ4g6SyF0UNow)， 能阅读更长的文本并且速度更快，开源，API 大幅降价。经过短暂使用，我发现这一版本更轻快，更精准，不过比上一代偶尔少了些深度。
 - 2025-09-18 今天的大新闻是 [DeepSeek-R1 登上 nature 封面](https://www.huxiu.com/article/4781663.html)。根据引用新闻了解到，R1 的开创之处是在[论文](https://www.nature.com/articles/s41586-025-09422-z)中公开了训练过程、训练成本，以及交给8位同行评审审查，公开审稿意见和作者回复。这注定是在大语言模型甚至 AI 发展史上浓墨重彩的一页。[补充材料](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-025-09422-z/MediaObjects/41586_2025_9422_MOESM1_ESM.pdf)和[同行评审意见](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-025-09422-z/MediaObjects/41586_2025_9422_MOESM2_ESM.pdf)
 - 2025-09-08 用特殊手段通过 Gemini 学生优惠验证，正式获得 Google AI Pro 一年使用权，自此开始高强度使用 Gemini 2.5 Flash 和 2.5 Pro。令人意外地，这二者都比 ChatGPT 等大模型更加符合我的需求，能够通过短暂调教最高效率获得我想要的结果。不到半个月内我开启了超过一百条对话，生成超过100张图片，用了大约10次 2.5 Pro，解答了数十个快速问题和数个深度分析问题，甚至还用 Python 做了一个符合我使用的[[make a tool with gemini in python|小工具]]并且马上上手。不出意外的话，接下来的一年里我会继续高强度使用 Gemini。
