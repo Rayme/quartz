@@ -6,6 +6,7 @@ date: 2025-10-04
 
 [[taylor swift albums|Taylor Swift Albums]]
 
+- 2025-10-14 这段时间循环的音乐自然是 The Life of a Showgirl。曲目不长，40多分钟时间，开车稍长些时间几乎可以整张听完。过去 [[the tortured poets department|TTPD]] 能听好几段路才完成一个循环。
 - 2025-10-04 时光飞逝，The Life of a Showgirl 在10月3日准时发布！10月4日傍晚首听，后续更新听后感。
 - 2025-08-28 霉霉在8月27日官宣了订婚消息，甚是感慨。两天内听完了她五张专辑。
 

@@ -6,8 +6,9 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
-> - 1004 [[faint|Faint]]，[[ai|主观 AI 编年史]]，[何来尘埃飞舞](https://photo.imzm.org)
-> - 0929 [[now]]，[[on how to read|如何读书]]，[[about me|关于我]]
+> - 1014 [[now]]，[[music|音乐]]，[[ai|主观 AI 编年史]]
+> - 1004 [[faint|Faint]]，[何来尘埃飞舞](https://photo.imzm.org)
+> - 0929 [[on how to read|如何读书]]，[[about me|关于我]]
 > - 0918 [[attention training|注意力训练]]
 > - 0917 [[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
 > - 0828 [[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
@@ -48,6 +49,12 @@ title: 按钮与磁带
 刻意减少 [[ai|AI]] 的使用频率对于保护自己的**思考过程**有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者借助 AI 从不同视角批判特定事物。
 
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
+
+> [!notes on 0929]
+> - 定期审计系统
+> - 多反驳自己坚信的观点
+> - 尝试建构
+> - 允许花园中有感性和混沌存在
 ## Thyself 💭
 
 - [[now|我最近在做什么]]
