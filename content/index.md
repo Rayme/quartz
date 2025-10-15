@@ -6,7 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
-> - 1014 [[now]]，[[music|音乐]]，[[ai|主观 AI 编年史]]
+> - 1015 [[now]]，[[music|音乐]]，[[ai|主观 AI 编年史]]，[[passersby|《路人》]]
 > - 1004 [[faint|Faint]]，[何来尘埃飞舞](https://photo.imzm.org)
 > - 0929 [[on how to read|如何读书]]，[[about me|关于我]]
 > - 0918 [[attention training|注意力训练]]
