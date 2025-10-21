@@ -12,6 +12,7 @@ date: 2025-06-05
 
 ## 2H25
 
+- 2025-10-21 昨天（10月20日）DeepSeek 突然开源一个新模型：[DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)，也是带着论文来的。读过 APPSO 的[解析](https://mp.weixin.qq.com/s/Woz0UnaDwgTW92m9NzY-2Q?click_id=8)，我大致理解是用解析图像的方式记忆和处理超长上下文，从而节省 token，本质上还是遵循一贯的性价比路线。不知道对于 C 端用户后期是否有体验增强。
 - 2025-10-14 今日在使用 Google 搜索时，突然弹出 **AI 模式** 的介绍，简单使用，立刻让我想起许久未用的 Perplexity。查了一下[官方介绍](https://search.google/ways-to-search/ai-mode)，原来是今年6月25日发布的，近期刚刚推送给大量国际用户。查看用户反馈，发现 AI 模式最大的优势是谷歌庞大的数据库和用户数据，能比其他竞品带给用户更精确的搜索体验。我相信以谷歌搜集用户隐私的能力确实在数值上就碾压其他竞品。因为它的存在，以后也许更加不用使用 Perplexity 了。
 - 2025-10-04 OpenAI 在10月1日发布了 [Sora 2](https://openai.com/index/sora-2)，上一次引起比较大震撼的视频生成模型还是 Veo3，不过短短几个月前。由于 Sora by OpenAI 只在 iOS 平台上架，我还没能试用到，尽管我在各种社交媒体已经看到许多邀请码。我天生对邀请码机制反感，于是决定观望一阵。并且“AI 换脸”在历史上并没有很好的名声。
 	- 另外，Gemini 3.0 Pro 要发布了，我很期待。
