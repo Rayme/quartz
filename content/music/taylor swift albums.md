@@ -11,4 +11,4 @@ tags:
 - 2023-07-07 [[speak now ts|Speak Now (Taylor's Version)]]
 - 2023-10-27 [[1989 ts|1989 (Taylor's Version)]]
 - 2024-04-19 [[the tortured poets department|The Tortured Poets Department]]
-- 2025-10-03 The Life of a Showgirl
+- 2025-10-03 [[the life of a showgirl|The Life of a Showgirl]]
