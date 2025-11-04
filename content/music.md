@@ -7,8 +7,8 @@ date: 2025-10-04
 [[taylor swift albums|Taylor Swift Albums]]
 
 - 2025-11-03 陈奕迅总有一些老歌值得反反复复听，也总有一些未发掘的老歌可以当作新歌听。例如最近一直沉迷的：失忆蝴蝶、猜青寻、远在咫尺、任我行，以及我重复听了十几年的：陀飞轮、沙龙、一丝不挂、落花流水、十面埋伏、于心有愧、七百年后、Shall We Talk、完。
-- 2025-10-14 这段时间循环的音乐自然是 The Life of a Showgirl。曲目不长，40多分钟时间，开车稍长些时间几乎可以整张听完。过去 [[the tortured poets department|TTPD]] 能听好几段路才完成一个循环。
-- 2025-10-04 时光飞逝，The Life of a Showgirl 在10月3日准时发布！10月4日傍晚首听，后续更新听后感。
+- 2025-10-14 这段时间循环的音乐自然是 [[the life of a showgirl|The Life of a Showgirl]]。曲目不长，40多分钟时间，开车稍长些时间几乎可以整张听完。过去 [[the tortured poets department|TTPD]] 能听好几段路才完成一个循环。
+- 2025-10-04 时光飞逝，[[the life of a showgirl|The Life of a Showgirl]] 在10月3日准时发布！10月4日傍晚首听，后续更新听后感。
 - 2025-08-28 霉霉在8月27日官宣了订婚消息，甚是感慨。两天内听完了她五张专辑。
 
 *...短暂停止记录...*

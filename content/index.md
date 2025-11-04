@@ -6,6 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
+> - 1104 [[ai|主观 AI 编年史]]，[[the life of a showgirl|The Life of a Showgirl]]
 > - 1103 [[music]]
 > - 1030 [[now]]
 > - 1020 [[peacemaker season 2|《和平使者》第二季]]
