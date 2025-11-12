@@ -12,6 +12,7 @@ date: 2025-06-05
 
 ## 2H25
 
+- 2025-11-12 11月6日，月之暗面发布了开源的 [Kimi K2 Thinking](https://www.ithome.com/0/895/484.htm)，引起国内外不少讨论，开发团队还在 reddit 上进行了一场 [AMA](https://www.reddit.com/r/LocalLLaMA/comments/1oth5pw/ama_with_moonshot_ai_the_opensource_frontier_lab/)。今日参考 @aiwarts 老师的推送白嫖了一个月 Kimi Andante 会员。不过目前还没有使用场景，这个月找个机会试试看。 
 - 2025-11-04 OpenAI 的撕逼大戏还在继续更新。这次是 Ilya Sutskever 提交给董事会的备忘录，足足52页的 PDF 文件，我自然是没法读完。很高兴 APPSO 再次[帮读者们整理了](https://mp.weixin.qq.com/s/6nSqCUOBkyDlwQme2lY1pA)这一份瓜，并且用了新的叙事方式。
 - 2025-11-04 另外是 [nof1.ai](https://nof1.ai) 举办的 AI 交易大赛，国产的 Qwen 3 Max 和 DeepSeek V3.1 Chat 分列一二名，出乎意料的是 GPT-5 亏损62.66%~~，这还不如我呢~~。感谢 APPSO 的[一路](https://mp.weixin.qq.com/s/znz4ST-vjcCpBefTVCkT_A)[记录](https://mp.weixin.qq.com/s/vhKARLnYRRqGUBInG76MBQ)。
 - 2025-10-21 昨天（10月20日）DeepSeek 突然开源一个新模型：[DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)，也是带着论文来的。读过 APPSO 的[解析](https://mp.weixin.qq.com/s/Woz0UnaDwgTW92m9NzY-2Q?click_id=8)，我大致理解是用解析图像的方式记忆和处理超长上下文，从而节省 token，本质上还是遵循一贯的性价比路线。不知道对于 C 端用户后期是否有体验增强。

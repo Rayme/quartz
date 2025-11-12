@@ -10,6 +10,9 @@ title: 博客文章
 
 ### 2025
 
+- [[a house of dynamite|白宫到底炸没炸]]
+- [[group chats could be overwhelming|Group Chats Could Be Overwhelming]]
+- [[peacemaker season 2|和平使者不和平]]
 - [[passersby|路人]]
 - [[faint|Faint]]
 - [[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
