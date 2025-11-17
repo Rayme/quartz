@@ -12,6 +12,8 @@ date: 2025-06-05
 
 ## 2H25
 
+- 2025-11-17 阿里今天发布了千问 app。前身是通义，23年4月就发布了，但当时使用体验极差，我嘲讽它（通义千问）是文心一言的下联。现在两年多过去，文心一言依旧毫无兴趣，但今天发布的千问似乎有点东西。首次体验，界面清爽简洁，如同早期的夸克；功能非常齐全，该有的都有，但还未全部试用。普通的文字对话和修图功能可以及格但有小 bug（文字对话有概率遗忘上下文，修图功能有概率理解错误），总结 PDF 能力稍逊（读不完全文），生图功能时好时坏，最惊奇的还是图生视频，没有明显生硬的 AI 感。在通用 AI 助理方面，我认为千问是继豆包和 kimi 之后，又一个有力的竞争对手。
+	- 很遗憾，深度思考仍有不少错误的数据和信息。
 - 2025-11-12 11月6日，月之暗面发布了开源的 [Kimi K2 Thinking](https://www.ithome.com/0/895/484.htm)，引起国内外不少讨论，开发团队还在 reddit 上进行了一场 [AMA](https://www.reddit.com/r/LocalLLaMA/comments/1oth5pw/ama_with_moonshot_ai_the_opensource_frontier_lab/)。今日参考 @aiwarts 老师的推送白嫖了一个月 Kimi Andante 会员。不过目前还没有使用场景，这个月找个机会试试看。 
 - 2025-11-04 OpenAI 的撕逼大戏还在继续更新。这次是 Ilya Sutskever 提交给董事会的备忘录，足足52页的 PDF 文件，我自然是没法读完。很高兴 APPSO 再次[帮读者们整理了](https://mp.weixin.qq.com/s/6nSqCUOBkyDlwQme2lY1pA)这一份瓜，并且用了新的叙事方式。
 - 2025-11-04 另外是 [nof1.ai](https://nof1.ai) 举办的 AI 交易大赛，国产的 Qwen 3 Max 和 DeepSeek V3.1 Chat 分列一二名，出乎意料的是 GPT-5 亏损62.66%~~，这还不如我呢~~。感谢 APPSO 的[一路](https://mp.weixin.qq.com/s/znz4ST-vjcCpBefTVCkT_A)[记录](https://mp.weixin.qq.com/s/vhKARLnYRRqGUBInG76MBQ)。

@@ -6,6 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
+> - 1117 [[ai|主观 AI 编年史]]，[[movies and shows|影视剧观后感]]
 > - 1111 [[now]]
 > - 1107 [[a house of dynamite|《炸药屋》]]
 > - 1104 [[ai|主观 AI 编年史]]，[[the life of a showgirl|The Life of a Showgirl]]
@@ -27,7 +28,7 @@ title: 按钮与磁带
 
 ## Horizon 🌏
  
-[[posts|博客文章列表]]。写得最多的主题：
+[[posts|博客文章列表]]。主要写作主题：
 
 - [[movies and shows|影视剧观后感]] | [[gossip on movies|影视剧想法]]
 - [[i love books|书籍读后感]] | [[music|音乐]]
