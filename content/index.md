@@ -6,8 +6,8 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
-> - 1117 [[ai|主观 AI 编年史]]，[[movies and shows|影视剧观后感]]
-> - 1111 [[now]]
+> - 1125 [[now]]，[[ai|主观 AI 编年史]]，[[the life of a showgirl|The Life of a Showgirl]]
+> - 1117 [[movies and shows|影视剧观后感]]
 > - 1107 [[a house of dynamite|《炸药屋》]]
 > - 1104 [[ai|主观 AI 编年史]]，[[the life of a showgirl|The Life of a Showgirl]]
 > - 1103 [[music]]
@@ -16,13 +16,10 @@ title: 按钮与磁带
 > - 1004 [[faint|Faint]]，[何来尘埃飞舞](https://photo.imzm.org)
 > - 0929 [[on how to read|如何读书]]，[[about me|关于我]]
 > - 0918 [[attention training|注意力训练]]
-> - 0917 [[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
+> - 0917 [[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|《用 Gemini 2.5 Flash 制作一个小工具》]]
 > - 0828 [[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
 > - 0822 [[self authorship|Self-Authorship]]
 > - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
-> - 0813 [[the shadows edge|《捕风追影》观后感]]
-> - 0811 [[movies and shows|影视剧观后感]]：[[mission impossible 8|碟中谍8：最终清算]]，[[f1|F1：狂飙飞车]]，[[the lychee road|长安的荔枝]]，[[dead to rights|南京照相馆]]
-> - 0807 [[site log|站点更新日志]]，[[anything other than productivity|工具只是工具，重要的是工具以外的一切]]
 > 
 > [[site log#内容更新归档|内容更新归档]]
 

@@ -1,5 +1,5 @@
 ---
-date: 2025-11-11
+date: 2025-11-25
 ---
 这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)
 
@@ -12,6 +12,16 @@ _This now page is inspired by Derek Sivers_
 People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
 
 ---
+
+## 20251125
+
+亚马逊的黑五网一正在进行，贵为一年一度最大的促销活动，明显感知到不论是卖家方还是买家方都乏力。规则大变、地缘政治的影响、经济下行，无不是不可抗力。作为卖家在这个大平台上风雨飘摇。
+
+享受生活，读更多书，看更多影视剧，甚至开始看一些综艺节目，享受不用动脑子的放松。最近想去电影院看的两部电影：《惊天魔盗团3》和《疯狂动物城2》尚未有时间去，需要在下映前赶紧去一次，不然下映之后再也提不起兴趣了，如之前暑期档的一些电影。
+
+[百日英语写作计划](https://zm.bearblog.dev)已经40天，接近半程，我感到有些许惊讶，我起初也没想到我真的能持续写足40天，每天都有一个完整的主题，尽管质量不高，但贵在完整。不知道能否持续到100天，如果达成，我想我还是会继续写下去。上一次提到订阅新的 newsletter，读起来依然吃力，但比最开始稍微好了一些。碰到单词尽量先通过上下文猜，尽量不借助翻译机翻译完整的句子，拒绝通过 AI 总结全文。这是我给自己设置的底线。
+
+多邻国上学习法语已经905天。前几天碰到一个网络或者 app 问题，我的学习不被记录，日期突然回到了一天。一开始感到很泄气，后来发现只是网络问题而已，网页端显示连胜纪录还在。这个插曲暴露出我[关注连胜纪录多于学习法语本身](https://zm.bearblog.dev/when-duolingo-day-streak-fails)的问题，使我警觉。
 
 ## 20251111
 
