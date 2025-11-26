@@ -6,7 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
-> - 1125 [[now]]，[[ai|主观 AI 编年史]]，[[the life of a showgirl|The Life of a Showgirl]]
+> - 1125 1126 [[now]]，[[ai|主观 AI 编年史]]，[[the life of a showgirl|The Life of a Showgirl]]
 > - 1117 [[movies and shows|影视剧观后感]]
 > - 1107 [[a house of dynamite|《炸药屋》]]
 > - 1104 [[ai|主观 AI 编年史]]，[[the life of a showgirl|The Life of a Showgirl]]
