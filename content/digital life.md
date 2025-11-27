@@ -3,6 +3,8 @@ title: 科技生活
 ---
 ## 赛博社会
 
+- [[group chats could be overwhelming|Group Chats Could Be Overwhelming]]
+- [[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
 - [[700 days after|七百天后]]
 - [[blog posts/my app defaults 2024|My App Defaults 2024]]
 - [[blog posts/15 questions on blogging|独立博客自省问卷15题]]
