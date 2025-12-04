@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Bree Serif",
-        body: "Bree Serif",
+        header: "Ubuntu",
+        body: "Noto Sans SC",
         code: "Noto Sans Mono",
       },
       colors: {
