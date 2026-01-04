@@ -1,5 +1,5 @@
 ---
-title: 疯狂动物城2
+title: 动物乌托邦
 tags:
   - movies
 date: 2025-11-28

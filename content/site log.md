@@ -14,6 +14,13 @@ title: "\r站点日志"
 
 ## 内容更新归档
 
+> - 1004 [[faint|Faint]]，[何来尘埃飞舞](https://photo.imzm.org)
+> - 0929 [[on how to read|如何读书]]，[[about me|关于我]]
+> - 0918 [[attention training|注意力训练]]
+> - 0917 [[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|《用 Gemini 2.5 Flash 制作一个小工具》]]
+> - 0828 [[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
+> - 0822 [[self authorship|Self-Authorship]]
+> - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
 > - 0806 [[gossip on movies|影视剧想法]]
 > - 0718 [[easy has a cost]]
 > - 0711 [[how to calm|平复情绪的方法]]

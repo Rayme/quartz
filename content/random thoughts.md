@@ -1,7 +1,6 @@
 ---
 title: 要多想
 ---
-
 ## 2025
 
 - 0918 [[attention training|注意力训练]]

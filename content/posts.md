@@ -10,6 +10,8 @@ title: 博客文章
 
 ### 2025
 
+- [[bye 2025|再见 2025]]
+- [[zootopia 2|动物乌托邦]]
 - [[a house of dynamite|白宫到底炸没炸]]
 - [[group chats could be overwhelming|Group Chats Could Be Overwhelming]]
 - [[peacemaker season 2|和平使者不和平]]

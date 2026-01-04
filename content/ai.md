@@ -9,6 +9,10 @@ date: 2025-06-05
 
 ---
 
+## 1H26
+
+- 2026-01-04 DeepSeek 开年就发布重磅论文，[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)，显然以我等平民是无法看懂的。但隔壁卡总通宵学习，给我们贡献了一个[小白易读版](https://mp.weixin.qq.com/s/e9ULrG8RUYkoN8PDrZjiCQ)。感谢各位大佬给开源社区做出的贡献。
+- 再往前几天，便是 [Manus 被 Meta 收购](https://www.ithome.com/0/909/567.htm)的大新闻了。我对这两家公司都毫无好感，但没想到在25年3月一码难求的 Manus 泡沫，成功被 Meta 接盘。但我态度依然，不看好 Manus，也不看好 Meta。业界对此的形容是：在 AI 时代，做出一个泡沫产品，然后被大厂收购。Manus 创始人肖弘甚至顺便捞了一个 Meta 副总裁的位置。
 ## 2H25
 
 - 2025-12-04 对夸克浏览器失去兴趣。DeepSeek 在12月1日[发布了 DeepSeek V3.2 正式版](https://mp.weixin.qq.com/s/ohsU1xRrYu9xcVD7qu5lNw)，Benchmark 赶上了 GPT-5，低于 Gemini 3 Pro。简单的试用，可以体会到思考和输出比以往快了不少，准确度有一点点提升，幻觉也没有以前那么严重了（还是会有）。现在官方 DeepSeek 仍然不支持记忆，好处是隐私问题更加有保证，劣势是一旦一个对话超出上下文限制，就必须另起新对话，记忆很难完全转移。

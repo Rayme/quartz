@@ -6,39 +6,30 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
+> - 0104 [[now]]，[[bye 2025|再见 2025]]，[[sleep better]]
 > - 1204 [[zootopia 2|《疯狂动物城2》]]，[[movies and shows|影视剧观后感]]，[[the life of a showgirl|The Life of a Showgirl]]，[[ai|主观 AI 编年史]]
-> - 1125 [[now]]
 > - 1107 [[a house of dynamite|《炸药屋》]]
 > - 1103 [[music]]
 > - 1020 [[peacemaker season 2|《和平使者》第二季]]
 > - 1015 [[music|音乐]]，[[ai|主观 AI 编年史]]，[[passersby|《路人》]]
-> - 1004 [[faint|Faint]]，[何来尘埃飞舞](https://photo.imzm.org)
-> - 0929 [[on how to read|如何读书]]，[[about me|关于我]]
-> - 0918 [[attention training|注意力训练]]
-> - 0917 [[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|《用 Gemini 2.5 Flash 制作一个小工具》]]
-> - 0828 [[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
-> - 0822 [[self authorship|Self-Authorship]]
-> - 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
 > 
 > [[site log#内容更新归档|内容更新归档]]
 
 ## Horizon 🌏
- 
-[[posts|博客文章列表]]。主要写作主题：
 
 - [[movies and shows|影视剧观后感]] | [[gossip on movies|影视剧想法]]
 - [[i love books|书籍读后感]] | [[music|音乐]]
 - [[digital life|科技生活]] | [[ai|主观 AI 编年史]]
 
-喜欢聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
+[[posts|博客文章列表]] | [[tao|我读《道德经》]]
 
-慢慢学习[[tao|《道德经》]]。
+[[now|我的 now 页面]]
+
+聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
+
 ## Anchor ⚓
 
 互联网风起云涌，应当注重[[filter sources|筛选高质量的信息]]。对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，摄入的内容尽量都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，产生[[confirmation bias|确认偏见]]，错过重要决策的窗口。
-
-> 焦虑来自于信息无序的涌入，最终导致选择瘫痪。
-> \- [少楠](https://mp.weixin.qq.com/s/0ikMi55OxMpPwYCaLXXuvg)
 
 注重[[manage your energy not your time|管理精力]]，更多地[[consume less create more|创造]]，控制数字内容消费。多动手[[on practice|实践]]，少停留在理论层面。避免[[get your body going|拖延症]]（[[atomic habits#让它简便易行|让它简便易行]]）。把自己的生活模式当作一个[[life as a system|完整的系统]]。
 
