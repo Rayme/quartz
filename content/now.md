@@ -1,5 +1,5 @@
 ---
-date: 2026-01-04
+date: 2026-01-13
 ---
 这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)
 
@@ -12,6 +12,16 @@ _This now page is inspired by Derek Sivers_
 People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
 
 ---
+## 20260113
+
+2026年开年以来验证了许多我过去常常怀疑的事物，主要集中在自我。这是一件好事，但我也要警惕把自己放在还没坐稳的位置上。
+
+上一次更新 now 以来，我几乎很少阅读。不知不觉1月已经过去一半，我与 AI 的对话时间大量替代了原本阅读的时间，我需要察觉到这一点。
+
+我的 VPS 逐渐利用起来，现在已经装了：Kodbox，[Chronoframe](https://photo.imzm.org)，思源笔记，这三者是 docker 镜像。另外还装了 Gemini Cli，试图学习在命令行里使用 Gemini。不过目前还没有找到特别合适的使用案例。
+
+多邻国上学习法语已经952天。对多邻国已经无限接近使用兴趣归零。我有两个方向可选：换一个语言（重新学回西班牙语），或者在别的平台系统学习法语。
+
 ## 20260104
 
 不知不觉来到2026年，我已有一个多月未更新 now 页面。过去一个月里，我对世界的认识经历大变，对自我的认识也在一年里发生巨变。关于详细内容，我已记录在[[bye 2025|《再见 2025》]]里。
@@ -39,7 +49,7 @@ People nowadays hold different positions, and it is growing frustrating. We need
 
 今天是双十一，但是网购的热情远远没有几年前那么热闹，也许是近几年促销活动已经大大提前。亚马逊同样如此，一年一度的黑五网一大促当前，但亚马逊场外各种负面新闻缠身。先是大量裁员，不论是当地还是在中国，裁员都裁到最重要的前线员工身上。客户经理身边已经有不少同事在当天就抱着箱子走人，而自己也对未来前景十分不明朗。大局当下，一切都充满不确定性。
 
-生活逐渐走向习惯和平稳，将来必定会非常怀念此时此刻。前几日好友生日一聚，这么多年来身边人来来去去，不变的还是那几个。时间的冲刷和环境的攻击只会加深彼此之间的情谊，而抵挡不住的则被洪流冲走，且不会再见。我很庆幸也很感激仍有关心自己的身边人。
+生活逐渐走向习惯和平稳，将来必定会非常怀念此时此刻。前几日[好友生日一聚](https://zm.bearblog.dev/positive-relationships/)，这么多年来身边人来来去去，不变的还是那几个。时间的冲刷和环境的攻击只会加深彼此之间的情谊，而抵挡不住的则被洪流冲走，且不会再见。我很庆幸也很感激仍有关心自己的身边人。
 
 读书的方向慢慢清晰，越发清楚自己的兴趣点，越知道想要了解哪个领域。只是花在阅读上的时间还要继续增加。还在看老电影，新的电影和待看清单的电影大多未看，电视剧也暂时停了下来。电影院也有数月未去，最感兴趣的电影要等到11月14日才上映。不过我不着急也不焦虑，感兴趣的东西一直都在，会不会看到取决于我的念头。
 
