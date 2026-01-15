@@ -6,7 +6,8 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
-> - 0113 [[now]]，[[ai|主观 AI 编年史]]
+> - 0115 [[ai|主观 AI 编年史]]，[[manage your energy not your time|管理精力，而不是管理时间]]
+> - 0113 [[now]]
 > - 0104 [[bye 2025|再见 2025]]，[[sleep better]]
 > - 1204 [[zootopia 2|《疯狂动物城2》]]，[[movies and shows|影视剧观后感]]，[[the life of a showgirl|The Life of a Showgirl]]，[[ai|主观 AI 编年史]]
 > - 1107 [[a house of dynamite|《炸药屋》]]

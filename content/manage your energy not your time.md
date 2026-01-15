@@ -2,6 +2,10 @@
 title: 管理精力，而不是管理时间
 date: 2025-04-29
 ---
+20260115更新
+
+今天读了 Scott Young 的新文章：[Manage Your Energy, Not Your Time](https://www.scotthyoung.com/blog/2026/01/14/manage-energy-not-time/)，我以为是旧文新发，毕竟标题都是一模一样的。对于一个研究了二十年的话题，Scott 自然能提出一些新知。当我们有效使用我们的精力时，我们是会对正在处理的复杂、困难事务产生 joyfulness，有可能是工作，也有可能是生活中的难题。我想这和心流的概念是一致的。
+
 20250808更新
 
 使用四象限法则处理事务：

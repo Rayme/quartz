@@ -11,6 +11,7 @@ date: 2025-06-05
 
 ## 1H26
 
+- 2026-01-15 今天 Google 发布了 Gemini 的一项新功能：[Personal Intelligence](https://gemini.google/overview/personal-intelligence/)。打开 Gemini App 的第一秒就弹出这个介绍，核心是从 Google 其他服务如 Gmail，Google Photos，Youtube 等应用中获取和用户相关的信息，来向用户提出更具个性化的回答。我第一反应是想到李彦宏那句著名的“用隐私换便利”，但让我感到害怕的是，我竟然愿意付出我的部分“隐私”来换取使用大语言模型更大的便利。我的前提是，我已经有大量隐私被 Google 长年累月获取。既然被获取了，那就让它们发挥对我而言更大的价值吧。经过测试，我发现现在的 Gemini 确实能精确获取我 Gmail 中与具体某人的邮件来往内容，以及数年前在 Google Photos 中同步的照片。
 - 2026-01-13 苹果和 Gemini [合作了](https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/)？这下怕是使苹果从最垃圾 AI 一跃成为最强 AI 硬件设备。马斯克[看不下去](https://www.ithome.com/0/912/658.htm)了。
 - 2026-01-04 DeepSeek 开年就发布重磅论文，[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/abs/2512.24880)，显然以我等平民是无法看懂的。但隔壁卡总通宵学习，给我们贡献了一个[小白易读版](https://mp.weixin.qq.com/s/e9ULrG8RUYkoN8PDrZjiCQ)。感谢各位大佬给开源社区做出的贡献。
 - 再往前几天，便是 [Manus 被 Meta 收购](https://www.ithome.com/0/909/567.htm)的大新闻了。我对这两家公司都毫无好感，但没想到在25年3月一码难求的 Manus 泡沫，成功被 Meta 接盘。但我态度依然，不看好 Manus，也不看好 Meta。业界对此的形容是：在 AI 时代，做出一个泡沫产品，然后被大厂收购。Manus 创始人肖弘甚至顺便捞了一个 Meta 副总裁的位置。
