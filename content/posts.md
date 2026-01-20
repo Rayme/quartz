@@ -10,6 +10,7 @@ title: 博客文章
 
 ### 2025
 
+- [[my app defaults 2025|My App Defaults 2025]]
 - [[bye 2025|再见 2025]]
 - [[zootopia 2|动物乌托邦]]
 - [[a house of dynamite|白宫到底炸没炸]]

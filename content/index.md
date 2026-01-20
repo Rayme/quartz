@@ -6,6 +6,7 @@ title: 按钮与磁带
 ![[ilikecomeputer.png|88x31]]
 
 > [!tip]- 最近更新 🗞️
+> - 0120 [[my app defaults 2025|My App Defaults 2025]]
 > - 0115 [[ai|主观 AI 编年史]]，[[manage your energy not your time|管理精力，而不是管理时间]]
 > - 0113 [[now]]
 > - 0104 [[bye 2025|再见 2025]]，[[sleep better]]
@@ -45,11 +46,11 @@ title: 按钮与磁带
 
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
 
-> [!notes on 0929]
-> - 定期审计系统
+> [!notes on 0929, updated 0120]
+> - 定期审计生活和工作系统
 > - 多反驳自己坚信的观点
-> - 尝试建构
-> - 允许花园中有感性和混沌存在
+> - 尝试建构，无论领域
+> - 允许花园和生活中有感性和混沌存在
 ## Thyself 💭
 
 - [[now|我最近在做什么]]
