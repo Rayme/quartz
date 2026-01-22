@@ -4,6 +4,7 @@ title: "\r站点日志"
 ---
 ## 站点更新日志
 
+- 20260122 替换 Not By AI 为 No-AI-icon
 - 20250919 更新人类写作声明和知识共享许可声明
 - 20250815 更新全站 CSS 样式
 - 20250811 取消 Google Analytics，开启 [SPA Routing](https://quartz.jzhao.xyz/features/SPA-Routing)
