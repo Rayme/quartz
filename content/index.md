@@ -3,12 +3,10 @@ title: 按钮与磁带
 ---
 按钮是控制，磁带是记录。上古计算机的外观设计元素是大量的灯光、按钮和打孔纸带，兼具传统和当时的未来科技之美。 **复古未来主义** [Retro-Futurism](https://en.wikipedia.org/wiki/Retrofuturism) 这个词本身就有一种跨越时空感，是在此刻回望过去的某一个时刻，感受那个时空的人畅想他们的未来，正是我们此时此刻。
 
-![[ilikecomeputer.png|88x31]]
-
 > [!tip]- 最近更新 🗞️
+> - 0126 [[music|音乐]]，[[now]]，[[ai|主观 AI 编年史]]
 > - 0120 [[my app defaults 2025|My App Defaults 2025]]
 > - 0115 [[ai|主观 AI 编年史]]，[[manage your energy not your time|管理精力，而不是管理时间]]
-> - 0113 [[now]]
 > - 0104 [[bye 2025|再见 2025]]，[[sleep better]]
 > - 1204 [[zootopia 2|《疯狂动物城2》]]，[[movies and shows|影视剧观后感]]，[[the life of a showgirl|The Life of a Showgirl]]，[[ai|主观 AI 编年史]]
 > - 1107 [[a house of dynamite|《炸药屋》]]
@@ -60,11 +58,11 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
 
 ---
 
-![[by-sa.png|88x31]] [![[no-ai-icon-08.png|88x88]]](https://no-ai-icon.com/statement/?url=jefftay.com)
+![[ilikecomeputer.png|88x31]] ![[by-sa.png|88x31]] ![[no-ai-icon-07.png|31x31]] (why do I love these 88x31 imgs?)
 
 本站点内容采用 [知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
 
 
-如无特别声明，除引用内容外，本站所有内容均由人类写作。
+如无特别声明，除引用内容外，[本站所有内容均由人类写作](https://no-ai-icon.com/statement/?url=jefftay.com)。
 
 

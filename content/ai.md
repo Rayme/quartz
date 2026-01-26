@@ -11,6 +11,7 @@ date: 2025-06-05
 
 ## 1H26
 
+- 2026-01-26 这两天最大的爆点是 [Clawdbot](https://clawd.bot/)，作者 [Peter Steinberger](https://steipete.me/)，混身肌肉的硅谷大佬。目前还在琢磨这个应用到底是怎么个事。[官方文档](https://docs.clawd.bot/start/getting-started)，[库](https://github.com/clawdbot/clawdbot)，[终极报告](https://docs.google.com/document/d/1Mz4xt1yAqb2gDxjr0Vs_YOu9EeO-6JYQMSx4WWI8KUA/edit?tab=t.0)。
 - 2026-01-20 马圣居然开源了 X 的[推荐算法](https://github.com/xai-org/x-algorithm)。进 repo 一看，已经 2.1k star 了。同日隔壁智谱 [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash) 也开源了，只有 30B/A3B。
 	- OpenAI 已经打算在 ChatGPT 中加入广告，Google 明确表示不会在 Gemini 中加入广告。这不太符合一家广告公司的基因。
 - 2026-01-15 今天 Google 发布了 Gemini 的一项新功能：[Personal Intelligence](https://gemini.google/overview/personal-intelligence/)。打开 Gemini App 的第一秒就弹出这个介绍，核心是从 Google 其他服务如 Gmail，Google Photos，Youtube 等应用中获取和用户相关的信息，来向用户提出更具个性化的回答。我第一反应是想到李彦宏那句著名的“用隐私换便利”，但让我感到害怕的是，我竟然愿意付出我的部分“隐私”来换取使用大语言模型更大的便利。我的前提是，我已经有大量隐私被 Google 长年累月获取。既然被获取了，那就让它们发挥对我而言更大的价值吧。经过测试，我发现现在的 Gemini 确实能精确获取我 Gmail 中与具体某人的邮件来往内容，以及数年前在 Google Photos 中同步的照片。

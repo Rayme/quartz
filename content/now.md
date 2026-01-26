@@ -1,5 +1,5 @@
 ---
-date: 2026-01-13
+date: 2026-01-26
 ---
 这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)
 
@@ -12,6 +12,17 @@ _This now page is inspired by Derek Sivers_
 People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
 
 ---
+## 20260126
+
+2025年和2026年交界，我发现了自己内心的欲望：在混沌中创造秩序。不论是工作、生活还是爱好，我都有这样的欲望，这是我的好奇心、求知欲和内心驱动结合起来的方向。
+
+上一次 now 更新之后，我刻意在平时会与 AI 对话的时机，改为阅读。成效不能说没有，至少我意识到我在 AI 上花的时间远远超出必须，严重压缩了我本应用来做其他长期事务的时间。
+
+vps 做了一些微调，卸载思源笔记，回到 Trilium Notes。注意到 Trilium Notes 现在被另一位程序员[接手](https://github.com/TriliumNext/Trilium)，甚至还有了一个像模像样的[首页](https://triliumnotes.org/)。新的版本样式变化不小，更加现代化，减少了些许工程师/程序员基因。如果要我在思源笔记和 Trilium Notes 之间二选一，我毫不犹豫倾向后者。更换动机来自记账工具的变化，起初我在 Notion 记账，条目多了以后相当卡顿。加上 AI 功能入侵式增加和无处不在的付费点，我选择抛弃。我看到了思源笔记，可惜思源也有不可忽视的黑历史。试用一段时间后，下定决心不再用思源，转而用最原始的方法记账：Google Sheets。它满足了我几乎所有记账方面的需求。
+
+今天是多邻国上学习法语第966天。开始寻求更多媒介学习这门语言。明显感觉到多邻国到一定阶段就会出现瓶颈，包括平台层面和个人层面。
+
+Lpak, Happy birthday Bro!
 ## 20260113
 
 2026年开年以来验证了许多我过去常常怀疑的事物，主要集中在自我。这是一件好事，但我也要警惕把自己放在还没坐稳的位置上。
