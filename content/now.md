@@ -1,5 +1,5 @@
 ---
-date: 2026-01-26
+date: 2026-02-06
 ---
 这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)
 
@@ -12,6 +12,16 @@ _This now page is inspired by Derek Sivers_
 People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
 
 ---
+## 20260206
+
+过去十几天，我都沉迷于 [OpenClaw](https://openclaw.ai/) 无法自拔。我起初以兴趣入局，结果他开始解决我的具体问题了。我想，这就是未来 AI 非常正确且有效率的发展方向。我不懂编程，不知道大语言模型对程序员起到的帮助有多大，但是每个人都有个人问题要解决。OpenClaw 碰巧能够大大节约我的时间（前期花了许多时间部署调优，但边际成本递减），因此我疯狂追逐这个产品的相关信息。前面提到用 Google Sheets 记账，现在我用其加上 OpenClaw 双账本记账。
+
+也因为放了太多注意力在 OpenClaw 上，其他方面有些懈怠了。好在现在是淡季，工作上需要投入的精力比年底减少了许多。同时花在阅读的时间也变少，这一点需要警觉。《剑来》第二季的制作相比第一季大幅提升，追到了最新第九集。可惜这一集水平失准。
+
+已经到了年关，身边过年的氛围从物理到精神都越来越浓郁。其实[[the taste of spring festival|年味]]从来没有消失过，它只是变了形式。
+
+今天是在多邻国上学习法语第977天，新单词和新语法越来越多，我减缓了课程的学习进度，增加复习过往单元的时间。对一门语言的学习，应用和基础都很重要。我能明显感觉到语感比初学时好了些。顺带一提，多邻国前段时间重大改版，界面有所变化，功能上多了 AI 辅助错题复习功能。有一点点帮助，但不大。
+
 ## 20260126
 
 2025年和2026年交界，我发现了自己内心的欲望：在混沌中创造秩序。不论是工作、生活还是爱好，我都有这样的欲望，这是我的好奇心、求知欲和内心驱动结合起来的方向。

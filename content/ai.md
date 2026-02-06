@@ -11,6 +11,9 @@ date: 2025-06-05
 
 ## 1H26
 
+- 2026-02-06 过去十几天，我深度沉浸在 ~~Clawdbot~~ ~~Moltbot~~ OpenClaw 上，以至于看到 AI 行业的大新闻匆匆撇过便忘。有些事件是值得记录的：
+	- 1月26日，阿里发布 [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking) 大模型，我一向对阿里大模型无感，且在 OpenClaw 中 Qwen-flash 和 Qwen-Coder 的实际应用效果不佳，因此没有体验。紧接着1月27日，月之暗面发布 [Kimi K2.5 Thinking](https://www.kimi.com/blog/kimi-k2-5.html)，在海外广受好评，有许多大佬倾情推荐。可惜价格仍有些贵。同日 DeepSeek 开源 [DeepSeek-OCR 2](https://www.ithome.com/0/916/812.htm)，对后来多模态应用发展必有加成。1月28日，谷歌开放了去年8月公布的世界模型 [Genie 3](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)。这也是未来的主要趋势之一，大佬李飞飞非常看好这个趋势，她的 [World Labs](https://www.worldlabs.ai/) 正在积极推进中。
+	- 然后到了今天2月6日（当地时间2月5日），OpenAI 和 Anthropic 几乎同时发布重磅新模型：[GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/) 和 [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)，时间线上所有人位置疯狂。这二者都走上了智能体编程的道路。两家公司线下产品互打，线上中门对狙，甚至难得看到 Altman [破大防](https://x.com/sama/status/2019139174339928189)。
 - 2026-01-26 这两天最大的爆点是 [Clawdbot](https://clawd.bot/)，作者 [Peter Steinberger](https://steipete.me/)，混身肌肉的硅谷大佬。目前还在琢磨这个应用到底是怎么个事。[官方文档](https://docs.clawd.bot/start/getting-started)，[库](https://github.com/clawdbot/clawdbot)，[终极报告](https://docs.google.com/document/d/1Mz4xt1yAqb2gDxjr0Vs_YOu9EeO-6JYQMSx4WWI8KUA/edit?tab=t.0)。
 - 2026-01-20 马圣居然开源了 X 的[推荐算法](https://github.com/xai-org/x-algorithm)。进 repo 一看，已经 2.1k star 了。同日隔壁智谱 [GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash) 也开源了，只有 30B/A3B。
 	- OpenAI 已经打算在 ChatGPT 中加入广告，Google 明确表示不会在 Gemini 中加入广告。这不太符合一家广告公司的基因。
