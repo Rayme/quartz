@@ -1,6 +1,12 @@
 ---
 title: 按钮与磁带
 ---
+ --
+ 
+ **🧨🧨🎇🎆🎇🎆新春快乐🎇🎆🎇🎆🧨🧨**
+
+--
+
 按钮是控制，磁带是记录。上古计算机的外观设计元素是大量的灯光、按钮和打孔纸带，兼具传统和当时的未来科技之美。 **复古未来主义** [Retro-Futurism](https://en.wikipedia.org/wiki/Retrofuturism) 这个词本身就有一种跨越时空感，是在此刻回望过去的某一个时刻，感受那个时空的人畅想他们的未来，正是我们此时此刻。
 
 > [!tip]- 最近更新 🗞️
@@ -58,7 +64,8 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
 
 ---
 
-![[ilikecomeputer.png|88x31]] ![[by-sa.png|88x31]] ![[no-ai-icon-07.png|31x31]]  (why do I have such an obsession with these 88x31 imgs?)
+![[ilikecomeputer.png|88x31]] ![[by-sa.png|88x31]] ![[no-ai-icon-07.png|31x31]]  
+(why do I have such an obsession with these 88x31 imgs?)
 
 本站点内容采用 [知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
 

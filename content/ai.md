@@ -11,6 +11,8 @@ date: 2025-06-05
 
 ## 1H26
 
+- 2026-02-11 在业界向来比较低调的字节，在7日内测 Seedance 2.0，9日冲上热搜，海内外众多用户开始寻求 Seedance 2.0 的使用方式。这必然是继25年春节 DeepSeek R1 后又一个国产模型爆火全球。这一次，是实实在在的[世界第一](https://mp.weixin.qq.com/s/HIX7YiLRFTwhjk6mCzxcDA)了。冯骥也对此[发表了感想](https://weibo.com/6603744955/Qr1K9dFKm)，顺便在一天后发了《黑神话：钟馗》的6分钟实机预告，不过和游戏本身无关，纯粹炫技。
+	- 没多久后，字节把 Seedream 也更新到 5.0 了。
 - 2026-02-06 过去十几天，我深度沉浸在 ~~Clawdbot~~ ~~Moltbot~~ OpenClaw 上，以至于看到 AI 行业的大新闻匆匆撇过便忘。有些事件是值得记录的：
 	- 1月26日，阿里发布 [Qwen3-Max-Thinking](https://qwen.ai/blog?id=qwen3-max-thinking) 大模型，我一向对阿里大模型无感，且在 OpenClaw 中 Qwen-flash 和 Qwen-Coder 的实际应用效果不佳，因此没有体验。紧接着1月27日，月之暗面发布 [Kimi K2.5 Thinking](https://www.kimi.com/blog/kimi-k2-5.html)，在海外广受好评，有许多大佬倾情推荐。可惜价格仍有些贵。同日 DeepSeek 开源 [DeepSeek-OCR 2](https://www.ithome.com/0/916/812.htm)，对后来多模态应用发展必有加成。1月28日，谷歌开放了去年8月公布的世界模型 [Genie 3](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)。这也是未来的主要趋势之一，大佬李飞飞非常看好这个趋势，她的 [World Labs](https://www.worldlabs.ai/) 正在积极推进中。
 	- 然后到了今天2月6日（当地时间2月5日），OpenAI 和 Anthropic 几乎同时发布重磅新模型：[GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/) 和 [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)，时间线上所有人位置疯狂。这二者都走上了智能体编程的道路。两家公司线下产品互打，线上中门对狙，甚至难得看到 Altman [破大防](https://x.com/sama/status/2019139174339928189)。
