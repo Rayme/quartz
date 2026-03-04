@@ -11,9 +11,15 @@ date: 2025-06-05
 
 ## 1H26
 
+- 2026-03-04 一个半月人工智能行业能发生许多事。MiniMax Coding Plan 支持 M2.5 之后马上更换，高强度使用的感受是比 M2.1 稍稍变强，但没有特别明显。
+	- 2月底，Anthropic 这家公司[发布文章指责](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)国产几大模型蒸馏 Claude 模型数据。事件一出立刻引发群嘲，所有人都对他冷嘲热讽（[爱范儿](https://mp.weixin.qq.com/s/9rIpBO0KHIzfn32rVpxh3g)，[卡兹克](https://mp.weixin.qq.com/s/1i5iYJKpYi9YvQWn1zrFAg)，[马斯克](https://www.ithome.com/0/923/031.htm)），我也加入了这个行列。然而短短几天过去，Anthropic 又因为[强硬拒绝](https://mp.weixin.qq.com/s/u1heI8-8aKPzl57oTMk-Qg)美国战争部对于将其模型用于所有目的的要求，被战争部列为“供应链风险”，不久后 OpenAI [迅速滑跪](https://www.ithome.com/0/924/704.htm)，导致全球开始了一股[抵制 OpenAI](https://www.ithome.com/0/924/762.htm) 的风潮。甚至还有一个叫做 [QuitGPT](https://quitgpt.org/) 的网站，截止今天已经有250万人加入抵制。
+	- 依我看，这两家公司是卧龙凤雏。
+- 2026-03-04 OpenClaw 依旧现象级传播。国产几个大小厂迅速跟进，相继发布 [CoPaw](https://copaw.agentscope.io/)，[KimiClaw](https://www.kimi.com/bot)，[MaxClaw](https://agent.minimaxi.com/) 等等本地或云端类 OpenClaw 应用。我想这是今年以及接下来几年大语言模型发展的重要趋势（Agent）。
+	- 对了，Peter Steinberger 在2月14日[宣布加入 OpenAI](https://steipete.me/posts/2026/openclaw)。我不知道是好是坏。
 - 2026-02-12 短短两天时间，智谱[发布并开源了 GLM-5](https://mp.weixin.qq.com/s/MVo6DIcGNje_YtLgVa4PaQ)，对标 Anthropic Opus 4.5。根据各大 KOL 的反馈，这个模型在 Coding 层面已经妥妥能跟 Opus 4.5 扳扳手腕，甚至有些领取超越。关键的是 GLM-5 基于 MIT 许可开源，2026年又将是精彩的一年。附上大佬赛博禅心用 GLM-5 做的官方 Showcase 页： https://showcase.z.ai
-- 同日我注意到 MiniMax 偷偷发布了 M2.5，[网页端](https://agent.minimaxi.com/)可以见到新的模型已经上线，但仍未官宣，也不知道 coding plan 是否支持 M2.5 模型。
+- 同日我注意到 MiniMax 偷偷发布了 M2.5，[网页端](https://agent.minimaxi.com/)可以见到新的模型已经上线，但仍未官宣，也不知道 Coding Plan 是否支持 M2.5 模型。
 - 昨日 DeepSeek 灰度上线 V4 版本，上下文达到 1M。昨日我通过升级 app 成功用上 V4，暂未感到明显提升，但在数字计算方面出了严重问题。
+	- 2026-03-04 后来发现不是 V4。
 - 还读了这一篇文章：[互联网已死，Agent 永生](https://mp.weixin.qq.com/s/cX3bYrI9Sq7sOJj0E6V9IQ)，来自 AGENT橘
 - 2026-02-11 在业界向来比较低调的字节，在7日内测 Seedance 2.0，9日冲上热搜，海内外众多用户开始寻求 Seedance 2.0 的使用方式。这必然是继25年春节 DeepSeek R1 后又一个国产模型爆火全球。这一次，是实实在在的[世界第一](https://mp.weixin.qq.com/s/HIX7YiLRFTwhjk6mCzxcDA)了。冯骥也对此[发表了感想](https://weibo.com/6603744955/Qr1K9dFKm)，顺便在一天后发了《黑神话：钟馗》的6分钟实机预告，不过和游戏本身无关，纯粹炫技。
 	- 没多久后，字节把 Seedream 也更新到 5.0 了。

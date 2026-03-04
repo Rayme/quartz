@@ -15,6 +15,9 @@ title: "\r站点日志"
 
 ## 内容更新归档
 
+> - 1103 [[music|音乐]]
+> - 1020 [[peacemaker season 2|《和平使者》第二季]]
+> - 1015 [[music|音乐]]，[[ai|主观 AI 编年史]]，[[passersby|《路人》]]
 > - 1004 [[faint|Faint]]，[何来尘埃飞舞](https://photo.imzm.org)
 > - 0929 [[on how to read|如何读书]]，[[about me|关于我]]
 > - 0918 [[attention training|注意力训练]]

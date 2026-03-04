@@ -1,5 +1,5 @@
 ---
-date: 2026-02-06
+date: 2026-03-04
 ---
 这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)
 
@@ -12,6 +12,20 @@ _This now page is inspired by Derek Sivers_
 People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
 
 ---
+
+## 20260304
+
+转眼间，一个月过去了。2月份的春节，我完全投入到生活中。脚踏实地站在物理现实，与计算机/互联网世界是两种完全不同的感受。
+
+OpenClaw 几乎每日更新，数次更新都使其崩溃，花费不少时间排查错误信息。上个月底把主要战场从 Telegram 切换至 Discord，发掘了更搞笑的使用方法：多频道多 sessions 负责不同使用场景。但 Discord 也有逊于 Telegram 之处，例如对长文本和文件的支持不足，会话超时以及对话丢失的几率更大，搜索能力也没有 Telegram 强。因此二者结合更好。
+
+开始使用 OpenCode 和 Claude Code 结合 MiniMax Coding Plan 订阅解决工作问题。写了一个业务相关的[小工具开源](https://github.com/Rayme/amazon-report-tool)，迭代数次，目前使用起来挺方便。
+
+从春节开始沉迷《凡人修仙传》，一口气从40多集看到123集。《剑来》更新的几集反而落下了。果然不愧于最强国漫之名。春节档电影乏善可陈，在电影院观看了几部，还有兴趣的只剩下《镖人》未看。原本打算去影院观看的[[fight against evil 3|《东北警察故事3》]]和《极限审判》都已经上线流媒体，省下了去电影院的成本。
+
+多邻国学习法语来到1003天，对于1000天的里程碑轻轻走过。为了使自己学习法语更扎实，我用 OpenClaw 在 Discord 上开辟了 French 频道，每日阅读和每日/每周复习安排上，希望能提高些学习效率。
+
+这端是满城烟花，另一端是持续战火。愿世界和平。
 ## 20260206
 
 过去十几天，我都沉迷于 [OpenClaw](https://openclaw.ai/) 无法自拔。我起初以兴趣入局，结果他开始解决我的具体问题了。我想，这就是未来 AI 非常正确且有效率的发展方向。我不懂编程，不知道大语言模型对程序员起到的帮助有多大，但是每个人都有个人问题要解决。OpenClaw 碰巧能够大大节约我的时间（前期花了许多时间部署调优，但边际成本递减），因此我疯狂追逐这个产品的相关信息。前面提到用 Google Sheets 记账，现在我用其加上 OpenClaw 双账本记账。
