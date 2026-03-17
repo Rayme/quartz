@@ -8,9 +8,12 @@ title: 博客文章
 - [[city observe|城市观察]] | [[damn wechat|我骂微信]] 
 ## 日期倒序
 
+### 2026
+
+- [[the memory could not be written|The Memory Could Not Be Written]]
+- [[my app defaults 2025|My App Defaults 2025]]
 ### 2025
 
-- [[my app defaults 2025|My App Defaults 2025]]
 - [[bye 2025|再见 2025]]
 - [[zootopia 2|动物乌托邦]]
 - [[a house of dynamite|白宫到底炸没炸]]
