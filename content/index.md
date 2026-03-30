@@ -5,6 +5,7 @@ title: 按钮与磁带
 
 > [!tip]- 最近更新 🗞️
 > - 频繁更新： [[now]]，[[ai|主观 AI 编年史]]，[[music|音乐]]
+> - 0330 [[children of the sun|《太阳之子》]]
 > - 0304 [[fight against evil 3|《东北警察故事3》]]，[[housemaid|《家弑服务》]]
 > - 0212 [[shelter|《庇护之地》]]
 > - 0120 [[my app defaults 2025|My App Defaults 2025]]

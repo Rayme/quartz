@@ -11,8 +11,10 @@ date: 2025-06-05
 
 ## 1H26
 
+- 2026-03-30 对 OpenClaw 的使用逐渐系统化。主力模型从 MiniMax M2.7 切换至阶跃星辰的 Step 3.5 Flash，效果出乎意料的好。中间短暂试用过小米的新模型 MiMo V2 Pro，效果也很不错，就是价格实在是有点贵。以我目前的 token 消耗频率，一个月得花四五千。
+	- 这段时间，OpenClaw 总算是形成了生产力，vibe 了两个 GitHub 小项目，一个面向个人，一个面向我从事的跨境电商业务。以此为起点，我觉得将来这类 Agent 大有可为。
 - 2026-03-17 过去半个月以来，OpenClaw 热度高到有些魔幻，特别是在国内，几乎所有大厂都下场做了自己的类 Claw 项目。这边从3月6日鹅厂在线下免费安装 OpenClaw 开始，各家大小厂接连发布停不下来，从传统互联网大厂到[英伟达](https://www.ithome.com/0/929/687.htm)，甚至[九号电动车](https://www.ithome.com/0/928/398.htm)都接入 OpenClaw；另一边国家应急中心在3月10日发布 [OpenClaw 安全应用的风险提示](https://www.cert.org.cn/publish/main/11/2026/20260312144519429724511/20260312144519429724511_.html)，今天国家安全部[发布“龙虾”安全养殖手册](https://mp.weixin.qq.com/s/VOSy-kWs6zuNIBn40dWGWQ)，场面比想象中要更魔幻些。
-	- 因为场面过于魔幻，因此必然要思考这些现象背后的本质。最容易理解的是模型大厂和云服务厂商可以消耗滞销的 token 和云服务器，地方政府推动可以提振消费，中央灭火是为了防范风险。说到风险，360果然还是保留自身伟大的[企业文化](https://www.ithome.com/0/929/718.htm)。
+	- 因为场面过于魔幻，因此必然要思考这些现象背后的本质。最容易理解的是模型大厂和云服务厂商可以消耗滞销的 token 和云服务器，地方政府推动可以提振消费，中央灭火是为了防范风险。说到风险，360 果然还是保留自身伟大的[企业文化](https://www.ithome.com/0/929/718.htm)。
 - 2026-03-04 一个半月人工智能行业能发生许多事。MiniMax Coding Plan 支持 M2.5 之后马上更换，高强度使用的感受是比 M2.1 稍稍变强，但没有特别明显。
 	- 2月底，Anthropic 这家公司[发布文章指责](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)国产几大模型蒸馏 Claude 模型数据。事件一出立刻引发群嘲，所有人都对他冷嘲热讽（[爱范儿](https://mp.weixin.qq.com/s/9rIpBO0KHIzfn32rVpxh3g)，[卡兹克](https://mp.weixin.qq.com/s/1i5iYJKpYi9YvQWn1zrFAg)，[马斯克](https://www.ithome.com/0/923/031.htm)），我也加入了这个行列。然而短短几天过去，Anthropic 又因为[强硬拒绝](https://mp.weixin.qq.com/s/u1heI8-8aKPzl57oTMk-Qg)美国战争部对于将其模型用于所有目的的要求，被战争部列为“供应链风险”，不久后 OpenAI [迅速滑跪](https://www.ithome.com/0/924/704.htm)，导致全球开始了一股[抵制 OpenAI](https://www.ithome.com/0/924/762.htm) 的风潮。甚至还有一个叫做 [QuitGPT](https://quitgpt.org/) 的网站，截止今天已经有250万人加入抵制。
 	- 依我看，这两家公司是卧龙凤雏。
