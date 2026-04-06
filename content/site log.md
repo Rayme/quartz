@@ -15,6 +15,8 @@ title: "\r站点日志"
 
 ## 内容更新归档
 
+> - 1204 [[zootopia 2|《疯狂动物城2》]]，[[movies and shows|影视剧观后感]]，[[the life of a showgirl|The Life of a Showgirl]]，[[ai|主观 AI 编年史]]
+> - 1107 [[a house of dynamite|《炸药屋》]]
 > - 1103 [[music|音乐]]
 > - 1020 [[peacemaker season 2|《和平使者》第二季]]
 > - 1015 [[music|音乐]]，[[ai|主观 AI 编年史]]，[[passersby|《路人》]]

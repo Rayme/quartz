@@ -5,14 +5,13 @@ title: 按钮与磁带
 
 > [!tip]- 最近更新 🗞️
 > - 频繁更新： [[now]]，[[ai|主观 AI 编年史]]，[[music|音乐]]
+> - 0406 [[project hail mary|《挽救计划》]]，[[the rip|《全信没收》]]，[[mercy|《极限审判》]]，[[elysium|《极乐空间》]]
 > - 0330 [[children of the sun|《太阳之子》]]
 > - 0304 [[fight against evil 3|《东北警察故事3》]]，[[housemaid|《家弑服务》]]
 > - 0212 [[shelter|《庇护之地》]]
 > - 0120 [[my app defaults 2025|My App Defaults 2025]]
 > - 0115 [[ai|主观 AI 编年史]]，[[manage your energy not your time|管理精力，而不是管理时间]]
 > - 0104 [[bye 2025|再见 2025]]，[[sleep better]]
-> - 1204 [[zootopia 2|《疯狂动物城2》]]，[[movies and shows|影视剧观后感]]，[[the life of a showgirl|The Life of a Showgirl]]，[[ai|主观 AI 编年史]]
-> - 1107 [[a house of dynamite|《炸药屋》]]
 > 
 > [[site log#内容更新归档|内容更新归档]]
 
