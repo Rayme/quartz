@@ -21,7 +21,7 @@ title: 按钮与磁带
 - [[i love books|书籍读后感]] | [[music|音乐]]
 - [[digital life|科技生活]] | [[ai|主观 AI 编年史]]
 
-[[posts|博客文章列表]] | [[tao|我读《道德经》]] | [[now|我的 now 页面]]
+[[posts|随便写写]] | [[tao|我读《道德经》]] | [[now|我的 now 页面]] *4月8日更新*
 
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
