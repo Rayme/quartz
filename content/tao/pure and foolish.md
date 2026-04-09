@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 为道者非以明民也
 ---
 Pure and Foolish

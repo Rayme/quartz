@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 我愚人之心也
 ---
 Stay Foolish

@@ -1,6 +1,6 @@
 ---
 title: 《人间值得》书摘
-date: 2020-08-25
+created: 2020-08-25
 tags:
   - books
 ---

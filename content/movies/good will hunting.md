@@ -1,6 +1,6 @@
 ---
 title: 心灵捕手
-date: 2024-04-27
+created: 2024-04-27
 tags:
   - movies
 ---

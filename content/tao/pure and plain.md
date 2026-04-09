@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 见素抱朴少私寡欲
 ---
 Pure and Plain

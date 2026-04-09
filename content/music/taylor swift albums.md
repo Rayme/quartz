@@ -2,6 +2,7 @@
 title: Taylor Swift Albums
 tags:
   - music
+created: 2020-07-24
 ---
 - 2020-07-24 [[folklore]]
 - 2020-12-11 [[evermore]]

@@ -1,6 +1,6 @@
 ---
 title: 多想一步，以我为主，自己动手
-date: 2023-11-09
+created: 2023-11-09
 ---
 [对我帮助最大的三个习惯](https://mp.weixin.qq.com/s/g6tLFk71Vb09xIju6r3OHQ) 李睿秋
 

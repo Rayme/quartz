@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 圣人恒无心
 ---
 Be Kind and Trust

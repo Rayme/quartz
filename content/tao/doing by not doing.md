@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 为学者日益闻道者日损
 ---
 Doing by Not Doing

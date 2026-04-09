@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 知足不辱知止不殆
 ---
 Be Sufficient

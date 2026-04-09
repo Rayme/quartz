@@ -2,7 +2,7 @@
 title: Speak Now (Taylor's Version)
 tags:
   - music
-date: 2023-09-06
+created: 2023-09-06
 ---
 经过两张重录专辑，Taylor 的技巧更加成熟和游刃有余，完全不同于专辑刚发布时的年轻嗓音
 

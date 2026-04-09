@@ -2,7 +2,7 @@
 tags:
   - quotes
 title: Stop Fighting Your Nature
-date: 2024-12-08
+created: 2024-12-08
 ---
 https://fs.blog/brain-food/december-8-2024
 

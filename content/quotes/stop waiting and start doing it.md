@@ -2,6 +2,7 @@
 tags:
   - quotes
 title: Stop Waiting and Start Doing It
+created: 2024-07-28
 ---
 https://fs.blog/brain-food/july-28-2024
 

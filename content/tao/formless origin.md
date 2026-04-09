@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 执今之道以御今之有
 ---
 Formless Origin

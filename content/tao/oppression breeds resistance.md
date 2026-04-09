@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 圣人自知而不自见也
 ---
 Oppression Breeds Resistance

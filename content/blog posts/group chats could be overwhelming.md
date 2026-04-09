@@ -1,6 +1,6 @@
 ---
 title: Group Chats Could Be Overwhelming
-date: 2025-10-24
+created: 2025-10-24
 ---
 Ever since instant messaging was invented, group chats have become an important function. Everyone needs at least one unless you’re living in a cave. Group chats solve the need for more than two people to communicate. This would be a great feature if people have self-discipline.
 

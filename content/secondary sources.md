@@ -1,6 +1,6 @@
 ---
 title: Secondary sources are pretty great, actually
-date: 2024-01-16
+created: 2024-01-16
 ---
 2024-01-14 [Eleanor Konik](https://eleanorkonik.substack.com/p/secondary-sources-are-pretty-great)
 

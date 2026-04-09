@@ -1,6 +1,6 @@
 ---
 title: 如何在服务器上部署一个基于 Node.js 的 TiddlyWiki
-date: 2023-02-09
+created: 2023-02-09
 ---
 [pimgeek](https://pimgeek.com/) 的数字花园即为此模式，现记录部署过程。[什么是 TiddlyWiki？](https://tiddlywiki.com/)
 

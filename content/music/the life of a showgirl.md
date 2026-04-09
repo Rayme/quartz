@@ -1,6 +1,6 @@
 ---
 title: The Life of a Showgirl
-date: 2025-11-03
+created: 2025-11-03
 tags:
   - music
 ---

@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 含德之厚者比于赤子
 ---
 Be Pure and Plain

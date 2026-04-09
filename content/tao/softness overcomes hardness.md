@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 天下莫柔弱于水
 ---
 Softness Overcomes Hardness

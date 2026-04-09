@@ -2,7 +2,7 @@
 tags:
   - quotes
 title: Smaller Surface Area
-date: 2024-01-14
+created: 2024-01-14
 ---
 https://fs.blog/brain-food/january-14-2024
 

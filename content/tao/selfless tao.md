@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 天长地久
 ---
 Selfless Tao

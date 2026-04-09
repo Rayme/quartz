@@ -1,6 +1,6 @@
 ---
 title: 稀缺大脑
-date: 2025-04-08
+created: 2025-04-08
 tags:
   - books
 ---

@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 称兵相若则哀者胜矣
 ---
 Compassion and Mercy

@@ -1,6 +1,6 @@
 ---
 title: 实践论
-date: 2025-05-22
+created: 2025-05-22
 ---
 [实践论 中文马克思主义文库](https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193707.htm) 
 ## 认识与实践的关系

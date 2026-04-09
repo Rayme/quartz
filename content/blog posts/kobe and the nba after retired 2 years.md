@@ -1,6 +1,6 @@
 ---
 title: 科比和他退役两年后的NBA
-date: 2018-04-14
+created: 2018-04-14
 ---
 姊妹篇：[[kobe and the nba after|科比和他退役后的NBA]]
 

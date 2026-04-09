@@ -1,6 +1,6 @@
 ---
 title: 哈尔的移动城堡
-date: 2024-05-01
+created: 2024-05-01
 tags:
   - movies
 ---

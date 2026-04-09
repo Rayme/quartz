@@ -2,7 +2,7 @@
 title: Red (Taylor's Version)
 tags:
   - music
-date: 2023-09-06
+created: 2023-09-06
 ---
 - State Of Grace 更加摇滚，漂亮的鼓点和唱腔
 - Red _In burning red_ 缩短很多，red 结尾音乐有明显的降音

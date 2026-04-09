@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 善者果而已矣
 ---
 Quit While Ahead

@@ -1,5 +1,6 @@
 ---
 title: 他们如是说
+created: 2025-04-01
 ---
 - [[get your body going]] James Clear
 - [[self authorship|Self-Authorship: The Art of Trusting Your Own Authority]] Anne-Laure Le Cunff

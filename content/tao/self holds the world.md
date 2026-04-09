@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 宠辱若惊贵大患若身
 ---
 Self Holds the World

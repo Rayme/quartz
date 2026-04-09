@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 天之道不战而善胜
 ---
 Avoid Conflicts

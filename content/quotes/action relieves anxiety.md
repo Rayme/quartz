@@ -1,5 +1,5 @@
 ---
-date: 2025-08-08
+created: 2025-08-08
 title: Action Relieves Anxiety
 ---
 https://jamesclear.com/3-2-1/august-7-2025

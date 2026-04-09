@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 重为轻根静为躁君
 ---
 Weight before Light

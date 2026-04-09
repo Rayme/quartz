@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 圣人被褐而怀玉
 ---
 Easier Said than Done

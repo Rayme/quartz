@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 物无弃材是谓袭明
 ---
 None is Wasted

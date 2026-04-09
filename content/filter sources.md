@@ -1,6 +1,6 @@
 ---
 title: 信息筛选
-date: 2024-01-29
+created: 2024-01-29
 ---
 > 焦虑来自于信息无序的涌入，最终导致选择瘫痪。
 > \- [少楠](https://mp.weixin.qq.com/s/0ikMi55OxMpPwYCaLXXuvg)

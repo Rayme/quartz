@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 出生入死
 ---
 Live As It Is

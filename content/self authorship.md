@@ -1,7 +1,6 @@
 ---
 title: "Self-Authorship: The Art of Trusting Your Own Authority"
-date: 2025-08-19
-tags:
+created: 2025-08-19
 ---
 https://nesslabs.com/self-authorship
 

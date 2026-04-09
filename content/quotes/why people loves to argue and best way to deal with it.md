@@ -1,6 +1,6 @@
 ---
 title: Why people loves to argue and best way to deal with it
-date: 2023-10-16
+created: 2023-10-16
 tags:
   - quotes
 ---

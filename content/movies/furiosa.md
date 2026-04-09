@@ -1,6 +1,6 @@
 ---
 title: 疯狂的麦克斯：狂暴女神
-date: 2024-08-22
+created: 2024-08-22
 tags:
   - movies
 ---

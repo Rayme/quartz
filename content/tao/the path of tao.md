@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 大道甚夷
 ---
 The Path of Tao

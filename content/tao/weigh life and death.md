@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 夫唯无以生为者是贤贵生
 ---
 Weigh Life and Death

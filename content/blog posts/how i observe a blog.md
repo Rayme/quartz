@@ -1,6 +1,6 @@
 ---
 title: 我怎么看博客
-date: 2023-06-16
+created: 2023-06-16
 ---
 灵感来源于[这篇文章](https://blog.zhaogaz.com/post/2019/how-i-watch-a-new-blog.html)。
 

@@ -1,6 +1,6 @@
 ---
 title: Faint
-date: 2025-09-30
+created: 2025-09-30
 tags:
   - music
 ---

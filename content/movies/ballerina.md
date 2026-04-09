@@ -1,5 +1,5 @@
 ---
-date: 2025-06-14
+created: 2025-06-14
 title: 芭蕾杀姬 Ballerina
 tags:
   - movies

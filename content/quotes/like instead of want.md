@@ -2,7 +2,7 @@
 title: Focus on what I like, not what I want
 tags:
   - quotes
-date: 2024-10-03
+created: 2024-10-03
 ---
 [James Clear](https://jamesclear.com/3-2-1/october-3-2024)
 

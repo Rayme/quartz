@@ -1,6 +1,6 @@
 ---
 title: 《富兰克林自传》书摘
-date: 2024-05-26
+created: 2024-05-26
 tags:
   - books
 ---

@@ -2,7 +2,7 @@
 title: 炸药屋
 tags:
   - movies
-date: 2025-11-05
+created: 2025-11-05
 ---
 炸药屋 A House of Dynamite
 

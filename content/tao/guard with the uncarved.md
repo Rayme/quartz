@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 无名之朴
 ---
 Guard with the Uncarved

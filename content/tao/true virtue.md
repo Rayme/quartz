@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 上德不德
 ---
 Be Virtuous

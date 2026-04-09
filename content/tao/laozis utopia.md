@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 小邦寡民
 ---
 Laozi's Utopia

@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 天地不仁以万物为刍狗
 ---
 Nature Shows No Favor

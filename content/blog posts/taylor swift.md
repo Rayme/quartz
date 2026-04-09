@@ -1,6 +1,6 @@
 ---
 title: 从村霉到电音霉
-date: 2018-12-13
+created: 2018-12-13
 ---
 我是在高中的某一次放学回家后，在MTV台播放的 You Belong With Me 音乐录像带上初识 Taylor Swift 的。
 

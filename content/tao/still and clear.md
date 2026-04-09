@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 归根曰静知常明也
 ---
 Still and Clear

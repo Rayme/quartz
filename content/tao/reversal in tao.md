@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 反也者道之动也
 ---
 Reversal in Tao

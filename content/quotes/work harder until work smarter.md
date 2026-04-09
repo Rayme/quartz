@@ -2,7 +2,7 @@
 title: Work Harder Until Work Smarter
 tags:
   - quotes
-date: 2025-08-18
+created: 2025-08-18
 ---
 https://fs.blog/brain-food/august-17-2025/
 

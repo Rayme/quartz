@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 太上下知有之
 ---
 Invisible Leadership

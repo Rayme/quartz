@@ -1,6 +1,6 @@
 ---
 title: About Fluid Thinking
-date: 2024-01-29
+created: 2024-01-29
 tags:
   - quotes
 ---

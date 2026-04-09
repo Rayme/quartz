@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 人之生也柔弱
 ---
 Soft and Firm

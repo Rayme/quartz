@@ -1,6 +1,6 @@
 ---
 title: 2024 七月观影
-date: 2024-08-12
+created: 2024-08-12
 tags:
   - movies
 ---

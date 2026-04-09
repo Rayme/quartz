@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 知者弗言言者弗知
 ---
 Be Humble and Silence

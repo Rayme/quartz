@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 天之道损有余而补不足
 ---
 Bow Is Like Tao

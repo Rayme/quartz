@@ -1,6 +1,6 @@
 ---
 title: 2025 暑期观影
-date: 2025-08-08
+created: 2025-08-08
 tags:
   - movies
 ---

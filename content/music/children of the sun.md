@@ -1,6 +1,6 @@
 ---
 title: 太阳之子
-date: 2026-03-26
+created: 2026-03-26
 tags:
   - music
 ---

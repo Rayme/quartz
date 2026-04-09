@@ -2,7 +2,7 @@
 tags:
   - quotes
 title: Hidden Costs of Success
-date: 2024-07-08
+created: 2024-07-08
 ---
 https://jamesclear.com/3-2-1/july-4-2024
 

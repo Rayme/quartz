@@ -1,6 +1,6 @@
 ---
 title: The Twelve Foundations for a Good Life
-date: 2024-07-19
+created: 2024-07-19
 tags:
   - quotes
 ---

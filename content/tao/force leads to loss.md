@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 为者败之执者失之
 ---
 Force Leads to Loss

@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 道法自然
 ---
 Tao Follows Nature

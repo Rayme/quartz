@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 道者万物之注也
 ---
 Tao Sees Equally

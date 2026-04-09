@@ -1,7 +1,7 @@
 ---
 tags:
   - music
-date: 2024-03-05
+created: 2024-03-05
 ---
 Taylor Swift 升级的一专。这张专辑从专辑名称到歌名全小写，很有意思。
 

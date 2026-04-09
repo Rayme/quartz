@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 治大国若烹小鲜
 ---
 Rule by Not Changing Often

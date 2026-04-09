@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 为无为事无事
 ---
 Start Small Step

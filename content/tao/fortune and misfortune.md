@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 祸福之所倚
 ---
 Fortune and Misfortune

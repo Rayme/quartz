@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 和光同尘
 ---
 The Initial Beginning

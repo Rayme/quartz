@@ -1,6 +1,6 @@
 ---
 title: GPD Win Max 2 Review
-date: 2023-04-23
+created: 2023-04-23
 ---
 英文写作练习。
 

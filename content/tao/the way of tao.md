@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 人之道为而弗争
 ---
 The Way of Tao

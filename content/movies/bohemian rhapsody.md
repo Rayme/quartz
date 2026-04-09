@@ -1,6 +1,6 @@
 ---
 title: 波西米亚狂想曲
-date: 2023-11-18
+created: 2023-11-18
 tags:
   - movies
 ---

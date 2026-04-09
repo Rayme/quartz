@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 深根固柢
 ---
 Ingrained Living

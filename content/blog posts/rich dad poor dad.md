@@ -1,6 +1,6 @@
 ---
 title: 《富爸爸穷爸爸》书摘
-date: 2019-12-30
+created: 2019-12-30
 tags:
   - books
 ---

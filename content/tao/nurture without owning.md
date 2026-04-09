@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 明白四达能毋以知乎
 ---
 Nurture without Owning

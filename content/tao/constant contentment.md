@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 知足之足恒足矣
 ---
 Constant Contentment

@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 圣人之能成大也以其不为大也
 ---
 Becoming by not Being

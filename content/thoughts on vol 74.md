@@ -1,6 +1,6 @@
 ---
 title: 关于《Vol.74 思考、反思与观察》的思考
-date: 2024-04-09
+created: 2024-04-09
 ---
 2024年是 AI 进入高速发展的第二年，各类 AI 工具层出不穷，我作为普通人已经在很大程度上离不开 AI 工具，典型为 [Perplexity](https://www.perplexity.ai/)。Leslie 在[第七十四期电子报](https://quail.ink/justgoidea/p/202412)中的观点引发我的思考：
 

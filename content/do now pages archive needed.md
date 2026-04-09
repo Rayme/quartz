@@ -1,6 +1,6 @@
 ---
 title: Now pages 需要归档吗？
-date: 2026-06-11
+created: 2025-06-11
 ---
 读 David C. Buchan 的 [now page](https://quantumgardener.info/now) 有感。
 

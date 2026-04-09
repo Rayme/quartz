@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 硌硌若石
 ---
 One Sustains All

@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 道生一
 ---
 Tao Brings Forth

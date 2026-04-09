@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 不上贤使民不争
 ---
 Rule by Doing Nothing

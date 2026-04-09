@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 有之以为利无之以为用
 ---
 Useful Emptiness

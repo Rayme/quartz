@@ -2,7 +2,7 @@
 title: Stop Overthinking
 tags:
   - quotes
-date: 2025-02-09
+created: 2025-02-09
 ---
 [https://fs.blog/brain-food/february-9-2025](https://fs.blog/brain-food/february-9-2025)
 

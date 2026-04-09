@@ -1,5 +1,6 @@
 ---
 title: 费曼学习法
+created: 2025-04-09
 ---
 费曼学习法 [The Feynman Technique](https://subjectguides.york.ac.uk/study-revision/feynman-technique)，也许是对自己认知改变最大的一个理论。
 

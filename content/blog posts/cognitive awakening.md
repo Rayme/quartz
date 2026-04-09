@@ -1,6 +1,6 @@
 ---
 title: 《认知觉醒》读后感
-date: 2025-05-14
+created: 2025-05-14
 tags:
   - books
 ---

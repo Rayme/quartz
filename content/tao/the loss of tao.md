@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 故大道废案有仁义
 ---
 The Loss of Tao

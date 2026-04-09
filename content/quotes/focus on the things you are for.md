@@ -2,7 +2,7 @@
 title: Focus on the Things You are for
 tags:
   - quotes
-date: 2025-04-17
+created: 2025-04-17
 ---
 [James Clear](https://jamesclear.com/3-2-1/april-17-2025) 
 

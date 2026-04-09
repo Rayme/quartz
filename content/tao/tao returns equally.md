@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 天道无亲恒与善人
 ---
 Tao Returns Equally

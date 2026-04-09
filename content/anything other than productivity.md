@@ -1,6 +1,6 @@
 ---
 title: 工具只是工具，重要的是工具以外的一切
-date: 2025-08-07
+created: 2025-08-07
 ---
 看到 reddit 上有这么[一篇帖子](https://www.reddit.com/r/ObsidianMD/comments/1khpcoo/are_there_any_digital_gardens_that_arent_about/)：
 

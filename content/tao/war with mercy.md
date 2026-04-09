@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 兵者不祥之器也
 ---
 War with Mercy

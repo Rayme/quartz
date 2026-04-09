@@ -1,5 +1,6 @@
 ---
 title: TiddlyWiki
+created: 2024-11-28
 ---
 [TiddlyWiki](https://tiddlywiki.com)（中文社区称呼为**太微**）是一个非线性笔记软件/个人 Wiki 系统，拥有极其丰富的拓展性和可定制性。TiddlyWiki 是一个自由和开源软件（FOSS），使用 [BSD-3-Clause 开源协议](https://opensource.org/licenses/BSD-3-Clause)。因其开源和可定制性，太微拥有一个古老而活跃的[官方社区](https://talk.tiddlywiki.org)，国内有[太微中文社区](https://tw-cn.netlify.app)。[官网](https://tiddlywiki.com)是 TiddlyWiki 的一个典型案例。另有 [Node.js 版本](https://tiddlywiki.com/#TiddlyWiki%20on%20Node.js)。
 

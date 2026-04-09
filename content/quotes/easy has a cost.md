@@ -1,5 +1,6 @@
 ---
 title: Easy Has a Cost
+created: 2025-07-17
 ---
 https://jamesclear.com/3-2-1/july-17-2025
 

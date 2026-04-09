@@ -2,7 +2,7 @@
 title: 不要活在概念里
 tags:
   - quotes
-date: 2024-10-10
+created: 2024-10-10
 ---
 [活在概念里](https://mp.weixin.qq.com/s/96N02OMsQdNWBMmh1TTAew) 和菜头
 

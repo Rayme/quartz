@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 知人者智也
 ---
 Inner Over Outer

@@ -1,5 +1,6 @@
 ---
 title: 笔记相关
+created: 2025-05-25
 ---
 > [!quote]
 > Ideas Can Travel Through Time And Space.

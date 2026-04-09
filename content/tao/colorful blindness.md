@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 五色使人目盲
 ---
 Colorful Blindness

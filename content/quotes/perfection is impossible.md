@@ -2,7 +2,7 @@
 tags:
   - quotes
 title: Perfection Is Impossible
-date: 2024-06-24
+created: 2024-06-24
 ---
 > And here's why I'm telling you this. When you're playing a point, it has to be the most important thing in the world, and it is. But when it's behind you, It's behind you. This mindset is really crucial because it frees you to fully commit to the next point and the next point after that, with intensity, clarity, and focus.
 > 

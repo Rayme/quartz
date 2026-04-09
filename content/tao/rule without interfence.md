@@ -1,4 +1,5 @@
 ---
+created: 2025-04-01
 title: 以正治邦
 ---
 Rule without Interference

@@ -1,5 +1,6 @@
 ---
 title: 出版与印刷
+created: 2025-05-20
 ---
 > [!quote] Francis Bacon
 > Reading maketh a full man; conference a ready man; and writing an exact man.

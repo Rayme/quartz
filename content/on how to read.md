@@ -1,6 +1,6 @@
 ---
 title: 如何读书
-date: 2025-09-29
+created: 2025-09-29
 ---
 [How to Remember What You Read](https://fs.blog/how-to-remember-what-you-read) FS
 

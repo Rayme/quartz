@@ -1,6 +1,6 @@
 ---
 title: The Memory Could Not Be Written
-date: 2026-03-13
+created: 2026-03-13
 ---
 _This short piece is [published](https://zm.bearblog.dev/the-memory-could-not-be-written/) on my bearblog, 14th November 2025._
 

@@ -10,7 +10,7 @@ created: 2026-04-09
 
 用 WordPress 写博客十年后，我还尝试过建立不同版本的花园。例如 [[tiddlywiki|TiddlyWiki]] 和 DokuWiki，但因种种原因没有延续。TiddlyWiki 使用自己的 wiki 方言，首次加载缓慢；DokuWiki 过于文档化与多用户合作的形式，都不太符合我对一个网站的要求。直到发现 Quartz，才意识到原来存在一种静态网站生成器，在本地写完内容，通过推送转换为 HTML 发表，流畅且优雅，并天然解决了副本的问题。像这样的工具还有 Astro、Hugo、Jekyll、Eleventy 等等，但我先入为主，选择了 Quartz，再也没有变化过。
 
-2025年4月1日，我用 Quartz 4 建立了这个全新的站点。看一眼仓库，我竟然已经 commit 了1800多次。我很享受频繁更新内容的时光。当然，目前还没有 star，唯一一个 watch 还是自己给的。有两位朋友不辞劳苦给我留下两条评论，不胜感激。
+2025年4月1日，我用 Quartz 4 建立了这个全新的站点。看一眼仓库，我竟然已经 commit 了~~1800多次~~ 180多次。我很享受频繁更新内容的时光。当然，目前还没有 star，唯一一个 watch 还是自己给的。有两位朋友不辞劳苦给我留下两条评论，不胜感激。
 
 我离开 WordPress 还有一个重要原因。除了软件本身越来越臃肿、漏洞越来越多以外，WordPress 的托管提供商 WP Engine 和 WordPress 创始人 Matt Mullenweg 以及他的 WordPress.org 和 WordPress.com (Automattic) 在2024年底又有[大量纷争](https://techcrunch.com/2025/01/12/wordpress-vs-wp-engine-drama-explained/)，社区不再纯粹，用户不胜其烦。开源精神在被商业社会的浸染下也会变得面目可憎。从那时候开始，WordPress 在我眼里不再眉清目秀，对于在 WordPress 编辑器里写东西的欲望越来越小，甚至还有一些排斥。
 
