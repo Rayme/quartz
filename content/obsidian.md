@@ -1,5 +1,6 @@
 ---
 title: Obsidian
+created: 2025-06-20
 ---
 [Obsidian](https://obsidian.md/) 是一个现代的本地 Markdown 双链笔记软件，发布短短几年已经成为笔记工具界一颗亮闪闪的新星。Obsidian 使用 Markdown 作为语法，本质上笔记文件都是纯文本，如同 Zimwiki，TiddlyWiki 或者 DokuWiki，不需要数据库驱动。Obsidian 能够开箱即用，截止2022年8月，他已经是一个基础功能十分完善的笔记软件，有一个热闹的讨论社区和插件生态。
 
