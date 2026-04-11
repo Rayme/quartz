@@ -12,15 +12,16 @@ date: 2026-04-09
 ---
 ## Horizon 🌏
 
-- [[movies and shows|影视剧观后感]] | [[gossip on movies|影视剧想法]]
+- [[posts|随便写写]] | [[movies and shows|影视剧观后感]] | [[gossip on movies|影视剧想法]]
 - [[i love books|书籍读后感]] | [[music|音乐]]
 - [[digital life|科技生活]] | [[ai|主观 AI 编年史]]
 
-[[posts|随便写写]] | [[tao|我读《道德经》]] | [[now|我的 now 页面]] *4月8日更新*
+[[tao|我读《道德经》]] | [[now|我的 now 页面]] *4月8日更新*
 
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
 > [!tip]- 最近更新 🗞️
+> - 0411 [[gossip on movies|影视剧碎碎念]]、[[now]]
 > - 0409 [[about this site|关于本站]]
 > - 0408 [[ai|主观 AI 编年史]]
 > - 0406 [[project hail mary|《挽救计划》]]，[[the rip|《全信没收》]]，[[mercy|《极限审判》]]，[[elysium|《极乐空间》]]
