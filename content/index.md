@@ -21,7 +21,7 @@ date: 2026-04-09
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
 > [!tip]- 最近更新 🗞️
-> - 0411 [[gossip on movies|影视剧碎碎念]]、[[now]]
+> - 0411 0412 [[gossip on movies|影视剧碎碎念]]、[[now]]、[[maharaja|《因果报应》]]
 > - 0409 [[about this site|关于本站]]
 > - 0408 [[ai|主观 AI 编年史]]
 > - 0406 [[project hail mary|《挽救计划》]]，[[the rip|《全信没收》]]，[[mercy|《极限审判》]]，[[elysium|《极乐空间》]]
