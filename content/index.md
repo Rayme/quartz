@@ -15,6 +15,7 @@ date: 2026-04-13
 - [[posts|随便写写]] | [[movies and shows|影视剧观后感]] | [[gossip on movies|影视剧想法]]
 - [[i love books|书籍读后感]] | [[music|音乐]]
 - [[digital life|科技生活]] | [[ai|主观 AI 编年史]]
+- [[amazon|跨境电商与亚马逊]]
 
 [[tao|我读《道德经》]] | [[now|我的 now 页面]] *4月8日更新*
 
