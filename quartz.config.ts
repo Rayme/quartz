@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "仿生猫梦见电子猫粮",
-    pageTitleSuffix: "",
+    pageTitle: "按钮与磁带",
+    pageTitleSuffix: "仿生猫梦见电子猫粮",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -30,14 +30,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#ffffff",
+          light: "#fefff9",
           lightgray: "#e5e5e5",
           gray: "#C2C3C3",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "#3a5f9e",
           tertiary: "#0077aa",
-          highlight: "#8f9fa926",
+          highlight: "",
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -48,7 +48,7 @@ const config: QuartzConfig = {
           dark: "#ebebec",
           secondary: "#7b97aa",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "",
           textHighlight: "#b3aa0288",
         },
       },
