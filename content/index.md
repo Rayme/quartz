@@ -68,7 +68,7 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
 
 ---
 
-![[ilikecomeputer.png|88x31]] ![[by-sa.png|88x31]] ![[no-ai-icon-07.png|31]]  
+![[ilikecomeputer.png|88x31]] ![[by-sa.png|88x31]]
 
 88x31
 

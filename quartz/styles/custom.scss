@@ -2,15 +2,18 @@
 
 
 :root {
-  --headerFont: "Ubuntu", "Noto Sans SC", sans-serif;
-  --bodyFont: "Ubuntu", "Noto Sans SC", sans-serif;
+  /* 字体使用系统字体，无需Google Fonts */
+  --headerFont: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --bodyFont: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans SC', sans-serif;
+  --codeFont: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
 }
 
 /* 字间距与行间距微调*/
 
 body {
   font-size: 17px;
-  font-family: 'Ubuntu', 'Noto Sans SC', sans-serif;
+  /* 使用系统字体，移除Google Fonts引用 */
+  font-family: var(--bodyFont);
   line-height: 1.8em;
   letter-spacing: 0.02em;
 }
@@ -19,9 +22,9 @@ li {
   line-height: 1.9rem;
 }
 
-/* 代码块字体 */
+/* 代码块字体 - 使用系统等宽字体 */
 code, pre {
-  font-family: 'Noto Sans Mono', monospace;
+  font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
 }
 
 
