@@ -12,7 +12,7 @@ created: 2026-04-09
 
 2025年4月1日，我用 Quartz 4 建立了这个全新的站点。看一眼仓库，我竟然已经 commit 了~~1800多次~~ 180多次。我很享受频繁更新内容的时光。当然，目前还没有 star，唯一一个 watch 还是自己给的。有两位朋友不辞劳苦给我留下两条评论，不胜感激。
 
-我离开 WordPress 还有一个重要原因。除了软件本身越来越臃肿、漏洞越来越多以外，WordPress 的托管提供商 WP Engine 和 WordPress 创始人 Matt Mullenweg 以及他的 WordPress.org 和 WordPress.com (Automattic) 在2024年底又有[大量纷争](https://techcrunch.com/2025/01/12/wordpress-vs-wp-engine-drama-explained/)，社区不再纯粹，用户不胜其烦。开源精神在被商业社会的浸染下也会变得面目可憎。从那时候开始，WordPress 在我眼里不再眉清目秀，对于在 WordPress 编辑器里写东西的欲望越来越小，甚至还有一些排斥。
+我离开 WordPress 还有一个重要原因。除了软件本身越来越臃肿、漏洞越来越多以外，WordPress 的托管提供商 WP Engine 和 WordPress 创始人 Matt Mullenweg 以及他的 WordPress.org 和 WordPress.com (Automattic) 在2025年底又有[大量纷争](https://techcrunch.com/2025/01/12/wordpress-vs-wp-engine-drama-explained/)，社区不再纯粹，用户不胜其烦。开源精神在被商业社会的浸染下也会变得面目可憎。从那时候开始，WordPress 在我眼里不再眉清目秀，对于在 WordPress 编辑器里写东西的欲望越来越小，甚至还有一些排斥。
 
 Markdown 似乎也要焕发第二春了。除了有些脑子有问题的 KOL 以外，一般人都会觉得这是一种不错的语法，在大多数场景下都适用。进入2026年以来，各类 Agent 工具爆发，几乎所有 Agent 都读 Markdown，而不是 json 或者其他语言。这是人类和人工智能之间的最大公约数，因此继续用 Markdown 写文章是自然而然的选择。
 

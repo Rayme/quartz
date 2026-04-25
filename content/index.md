@@ -2,7 +2,7 @@
 title: 仿生猫梦见电子猫粮
 description: 按钮是控制，磁带是记录。
 created: 2025-04-01
-date: 2026-04-19
+date: 2026-04-25
 ---
 
 谢谢你来我的寒舍。我在这里分享我感兴趣的事物、所见所闻和一点点思考，希望你也能找到感兴趣的内容。
@@ -22,7 +22,8 @@ date: 2026-04-19
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
 > [!tip]- 最近更新 🗞️
-> - 0419 [[about online storage services|《云存储和不安全感的幻觉》]]，[[ai|主观 AI 编年史]]
+> - 0425 [[ai|主观 AI 编年史]]，[[blogroll|网上邻居]]
+> - 0419 [[about online storage services|《云存储和不安全感的幻觉》]]
 > - 0411 0412 [[gossip on movies|影视剧碎碎念]]、[[now]]、[[maharaja|《因果报应》]]
 > - 0409 [[about this site|关于本站]]
 > - 0408 [[ai|主观 AI 编年史]]
@@ -65,13 +66,12 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
 - [[now|我最近在做什么]]
 - [[about me|关于我]]
 - [[about this site|关于本站]]
+- [[blogroll|网上邻居]]
 - [[site log|站点日志]]
 
 ---
 
 ![[ilikecomeputer.png|88x31]] ![[by-sa.png|88x31]]
-
-88x31
 
 本站点内容采用 [知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
 

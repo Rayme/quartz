@@ -1,6 +1,7 @@
 ---
 title: 关于《Vol.80 简中互联网与流媒体》的思考
 created: 2024-05-28
+date: 2025-04-23
 ---
 Leslie 的[第八十期电子报](https://quail.ink/justgoidea/p/202418)
 
