@@ -1,6 +1,7 @@
 ---
 title: 出版与印刷
 created: 2025-05-20
+date: 2026-04-26
 ---
 > [!quote] Francis Bacon
 > Reading maketh a full man; conference a ready man; and writing an exact man.
@@ -14,6 +15,7 @@ created: 2025-05-20
 - [[atomic habits|《掌控习惯》]]
 - [[blog posts/the autobiography of benjamin franklin|《富兰克林自传》]]
 - [[blog posts/notes on how to take effective notes|《笔记的方法》]]
+- [[what does it all mean|What Does it All Mean?]]
 - [[blog posts/the razors edge|《刀锋》]]
 - [[life is worth living|《人间值得》]]
 - [[homo deus|《未来简史》]]

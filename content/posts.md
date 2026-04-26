@@ -6,11 +6,13 @@ created: 2025-04-01
 ## 分类
 
 - [[movies and shows|影视剧观后感]] |  [[i love books|书籍读后感]] | [[digital life|科技生活]]
-- [[city observe|城市观察]] | [[damn wechat|我骂微信]] 
+- [[city observe|城市观察]] | [[damn wechat|我骂微信]]
+- [[write in english for 100 days|英文百日写作项目]]
 ## 日期倒序
 
 ### 2026
 
+- [[what does it all mean|What Does It All Mean?]]
 - [[about online storage services|云存储和不安全感的幻觉]]
 - [[the memory could not be written|The Memory Could Not Be Written]]
 - [[my app defaults 2025|My App Defaults 2025]]

@@ -2,6 +2,9 @@
 title: 要多想
 created: 2024-04-09
 ---
+## 2026
+
+- 0426 [[what does it all mean|What Does it All Mean?]]
 ## 2025
 
 - 0918 [[attention training|注意力训练]]
