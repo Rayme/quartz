@@ -67,4 +67,4 @@ title: 英文百日写作项目
 - 2025-10-20 [[on comments|On Comments]]
 - 2025-10-19 [[about note taking|About Note Taking]] 参阅 [[notetaking]]
 - 2025-10-18 [[about creating stuff|About Creating Stuff]]
-- 2025-10-17 Try to Post Everyday
+- 2025-10-17 [[try to post everyday|Try to Post Everyday]]
