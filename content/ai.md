@@ -1,6 +1,6 @@
 ---
 title: AI
-date: 2026-04-27
+date: 2026-04-30
 created: 2022-12-05
 ---
 *2025-06-05 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。*
@@ -10,6 +10,9 @@ created: 2022-12-05
 ---
 ## 1H26
 
+- 2026-04-30 近一周以来，Anthropic 砍掉了 Claude Pro 用户使用 Claude Code 的权限，限流、涨价且封号，各种争议从未停止过。[参考文献](https://www.ifanr.com/1663315)
+- 我用着 Claude Code 但接入了别家大模型，然后订阅了 ChatGPT Plus。原来 GPT-5.5 现在已经强大到这个级别。
+- 昨日（4月29日）小米发布了 [Orbit 百万亿 Token 计划](https://platform.xiaomimimo.com/docs/zh-CN/news/v2.5-open-sourced)，顺便开源了刚刚发布不久的 MiMo V2.5 系列，这个系列模型支持也开始支持 1M 上下文窗口。我在[这个链接](https://100t.xiaomimimo.com)申请加入计划，填了一些信息后就成功入选了，收到一个月 Standard Token Plan，有两亿 creadits。二话不说把 Hermes agent 换成 MiMo V2.5 系列。米子的模型用起来还是不错的。
 - 2026-04-27 今天是个好日子：[依法依规对外资收购 Manus 项目作出禁止投资决定](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20623)，来自发改委。吃里扒外的企业终于遭受铁拳锤击了。
 - 2026-04-25 过去一周，AI 行业的迭代非常剧烈。按时间倒序，首先是4月24日，终于[发布了 DeepSeek V4 预览版](https://mp.weixin.qq.com/s/8bxXqS2R8Fx5-1TLDBiEDg)，且同步开源。我认真读完深度求索的发布稿，核心就写在标题上：**百万上下文**，**普惠**。基本的推理性能和知识属于基础更新，但额外加强了 Agent 能力，这也符合时代趋势。现在，所有普通人，都能在一个 app 或者网页端，享受到 1M 上下文窗口以及接近世界最强的大语言模型同级别性能了。
 	- 这次 V4 包含 Pro 和 Flash 两个版本，都很有性价比。Flash 适合作为 Agent 性价比基座，Pro 已经接近 Opus 4.6 non-thinking，“但仍与 Opus 4.6 思考模式存在一定差距。” 这句话是发布稿中的原话，很少会见到大语言模型厂商会如此叙述，简直是业界的一股清流（深度求索一直是这股气质，让人喜欢）。

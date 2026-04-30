@@ -2,7 +2,7 @@
 title: 仿生猫梦见电子猫粮
 description: 按钮是控制，磁带是记录。
 created: 2025-04-01
-date: 2026-04-25
+date: 2026-04-30
 ---
 
 谢谢你来我的寒舍。我在这里分享我感兴趣的事物、所见所闻和一点点思考，希望你也能找到感兴趣的内容。
@@ -56,11 +56,12 @@ date: 2026-04-25
 
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
 
-> [!notes on 0929, updated 0120]
+> [!notes on 0929, updated 0430]
 > - 定期审计生活和工作系统
 > - 多反驳自己坚信的观点
 > - 尝试建构，无论领域
 > - 允许花园和生活中有感性和混沌存在
+> - 不必纠结长短
 
 ## Thyself 💭
 
