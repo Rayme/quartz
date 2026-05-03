@@ -37,7 +37,7 @@ date: 2026-04-25
 > - 0709 [[movies and shows|院线观影记录更新]]，[[travel in liu zhou|柳州见闻]]
 > - 0620 [[movies and shows|影视剧观后感清单]]，[[notetaking|笔记相关页面]]，[[my note taking rules|我的笔记方法]]，[[obsidian|Obsidian]]，[[tiddlywiki|TiddlyWiki]]
 > - 0617 [[ballerina|《芭蕾杀姬》观后感]]
-> - 0609 [[thinking in systems|《系统之美》读后感]]，[[create orginal works|原创写作瓶颈和外部化]]
+> - 0609 [[thinking in systems|《系统之美》读后感]]，[[create original works|原创写作瓶颈和外部化]]
 > - 0605 [[ai|AI]]，[[siddhartha|人人都是悉达多]]
 > - 0604 [[tao|我读《道德经》]]，[[quotes from others|他们如是说]]
 > - 0603 [[thunderbolts|《雷霆特攻队*》观后感]]，[[random thoughts|要多想]]，[[strange stories from metro|地铁怪谈]]

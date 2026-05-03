@@ -2,6 +2,7 @@
 title: AI
 date: 2026-04-30
 created: 2022-12-05
+description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
 *2025-06-05 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。*
 
@@ -10,6 +11,7 @@ created: 2022-12-05
 ---
 ## 1H26
 
+- 2026-05-03 四月底订阅了 ChatGPT Plus 后，我突然意识到 Plus 用户可以使用 [Codex](https://chatgpt.com/zh-Hans-CN/codex/)（实际上免费用户也可以），于是在探索中从 Codex CLI 到 Codex App，才发现这是一个多么优秀的应用。它几乎是 OpenClaw 的完全体，设计风格简洁优雅，尽管是在 Windows 下。若是 Mac 想必更美。Plus 的额度几乎够一个非重度用户使用一周还有富余。
 - 2026-04-30 近一周以来，Anthropic 砍掉了 Claude Pro 用户使用 Claude Code 的权限，限流、涨价且封号，各种争议从未停止过。[参考文献](https://www.ifanr.com/1663315)
 - 我用着 Claude Code 但接入了别家大模型，然后订阅了 ChatGPT Plus。原来 GPT-5.5 现在已经强大到这个级别。
 - 昨日（4月29日）小米发布了 [Orbit 百万亿 Token 计划](https://platform.xiaomimimo.com/docs/zh-CN/news/v2.5-open-sourced)，顺便开源了刚刚发布不久的 MiMo V2.5 系列，这个系列模型支持也开始支持 1M 上下文窗口。我在[这个链接](https://100t.xiaomimimo.com)申请加入计划，填了一些信息后就成功入选了，收到一个月 Standard Token Plan，有两亿 creadits。二话不说把 Hermes agent 换成 MiMo V2.5 系列。米子的模型用起来还是不错的。

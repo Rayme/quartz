@@ -1,6 +1,7 @@
 ---
 created: 2025-04-16
 date: 2026-04-11
+title: Now
 ---
 这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)
 

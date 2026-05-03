@@ -54,9 +54,9 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-	order: ["date"],
-	folderDefaultState: "collapsed",
-	}),
+      order: ["filter", "map", "sort"],
+      folderDefaultState: "collapsed",
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),

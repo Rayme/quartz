@@ -22,6 +22,7 @@ date: 2026-04-30
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
 > [!tip]- 最近更新 🗞️
+> - 0503 [[about this site|关于本站]]，[[acos formula and analysis|ACOS 公式推导与分析]]，[[cold war 1994|《寒战1994》]]
 > - 0426 [[write in english for 100 days|英文百日写作项目]]，[[what does it all mean|What Does it All Mean?]]
 > - 0425 [[ai|主观 AI 编年史]]，[[blogroll|网上邻居]]
 > - 0419 [[about online storage services|《云存储和不安全感的幻觉》]]
