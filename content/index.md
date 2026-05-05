@@ -2,7 +2,7 @@
 title: 仿生猫梦见电子猫粮
 description: 按钮是控制，磁带是记录。
 created: 2025-04-01
-date: 2026-04-30
+date: 2026-05-05
 ---
 
 谢谢你来我的寒舍。我在这里分享我感兴趣的事物、所见所闻和一点点思考，希望你也能找到感兴趣的内容。
@@ -22,6 +22,7 @@ date: 2026-04-30
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
 > [!tip]- 最近更新 🗞️
+> - 0505 [[fixing browser use in codex app under windows 11|Windows 11 下修复 Codex 的 Browser Use]]，[[about this site|关于本站]]
 > - 0503 [[about this site|关于本站]]，[[acos formula and analysis|ACOS 公式推导与分析]]，[[cold war 1994|《寒战1994》]]
 > - 0426 [[write in english for 100 days|英文百日写作项目]]，[[what does it all mean|What Does it All Mean?]]
 > - 0425 [[ai|主观 AI 编年史]]，[[blogroll|网上邻居]]
