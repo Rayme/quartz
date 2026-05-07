@@ -71,7 +71,12 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest", openLinksInNewTab: true }),
-      Plugin.Description(),
+      Plugin.Description(
+	  {
+  descriptionLength: 800,
+  maxDescriptionLength: 1200,
+}
+	  ),
   //    Plugin.Latex({ renderEngine: "katex" }),  //
     ],
     filters: [Plugin.RemoveDrafts()],
@@ -84,7 +89,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
-		rssFullHtml: true,
+		rssFullHtml: false,
 		rssLimit: 42,
 		rssSlug: "index",
 		
