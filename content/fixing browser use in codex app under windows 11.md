@@ -1,6 +1,7 @@
 ---
 title: Windows 11 下修复 Codex 的 Browser Use
 created: 2026-05-05
+date: 2026-05-11
 ---
 在 Windows 11 下，安装 Microsoft Store 中的官方 Codex App 有可能出现 Codex 的 Browser Use 功能无法使用的情况。起初以为是权限问题，但以管理员模式打开软件或在项目中勾选完全访问权限并未解决此问题。最终我搜索到 Reddit 的[这个帖子](https://www.reddit.com/r/codex/comments/1sx6omi/windows_native_browser_use_fix/)，里面详细描述了问题的表现、起因和解决方案。现整理分享。
 
@@ -27,7 +28,7 @@ created: 2026-05-05
 
 ## Powershell 解法
 
-在 Powershell 中使用 `Get-AppxPackage -Name OpenAI.Codex | Select-Object Name,PackageFullName,InstallLocation` 命令获取 Codex 当前安装路径，然后运行如下 Powershell 命令：
+在 Powershell 中使用 `Get-AppxPackage -Name OpenAI.Codex | Select-Object Name,PackageFullName,InstallLocation` 命令获取 Codex 当前安装路径，然后运行如下 Powershell 命令（把其中的 `<InstallLocation>` 换成 Codex 安装路径）：
 
 ```Powershell
 $src = "<InstallLocation>\app\resources"

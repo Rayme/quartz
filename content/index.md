@@ -17,11 +17,12 @@ date: 2026-05-05
 - [[digital life|科技生活]] | [[ai|主观 AI 编年史]]
 - [[amazon|跨境电商与亚马逊]]
 
-[[tao|我读《道德经》]] | [[now|我的 now 页面]] *4月8日更新*
+[[tao|我读《道德经》]] | [[now|我的 now 页面]] *5月11日更新*
 
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
 > [!tip]- 最近更新 🗞️
+> - 0511 [[now]]
 > - 0505 [[fixing browser use in codex app under windows 11|Windows 11 下修复 Codex 的 Browser Use]]，[[about this site|关于本站]]
 > - 0503 [[about this site|关于本站]]，[[acos formula and analysis|ACOS 公式推导与分析]]，[[cold war 1994|《寒战1994》]]
 > - 0426 [[write in english for 100 days|英文百日写作项目]]，[[what does it all mean|What Does it All Mean?]]
@@ -58,12 +59,13 @@ date: 2026-05-05
 
 Focus on [[like instead of want|what I like, not what I want]]. Hope we all have [a lifetime of curiosity.](https://nesslabs.com/a-year-of-curiosity)
 
-> [!notes on 0929, updated 0430]
+> [!notes on 20250929, updated 20260511]
 > - 定期审计生活和工作系统
 > - 多反驳自己坚信的观点
 > - 尝试建构，无论领域
 > - 允许花园和生活中有感性和混沌存在
 > - 不必纠结长短
+> - 修改网站包含 wiki.imzm.im 的内容
 
 ## Thyself 💭
 
