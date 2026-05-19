@@ -1,6 +1,6 @@
 ---
 title: AI
-date: 2026-04-30
+date: 2026-05-20
 created: 2022-12-05
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
@@ -11,6 +11,8 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 1H26
 
+- 2026-05-20 半个月后，我已经决定续费 ChatGPT Plus。不仅仅是 Codex，Hermes Agent 近期的更新已经可以使用 OpenAI Oauth 使用同样的 Plus 订阅。以我目前的用法，Plus 的额度一周只用到一半，剩下一半正好给到 Hermes。此外，我的 OpenClaw 自从最后一次更新挂掉以后，再也没有启动过了。
+- Andrej Karpathy [宣布加入](https://x.com/karpathy/status/2056753169888334312) Anthropic。
 - 2026-05-03 四月底订阅了 ChatGPT Plus 后，我突然意识到 Plus 用户可以使用 [Codex](https://chatgpt.com/zh-Hans-CN/codex/)（实际上免费用户也可以），于是在探索中从 Codex CLI 到 Codex App，才发现这是一个多么优秀的应用。它几乎是 OpenClaw 的完全体，设计风格简洁优雅，尽管是在 Windows 下。若是 Mac 想必更美。Plus 的额度几乎够一个非重度用户使用一周还有富余。
 - 2026-04-30 近一周以来，Anthropic 砍掉了 Claude Pro 用户使用 Claude Code 的权限，限流、涨价且封号，各种争议从未停止过。[参考文献](https://www.ifanr.com/1663315)
 - 我用着 Claude Code 但接入了别家大模型，然后订阅了 ChatGPT Plus。原来 GPT-5.5 现在已经强大到这个级别。

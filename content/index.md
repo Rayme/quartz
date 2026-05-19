@@ -22,6 +22,7 @@ date: 2026-05-05
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
 > [!tip]- 最近更新 🗞️
+> - 0520 [[dear you|《给阿嬷的情书》]]
 > - 0511 [[now]]
 > - 0505 [[fixing browser use in codex app under windows 11|Windows 11 下修复 Codex 的 Browser Use]]，[[about this site|关于本站]]
 > - 0503 [[about this site|关于本站]]，[[acos formula and analysis|ACOS 公式推导与分析]]，[[cold war 1994|《寒战1994》]]
