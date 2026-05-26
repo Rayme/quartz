@@ -36,7 +36,7 @@ date: 2026-05-11
 - 2023-04-08 读[全球电影市场脱殖指数报告](https://mp.weixin.qq.com/s/SjMEzjU7lC20zaKkBIV6uQ) by 底壳宇宙
     - 2024-03-13 2023年的[脱殖指数报告](https://mp.weixin.qq.com/s/aL78rP8FPA4Sf-3PvHiguw)也出来啦
 - 2023-03-14 杨紫琼凭借《妈的多重宇宙》获得奥斯卡最佳女主角奖，可喜可贺！
-- 2023-02-26 读[《流浪地球2》的精神内核，是中国历史的起点](https://wiki.imzm.im/#%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%832) by 新潮沉思录
+- 2023-02-26 读[《流浪地球2》的精神内核，是中国历史的起点](https://mp.weixin.qq.com/s/0iPfWKrWGoHBIj02ApchxQ) by 新潮沉思录
 - 2023-02-20 读[万物皆可主旋律的时代，中国电影何处去？](https://mp.weixin.qq.com/s/N0hSOvIzUdW5HVQJBtDE1Q) by 新潮沉思录
     - 当前的文艺市场（电影）出现了很大的问题，也有很好很坚定的方向。今年一部[[the wandering earth 2|流浪地球2]]和一部[[three-body|三体]]打开了中国科幻影视剧的大门。我对中国科幻的未来很有信心。
 - 2023-02-15 找了十几年的动画片，终于找到它的名字叫做 [Madness Combat](https://www.youtube.com/channel/UC64tqaIUdbAcOajtGHnV-qw)，而我还是通过问 New Bing 才知道的答案……

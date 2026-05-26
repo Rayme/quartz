@@ -22,6 +22,7 @@ date: 2026-05-05
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
 > [!tip]- 最近更新 🗞️
+> - 0526 [[the boys|《黑袍纠察队》]]
 > - 0520 [[dear you|《给阿嬷的情书》]]
 > - 0511 [[now]]
 > - 0505 [[fixing browser use in codex app under windows 11|Windows 11 下修复 Codex 的 Browser Use]]，[[about this site|关于本站]]
@@ -66,7 +67,6 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
 > - 尝试建构，无论领域
 > - 允许花园和生活中有感性和混沌存在
 > - 不必纠结长短
-> - 修改网站包含 wiki.imzm.im 的内容
 
 ## Thyself 💭
 

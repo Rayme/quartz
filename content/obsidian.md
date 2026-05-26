@@ -14,6 +14,6 @@ Obsidian 的官网有三句话简要说明软件的核心：
 
 Obsidian 的原理很简洁，按照官方帮助文件中的说法，“Obsidian 既是一个 **Markdown 编辑器**，也是一个知识管理软件”。也可以理解成是一个资源管理器，Obsidian 不过是把你的目录中的 .md 文件读取出来，然后按照 Markdown 的格式渲染。但由于双链的加入，使得 Obsidian 有了灵活性，“发现已知事物之间的联系，提供一座知识探索与发现的桥梁”。
 
-2023年2月，Obsidian 的 CEO 变成 [Stephan Ango](https://wiki.imzm.im/#blog%3A%20StephanAngo)，原来是主题 Minimal 的开发者。他的文章简单易读，也富有软件哲学。他最专注的两项哲学是：[File Over App](https://stephango.com/file-over-app) 和 [100% user-supported](https://stephango.com/vcware)。
+2023年2月，Obsidian 的 CEO 变成 [Stephan Ango](https://stephango.com/)，原来是主题 Minimal 的开发者。他的文章简单易读，也富有软件哲学。他最专注的两项哲学是：[File Over App](https://stephango.com/file-over-app) 和 [100% user-supported](https://stephango.com/vcware)。
 
 2025年2月，Obsidian 对所有人免费可用，包括个人、商用和非营利性组织。

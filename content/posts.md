@@ -12,6 +12,7 @@ created: 2025-04-01
 
 ### 2026
 
+- [[dear you|暹罗没有春天]]
 - [[what does it all mean|What Does It All Mean?]]
 - [[about online storage services|云存储和不安全感的幻觉]]
 - [[the memory could not be written|The Memory Could Not Be Written]]
