@@ -1,17 +1,7 @@
 @use "./base.scss";
 
-
-:root {
-  --headerFont: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  --bodyFont: Verdana, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans SC', sans-serif;
-  --codeFont: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
-}
-
-/* 字间距与行间距微调*/
-
 body {
   font-size: 16px;
-  font-family: var(--bodyFont);
   line-height: 1.8em;
   letter-spacing: 0.02em;
 }
@@ -20,12 +10,6 @@ li {
   line-height: 1.9rem;
 }
 
-code, pre {
-  font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
-}
-
-
-/* 段落文字细调*/
 .center p {
   letter-spacing: 0.02em;
   line-height: 1.8em;
@@ -39,9 +23,9 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (max-width: 600px) {
   h2.page-title {
     font-size: 1.2rem;
-}
+  }
 }
 
-li.section-li>.section {
+li.section-li > .section {
   grid-template-columns: fit-content(9em) 3fr 1fr;
 }
