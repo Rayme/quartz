@@ -1,3 +1,25 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+body {
+  font-size: 16px;
+  line-height: 1.8em;
+  letter-spacing: 0.02em;
+}
+
+.center p {
+  letter-spacing: 0.02em;
+  line-height: 1.8em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 0;
+  line-height: 1.4em;
+}
+
+@media screen and (max-width: 600px) {
+  h2.page-title {
+    font-size: 1.2rem;
+  }
+}

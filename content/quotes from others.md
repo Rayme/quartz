@@ -1,0 +1,21 @@
+---
+title: 他们如是说
+created: 2025-04-01
+---
+- [[get your body going]] James Clear
+- [[self authorship|Self-Authorship: The Art of Trusting Your Own Authority]] Anne-Laure Le Cunff
+- [[work harder until work smarter]] FS
+- [[action relieves anxiety]] James Clear
+- [[easy has a cost]] James Clear
+- [[stop overthinking]] FS
+- [[stop fighting your nature]] FS
+- [[do not live in concepts|不要活在概念里]] 和菜头
+- [[stop waiting and start doing it]] FS
+- [[hidden costs of success]] James Clear
+- [[perfection is impossible]] Roger Federer
+- [[smaller surface area]] FS
+- [[like instead of want]] James Clear
+- [[why people loves to argue and best way to deal with it]] Nanette Litya
+- [[focus on the things you are for]] James Clear
+- [[the twelve foundations for a good life]] Scott Young
+- [[say because]] Nick Milo
