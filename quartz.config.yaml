@@ -219,8 +219,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        作者：陈仓颉: /about-me
+        CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+        Mastodon: https://m.cmx.im/@imzm
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
