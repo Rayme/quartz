@@ -208,10 +208,19 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: Rayme/quartz
+        repoId: R_kgDOOO4mDQ
+        category: Announcements
+        categoryId: DIC_kwDOOO4mDc4Ct5BJ
+        mapping: url
+        strict: true
+        reactionsEnabled: true
+        inputPosition: bottom
+        lang: zh-CN
     layout:
       position: afterBody
       priority: 10
