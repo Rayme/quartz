@@ -1,10 +1,11 @@
 ---
 created: 2025-04-01
-title: "\r站点日志"
-date: 2026-05-05
+title: 站点日志
+date: 2026-06-01
 ---
 ## 站点更新日志
 
+- 20260601 Quartz v4.5.2 更新至 Quartz v5.0.0 儿童节快乐！
 - 20260503 添加 GoatCounter 统计访问数据，增加[[about this site#隐私声明|关于本站]]隐私声明
 - 20260425 更新页脚信息
 - 20260419 移除全站冗余 CSS 样式，取消使用 Google Fonts，去除 No-AI-icon

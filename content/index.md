@@ -22,6 +22,7 @@ date: 2026-05-05
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。
 
 > [!tip]- 最近更新 🗞️
+> - 0602 [[ai|主观 AI 编年史]]
 > - 0526 [[the boys|《黑袍纠察队》]]
 > - 0520 [[dear you|《给阿嬷的情书》]]
 > - 0511 [[now]]
@@ -32,7 +33,6 @@ date: 2026-05-05
 > - 0419 [[about online storage services|《云存储和不安全感的幻觉》]]
 > - 0411 0412 [[gossip on movies|影视剧碎碎念]]、[[now]]、[[maharaja|《因果报应》]]
 > - 0409 [[about this site|关于本站]]
-> - 0408 [[ai|主观 AI 编年史]]
 > - 0406 [[project hail mary|《挽救计划》]]，[[the rip|《全信没收》]]，[[mercy|《极限审判》]]，[[elysium|《极乐空间》]]
 > - 0330 [[children of the sun|《太阳之子》]]
 > - 0304 [[fight against evil 3|《东北警察故事3》]]，[[housemaid|《家弑服务》]]
