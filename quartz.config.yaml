@@ -2,7 +2,7 @@
 configuration:
   pageTitle: 按钮与磁带
   pageTitleSuffix: ""
-  enableSPA: false
+  enableSPA: true
   enablePopovers: true
   analytics:
     provider: goatcounter

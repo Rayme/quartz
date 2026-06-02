@@ -62,11 +62,67 @@ function stopLoading() {
   }
 }
 
+function scrollToTopImmediately() {
+  const html = document.documentElement
+  const previousScrollBehavior = html.style.scrollBehavior
+  html.style.scrollBehavior = "auto"
+  window.scrollTo({ top: 0, left: 0 })
+  html.style.scrollBehavior = previousScrollBehavior
+}
+
+function shouldAnimatePageTransition() {
+  return !window.matchMedia("(prefers-reduced-motion: reduce)").matches
+}
+
+function beginPageTransition() {
+  const root = document.documentElement
+  if (!shouldAnimatePageTransition()) return Promise.resolve()
+
+  root.classList.remove("quartz-page-entering")
+  root.classList.add("quartz-page-leaving")
+
+  return new Promise<void>((resolve) => {
+    window.setTimeout(resolve, 180)
+  })
+}
+
+function finishPageTransition() {
+  const root = document.documentElement
+  root.classList.remove("quartz-page-leaving")
+
+  if (!shouldAnimatePageTransition()) return
+
+  root.classList.add("quartz-page-entering")
+  // Force the initial entering state to apply before transitioning to rest.
+  document.body.getBoundingClientRect()
+  requestAnimationFrame(() => {
+    root.classList.remove("quartz-page-entering")
+  })
+}
+
+function swapPage(html: Document, url: URL, isBack: boolean) {
+  document.querySelector(".navigation-progress")?.remove()
+  micromorph(document.body, html.body)
+
+  // scroll into place and add history
+  if (!isBack) {
+    if (url.hash) {
+      const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
+      el?.scrollIntoView()
+    } else {
+      scrollToTopImmediately()
+    }
+  }
+
+  finishPageTransition()
+}
+
 let isNavigating = false
 let p: DOMParser
 async function _navigate(url: URL, isBack: boolean = false) {
   isNavigating = true
   startLoading()
+  const pageLeaving = beginPageTransition()
   p = p || new DOMParser()
   const contents = await fetchCanonical(url)
     .then((res) => {
@@ -82,6 +138,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
     })
 
   if (!contents) return
+  await pageLeaving
 
   // notify about to nav
   const event: CustomEventMap["prenav"] = new CustomEvent("prenav", { detail: {} })
@@ -107,18 +164,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   announcer.dataset.persist = ""
   html.body.appendChild(announcer)
 
-  document.querySelector(".navigation-progress")?.remove()
-  micromorph(document.body, html.body)
-
-  // scroll into place and add history
-  if (!isBack) {
-    if (url.hash) {
-      const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-      el?.scrollIntoView()
-    } else {
-      window.scrollTo({ top: 0 })
-    }
-  }
+  swapPage(html, url, isBack)
 
   // now, patch head, re-executing scripts
   const elementsToRemove = document.head.querySelectorAll(":not([data-persist])")

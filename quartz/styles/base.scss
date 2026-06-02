@@ -681,3 +681,24 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+@media all and ($mobile) and (prefers-reduced-motion: no-preference) {
+  #quartz-root {
+    transition:
+      opacity 0.2s ease,
+      transform 0.2s ease;
+    will-change: opacity, transform;
+  }
+
+  html.quartz-page-leaving #quartz-root {
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(-0.75rem);
+  }
+
+  html.quartz-page-entering #quartz-root {
+    opacity: 0;
+    transform: translateX(0.75rem);
+    transition: none;
+  }
+}
