@@ -36,7 +36,7 @@ title: 英文百日写作项目
 - 2025-11-20 [[output|Output]]
 - 2025-11-19 [[too many read-it-laters everywhere|Too Many Read-it-laters Everywhere]]
 - 2025-11-18 [[im addicted to coffee|I'm Addicted To Coffee]]
-- 2025-11-17 [[blog posts/bearblog/plain text|Plain Text]] 姊妹篇：[[plain text|纯文本]]
+- 2025-11-17 [[bearblog/plain text|Plain Text]] 姊妹篇：[[plain text|纯文本]]
 - 2025-11-16 [[keep on doing|Keep On Doing]]
 - 2025-11-15 [[on windows|On Windows]]
 - 2025-11-14 [[the memory could not be written|The Memory Could Not Be Written]]
