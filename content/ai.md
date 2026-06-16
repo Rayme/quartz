@@ -1,6 +1,6 @@
 ---
 title: AI
-date: 2026-06-02
+date: 2026-06-16
 created: 2022-12-05
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
@@ -9,8 +9,11 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 关于 AI 编年史，[Artificial Intelligence Timeline](https://nhlocal.github.io/AiTimeline) 整理得更加客观且清晰易读。
 
 ---
-## 1H26
+## 2H26
 
+- 2026-06-16 今日最大新闻是 DeepSeek 获得第一笔也是国内 AI 行业最大单轮[融资70亿美元](https://www.ithome.com/0/964/772.htm)。重点不在价格，在于这笔融资里梁文锋自掏腰包200亿，其他产业资本加起来100多亿，国家资本10亿，梁文锋仍然牢牢把握幻方量化的控制权。这样的设计，就像幻方的模型一样，在一众人工智能企业里显得那么特别。
+- Anthropic 继续贡献行业闹剧，6月10日刚发布的 Mythos 平替 [Fable 5](https://www.ithome.com/0/962/152.htm) 上线仅仅三天就[下线](https://www.ithome.com/0/963/772.htm)，然后在今天[宣布在7月8日启用刷脸实名认证](https://www.ithome.com/0/964/685.htm)。总想着自己在世界人工智能领域领先，督促政府监管和限制其他大模型企业的发展，没想到铁锤首先落在自己头上。
+- 同日[智谱宣布 GLM-5.2 将在今日开源](https://www.ithome.com/0/963/855.htm)。“前沿智能不应只属于少数人，也不应被少数规则随时收回。” 前几日[MiniMax 3 宣布开源](https://www.ithome.com/0/964/598.htm)。同日希望更多中国 AI 企业继续在开源行业源源不断做出贡献。
 - 2026-06-02 又半个月过去。5月22日，DeepSeek V4 Pro 在2.5折优惠活动后，宣布[永久降价](https://www.ithome.com/0/954/188.htm)为原定价的1/4。换句话说，这个优惠活动永久化了。
 - 五天后，米子的 MiMo V2.5 系列原宣布 [API 永久降价](https://www.ithome.com/0/955/636.htm)，幅度从57%-99%，同时 Token Plan 不同阶段的额度都提升了几十上百倍。降价后的 MiMo 一跃成为了最有性价比的国产大语言模型。所有额度重置，包括4月底参加的 Orbit 百万亿 Token 计划，甚至还用一分钱的价格续费了一个月。这一套连招下来，MiMo 成为了我 Hermes Agent 的常驻主要大语言模型。
 - 5月29日，Anthropic [发布了 Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)。就使用者的反馈而言，整体不如4.7。并且还曝出[蒸馏国产模型](https://www.ithome.com/0/957/006.htm)丑闻，这家企业的双标嘴脸再一次展露无遗。
@@ -19,6 +22,8 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 - 6月1日，很久没有消息的 MiniMax [发布了 MiniMax M3](https://www.minimaxi.com/blog/minimax-m3)。尽管这是我的 Agent 初见高强度使用的大语言模型，不过因为 M2.7 太过拉跨，现在更新的 M3 我也不敢用了，况且我还有那么多在役模型。
 - 英伟达这两天在开大会，发布了人形机器人、处理器、大模型、新的 DLSS 等等。但最重要的是那颗 [RTX Spark PC 处理器](https://www.nvidia.cn/products/rtx-spark/)，这意味着 Wintel 联盟不再分天下了。
 - Nousresearch 发布了官方的 [Hermes Desktop](https://hermes-agent.nousresearch.com/desktop)。别的不说，这个美术，我真的爱死。
+## 1H26
+
 - 2026-05-20 半个月后，我已经决定续费 ChatGPT Plus。不仅仅是 Codex，Hermes Agent 近期的更新已经可以使用 OpenAI Oauth 使用同样的 Plus 订阅。以我目前的用法，Plus 的额度一周只用到一半，剩下一半正好给到 Hermes。此外，我的 OpenClaw 自从最后一次更新挂掉以后，再也没有启动过了。
 - Andrej Karpathy [宣布加入](https://x.com/karpathy/status/2056753169888334312) Anthropic。
 - 2026-05-03 四月底订阅了 ChatGPT Plus 后，我突然意识到 Plus 用户可以使用 [Codex](https://chatgpt.com/zh-Hans-CN/codex/)（实际上免费用户也可以），于是在探索中从 Codex CLI 到 Codex App，才发现这是一个多么优秀的应用。它几乎是 OpenClaw 的完全体，设计风格简洁优雅，尽管是在 Windows 下。若是 Mac 想必更美。Plus 的额度几乎够一个非重度用户使用一周还有富余。
