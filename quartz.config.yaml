@@ -17,9 +17,10 @@ configuration:
     fontOrigin: local
     cdnCaching: false
     typography:
-      header: Verdana
-      body: Verdana
-      code: monospace
+      title: '"Segoe UI", "Microsoft YaHei", "PingFang SC", Arial, sans-serif'
+      header: '"Segoe UI", "Microsoft YaHei", "PingFang SC", Arial, sans-serif'
+      body: '"Segoe UI", "Microsoft YaHei", "PingFang SC", Arial, sans-serif'
+      code: '"Consolas", "JetBrains Mono", monospace'
     colors:
       lightMode:
         light: "#fefff9"
