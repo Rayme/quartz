@@ -1,3 +1,8 @@
+---
+title: anchor
+created: 2026-06-23
+---
+
 ⚓
 
 互联网风起云涌，应当注重[[filter sources|筛选高质量的信息]]。对于各类信息和问题，[[think and do more for myself|多想一步，多动手]]，摄入的内容尽量都要**以我为主**。但是要避免[[skip details|过于注重细节]]，否则容易导致视野变窄，产生[[confirmation bias|确认偏见]]，错过重要决策的窗口。
