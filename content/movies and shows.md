@@ -12,9 +12,11 @@ created: 2025-04-01
 
 ## 2026
 
+- 0628 [[the night agent season 3|暗夜情报员第三季]]
 - 0619 镖人
 - 0613 [[the furious|火遮眼]] 📽️
 - 0522 [[the boys|黑袍纠察队]]
+- 0521 [[the punisher one last kill|惩罚者：最后一击]]
 - 0516 [[dear you|给阿嬷的情书]] 📽️
 - 0509 消失的人 📽️
 - 0501 [[cold war 1994|寒战1994]] 📽️
