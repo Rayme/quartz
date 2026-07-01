@@ -1,6 +1,6 @@
 ---
 created: 2025-04-16
-date: 2026-06-16
+date: 2026-07-01
 title: Now
 ---
 这是一个 now 页面，受到 [Derek Sivers](https://sive.rs) 启发并响应他的[号召](https://sive.rs/nowff)。
@@ -14,6 +14,16 @@ _This now page is inspired by Derek Sivers_
 People nowadays hold different positions, and it is growing frustrating. We need to put opinions aside and sit down to communicate with each other so that we can learn to understand each other. To understand the world is not the key, the process itself is.
 
 ---
+## 20260701
+
+盛情难却，人走茶凉。进入一个系统，实实在在和组织发生过交互，才能明白为何流程和业务上有许多个人无法对抗的部分，甚至系统成为了系统自己本身的障碍物。待这几天平复，可对过去两个多月学习到的事务稍作整理。
+
+《凡人修仙传》回到了周更节奏，每周等一次更新实在难熬，终于这周末的181要开始进入第一个高潮了，无比期待。
+
+法语继续学习1121天，最近美加墨世界杯进行中，多邻国也紧跟时事推出活动，每次 streak 都能获得一件球衣套装。不过我不看世界杯，也不喜欢这类玩法，只想佛系学好一门语言。
+
+现在我的 AI 工具和订阅开始收束，现在变成了：ChatGPT Plus 订阅，OpenCode Go 订阅。前者用于日常 ChatGPT web 端以及本地 Codex 使用，后者用于 Hermes Agent 的常驻 API，主要使用 DeepSeek V4 Flash/Pro 以及相应的 MiMo V2.5 和 MiMo V2.5 Pro。原本小米官方赠送的 MiMo Token Plan Standard 在6.28到期，没有再续费，刚好 OpenCode Go 无缝接上。
+
 ## 20260616
 
 六月过去一半了。这一个月以来的重点仍在工作上，我跟上了公司业务的节奏，偶尔还能带领一点节奏，我找到了在公司生存的位置。然而，具体到业务上却阻碍重重，有来自上级的，也有来自横向部门的。这些不属于我能掌控的部分，在这一个月里我时常感到失控，很快冷静下来后又发现我在焦虑一些不值得焦虑的事情，心情便释怀了。学习没有停止，我在当前领域继续精进，获得不少心得，待有闲之日整理下来分享。

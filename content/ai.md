@@ -1,6 +1,6 @@
 ---
 title: AI
-date: 2026-06-16
+date: 2026-07-01
 created: 2022-12-05
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
@@ -11,6 +11,7 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-07-01 Anthropic 继续贡献源源不断的丑闻。除了没有停止过的疯狂封号以外，今年3月开始，[在 Claude Code 中植入检测中国用户的隐藏代码](https://www.ithome.com/0/971/118.htm)，并在今天被 Claude Code [团队成员确认](https://x.com/trq212/status/2072079729331777817)。详细解析在[这篇文章](https://thereallo.dev/blog/claude-code-prompt-steganography)中。以及，给发送到用户的邮件中植入追踪器。 Reddit 上的[讨论](https://www.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/)
 - 2026-06-16 今日最大新闻是 DeepSeek 获得第一笔也是国内 AI 行业最大单轮[融资70亿美元](https://www.ithome.com/0/964/772.htm)。重点不在价格，在于这笔融资里梁文锋自掏腰包200亿，其他产业资本加起来100多亿，国家资本10亿，梁文锋仍然牢牢把握幻方量化的控制权。这样的设计，就像幻方的模型一样，在一众人工智能企业里显得那么特别。
 - Anthropic 继续贡献行业闹剧，6月10日刚发布的 Mythos 平替 [Fable 5](https://www.ithome.com/0/962/152.htm) 上线仅仅三天就[下线](https://www.ithome.com/0/963/772.htm)，然后在今天[宣布在7月8日启用刷脸实名认证](https://www.ithome.com/0/964/685.htm)。总想着自己在世界人工智能领域领先，督促政府监管和限制其他大模型企业的发展，没想到铁锤首先落在自己头上。
 - 同日[智谱宣布 GLM-5.2 将在今日开源](https://www.ithome.com/0/963/855.htm)。“前沿智能不应只属于少数人，也不应被少数规则随时收回。” 前几日[MiniMax 3 宣布开源](https://www.ithome.com/0/964/598.htm)。同日希望更多中国 AI 企业继续在开源行业源源不断做出贡献。
