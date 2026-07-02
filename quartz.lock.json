@@ -151,17 +151,11 @@
       "commit": "0d448f38a24c568c5539ff2cd57d813293430ccd",
       "installedAt": "2026-05-28T15:38:31.259Z"
     },
-    "latex": {
-      "source": "github:quartz-community/latex",
-      "resolved": "https://github.com/quartz-community/latex.git",
-      "commit": "3dcfedcb5ae5e28b71248a72665ccb881e82c185",
-      "installedAt": "2026-05-28T15:39:04.926Z"
-    },
     "note-properties": {
       "source": "github:quartz-community/note-properties",
       "resolved": "https://github.com/quartz-community/note-properties.git",
-      "commit": "874712a9910299b906606c885ea1fe9602114ca7",
-      "installedAt": "2026-05-28T15:38:39.073Z"
+      "commit": "3cb40141e792a8a9ba9f99553cd436f36411bf8d",
+      "installedAt": "2026-07-02T05:38:43.041Z"
     },
     "obsidian-flavored-markdown": {
       "source": "github:quartz-community/obsidian-flavored-markdown",
