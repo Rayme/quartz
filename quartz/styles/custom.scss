@@ -37,6 +37,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+@media all and ($mobile) {
+  .explorer.collapsed > .explorer-content {
+    display: none;
+  }
+}
+
 .explorer-ul {
   max-height: calc(100vh - 10rem);
   overflow-y: auto;
