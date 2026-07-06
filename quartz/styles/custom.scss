@@ -3,9 +3,11 @@
 // put your custom CSS here!
 
 body {
-  font-size: 16px;
+  font-family: Georgia, "Iowan Old Style", "Noto Serif SC", "Source Han Serif SC", "Songti SC", SimSun, serif;
+  font-size: 1.0625rem;
   line-height: 1.9;
   letter-spacing: 0.03em;
+  -webkit-font-smoothing: antialiased;
 }
 
 .center article p {
@@ -14,21 +16,33 @@ body {
   margin-bottom: 1em;
 }
 
+a,
+a.internal {
+  text-decoration: underline;
+  text-decoration-color: var(--secondary);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  background: transparent;
+}
+
+a.internal {
+  color: var(--dark);
+}
+
+a:hover,
+a.internal:hover {
+  color: var(--secondary);
+}
+
 .center article li {
   line-height: 1.9rem;
 }
 
-.page-listing li.section-li > .section {
-  grid-template-columns: fit-content(9em) 3fr 1fr;
-}
-
 .page-listing li.section-li > .section > .meta {
+  font-size: 0.78rem;
+  line-height: 1.6;
   white-space: nowrap;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  letter-spacing: 0.01em;
-  line-height: 1.4em;
+  font-variant-numeric: tabular-nums;
 }
 
 @media screen and (max-width: 600px) {
@@ -48,4 +62,27 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   overscroll-behavior: contain;
   scroll-behavior: auto;
+}
+
+.explorer {
+  font-family: Arial, "Noto Sans SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.explorer button.desktop-explorer h2,
+.explorer button.mobile-explorer h2 {
+  font-size: 0.92rem;
+}
+
+.explorer-content ul li > a,
+.folder-container div > a,
+.folder-container div > button span {
+  font-size: 0.88rem;
+  line-height: 1.45rem;
+}
+
+.explorer a,
+.explorer a.internal {
+  text-decoration: none;
 }

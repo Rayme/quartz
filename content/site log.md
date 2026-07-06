@@ -1,11 +1,12 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-07-01
+date: 2026-07-06
 ---
 ## 最近更新
 
-- 0701 [[ai|主观 AI 编年史]]，[[now]]，[[the punisher one last kill|《惩罚者：最后一击》]]，[[the night agent season 3|《暗夜情报员第三季》]]
+- 0706 [[ai|主观 AI 编年史]]，[[blades of the guardians|《镖人：风起大漠》]]
+- 0701 [[now]]，[[the punisher one last kill|《惩罚者：最后一击》]]，[[the night agent season 3|《暗夜情报员第三季》]]
 - 0526 [[the boys|《黑袍纠察队》]]
 - 0520 [[dear you|《给阿嬷的情书》]]
 - 0505 [[fixing browser use in codex app under windows 11|Windows 11 下修复 Codex 的 Browser Use]]，[[about this site|关于本站]]
@@ -42,11 +43,12 @@ date: 2026-07-01
 - 0617 [[ballerina|《芭蕾杀姬》观后感]]
 - 0609 [[thinking in systems|《系统之美》读后感]]，[[create original works|原创写作瓶颈和外部化]]
 - 0605 [[ai|AI]]，[[siddhartha|人人都是悉达多]]
-- 0604 [[tao|我读《道德经》]]，[[quotes from others|他们如是说]]
+- 0604 [[tao/index|我读《道德经》]]，[[quotes from others|他们如是说]]
 - 0603 [[thunderbolts|《雷霆特攻队*》观后感]]，[[random thoughts|要多想]]，[[strange stories from metro|地铁怪谈]]
 
 ## 站点更新日志
 
+- 20260706 更新全站 CSS 样式，灵感来源：[Vermilion](https://anotherdayu.com/vermilion/) 
 - 20260624 微调全站 CSS 样式
 - 20260601 Quartz v4.5.2 更新至 Quartz v5.0.0 儿童节快乐！
 - 20260503 添加 GoatCounter 统计访问数据，增加[[about this site#隐私声明|关于本站]]隐私声明

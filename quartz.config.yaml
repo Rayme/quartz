@@ -17,28 +17,28 @@ configuration:
     fontOrigin: local
     cdnCaching: false
     typography:
-      header: Arial
-      body: Arial
+      header: Georgia
+      body: Georgia
       code: Consolas
     colors:
       lightMode:
-        light: "#fefff9"
+        light: "#f4f3ef"
         lightgray: "#e5e5e5"
         gray: "#C2C3C3"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
+        darkgray: "#2d2b28"
+        dark: "#2d2b28"
         secondary: "#3a5f9e"
-        tertiary: "#0077aa"
+        tertiary: "#3a5f9e"
         highlight: ""
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
+        light: "#242220"
         lightgray: "#393639"
         gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
+        darkgray: "#d8d4cb"
+        dark: "#d8d4cb"
         secondary: "#7b97aa"
-        tertiary: "#84a59d"
+        tertiary: "#7b97aa"
         highlight: ""
         textHighlight: "#b3aa0288"
 plugins:

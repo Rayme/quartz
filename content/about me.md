@@ -17,7 +17,6 @@ date: 2026-07-02
 
 - zm.rayme at gmail.com
 - x@raymekee
-- @imzm@m.cmx.im
 
 > [!notes on 20250929, updated 20260511]
 > - 定期审计生活和工作系统

@@ -13,7 +13,7 @@ created: 2025-04-01
 ## 2026
 
 - 0628 [[the night agent season 3|暗夜情报员第三季]]
-- 0619 镖人
+- 0619 [[blades of the guardians|镖人：风起大漠]]
 - 0613 [[the furious|火遮眼]] 📽️
 - 0522 [[the boys|黑袍纠察队]]
 - 0521 [[the punisher one last kill|惩罚者：最后一击]]
