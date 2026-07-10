@@ -1,6 +1,6 @@
 ---
 title: AI
-date: 2026-07-06
+date: 2026-07-10
 created: 2022-12-05
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
@@ -11,6 +11,9 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-07-10 OpenAI 今天终于[发布了 GPT-6.6 家族](https://openai.com/index/gpt-5-6/)，分为 Sol、Luna 和 Terra 三个版本，推理强度增加了 Max 和 Ultra 两个程度，具体已有几位大佬（[浮之静](https://mp.weixin.qq.com/s/InOszksX0VXXz2J67qCVPw)  [数字生命卡兹克](https://mp.weixin.qq.com/s/EqgGQ2TkKhSv1eCKVLD-Vg) [赛博禅心](https://mp.weixin.qq.com/s/vKI8thb_LGYg1n5cWmiqQw) [卡尔的AI沃茨](https://mp.weixin.qq.com/s/AabBvPiRxmfhHBX3oztZ_w)）做了详细分析。这次发布同时带来几个变化：Codex Desktop 和 ChatGPT Desktop 正式合并，从此 Codex Desktop 消失，留下 ChatGPT App，其中 Desktop 分为 Work 和 Codex 两个模式。在我看来，这样的策略有些模糊和不解，让产品线变得更加复杂了，用户的选择也会更加犹豫。对了，OpenAI 还把 ChatGPT Atlas 浏览器砍了，我甚至还没用过
+- 好消息是，奥特曼再次重置额度！甚至逼得隔壁A社也吓得重置了额度，甚是欣喜。
+	- 刚刚试了一下 Sol 极高跑一个原本跑过的任务，用上了 ChatGPT Sites，结果一下子把我5小时额度用到剩下 14%，新的一周额度剩下 87%，吓得赶紧切换成 Luna 高。
 - 2026-07-06 腾讯今天[发布了混元 Hy3 模型](https://hy.tencent.com/research/hy3)正式版，从官方通告和网友口碑来看，这一波进步比较大，Agent 能力和中文能力大幅提升，价格不贵，似乎突然有了性价比，可以和 DeepSeek V4 Flash 甚至 Pro 掰掰手腕了。并且作为 Workbuddy 官方钦定的模型，以后有机会得试试效果。
 - 2026-07-01 Anthropic 继续贡献源源不断的丑闻。除了没有停止过的疯狂封号以外，今年3月开始，[在 Claude Code 中植入检测中国用户的隐藏代码](https://www.ithome.com/0/971/118.htm)，并在今天被 Claude Code [团队成员确认](https://x.com/trq212/status/2072079729331777817)。详细解析在[这篇文章](https://thereallo.dev/blog/claude-code-prompt-steganography)中。以及，给发送到用户的邮件中植入追踪器。 Reddit 上的[讨论](https://www.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/)
 - 2026-06-16 今日最大新闻是 DeepSeek 获得第一笔也是国内 AI 行业最大单轮[融资70亿美元](https://www.ithome.com/0/964/772.htm)。重点不在价格，在于这笔融资里梁文锋自掏腰包200亿，其他产业资本加起来100多亿，国家资本10亿，梁文锋仍然牢牢把握幻方量化的控制权。这样的设计，就像幻方的模型一样，在一众人工智能企业里显得那么特别。
