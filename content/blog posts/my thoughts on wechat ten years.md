@@ -115,5 +115,5 @@ created: 2021-01-31
 还有很多想展开说，比如微信的搜一搜、表情导出和群聊，PC端微信，但篇幅已经过长，又长又臭，能完整看到这里的，不是太闲就是觉得我写到你的心坎里了。
 
 - [张小龙：微信十年的产品思考](https://www.ithome.com/0/531/005.htm) – 张小龙微信十周年演讲全文
-- [微信7.0之后的一点思考](https://imzm.im/thoughts-about-wechat-7-0/)
-- [微信的优与劣](https://imzm.im/wechat/)
+- [[thoughts about wechat 7 0|微信7.0之后的一点思考]]
+- [[wechat|微信的优与劣]]

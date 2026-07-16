@@ -159,8 +159,12 @@ created: 2025-04-01
 - [[gpd pocket the best umpc|GPD Pocket 现代最强 UMPC？]]
 - [[2017 untitled|无题 2017]]
 - [[wonder woman|Wonder Woman: DC影业的翻身之作？]]
+- [[dangal|Dangal：我把我的梦想托付给你]]
+- [[thanks mom|谢谢]]
 - [[study since fifteen|吾十有五而志于学]]
+- [[wechat at ios|微信@iOS：马林梵多上的海贼团]]
 - [[nothing is true|菩提本无树]]
+- [[me thinking mcee|从高考制度所想到的]]
 - [[kobe and the nba after|科比和他退役后的NBA]]
 - [[3 6|3.6 凌晨至白天]]
 
@@ -171,3 +175,39 @@ created: 2025-04-01
 ### 2015
 
 - [[8 3 8 10|8.3 8.10]]
+
+### 2008
+
+- [[chopin and tom and jerry|Chopin and Tom and Jerry]]
+- [[first week in high school|第一星期, 暴风雨来临前夕?]]
+- [[third term|第三学期]]
+- [[unhappy|开心不起来../]]
+- [[beast at bay|困兽之斗..]]
+- [[i hate|i HATE…]]
+### 2007
+
+- [[pressure motivation|压力….动力………..]]
+- [[war|戰亂……….]]
+- [[untitle|無題///]]
+- [[shoes|鞋子]]
+- [[sweet pain|甜甜的苦頭……]]
+- [[joy|樂]]
+- [[shit school|吃錢圖書館_吃錢學校]]
+- [[useless things|關于生活中占地的沒有用处的東西]]
+- [[the mp4 belongs to me|the mp4 belongs to me……….]]
+- [[few habits before|那些從前很少有的習慣]]
+- [[memories|回憶]]
+
+### 2006
+
+*20260715 20年前的此时此刻，我去学钢琴，也是第一次正儿八经写点东西发到互联网上。*
+
+- [[piano 5|鋼琴連載5，]]
+- [[piano 4|鋼琴連載4，]]
+- [[piano 3|鋼琴連載3，]]
+- [[piano 2|鋼琴連載2，]]
+- [[piano 1|鋼琴連載1，]]
+- [[piano 0|新建钢琴史]]
+- [[game over|GAME OVER]]
+- [[hurried life|匆匆的人生]]
+- [[reluctant|舍不得]]
