@@ -16,8 +16,8 @@ created: 2025-04-01
 - 0713 制暴
 - 0713 捉刀人
 - 0712 功夫女足 📽️
-- 0711 逃学神探
-- 0710 卧底神探
+- 0711 [[detective chen series#逃学神探|逃学神探]]
+- 0710 [[detective chen series#卧底神探|卧底神探]]
 - 0710 [[wings of dread|万米危机]]
 - 0628 [[the night agent season 3|暗夜情报员第三季]]
 - 0619 [[blades of the guardians|镖人：风起大漠]]
@@ -91,7 +91,7 @@ created: 2025-04-01
 - 0217 [[spring festival movies 2024#第二十条|第二十条]] 📽️
 - 0212 [[spring festival movies 2024#飞驰人生2|飞驰人生2]] 📽️
 - 0211 [[spring festival movies 2024#热辣滚烫|热辣滚烫]] 📽️
-- 0210 [[spring festival movies 2024#目中无人：以眼还眼|目中无人2：以眼还眼]]
+- 0210 [[spring festival movies 2024#目中无人：以眼还眼|目中无人：以眼还眼]]
 - 0201 [[spring festival movies 2024#养蜂人|养蜂人]]
 
 ## 2023
