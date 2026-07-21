@@ -1,10 +1,11 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-07-16
+date: 2026-07-22
 ---
 ## 最近更新
 
+- 0722 [[detective chen series|《逃学神探》和《卧底神探》]]，删除 AI 生成的内容
 - 0716 [[posts|随便写写]]，补充2006年到2008年[[posts#2008|一些年份文章]]，[[ai|主观 AI 编年史]]
 - 0710 [[wings of dread|《万米危机》]]
 - 0706 [[ai|主观 AI 编年史]]，[[blades of the guardians|《镖人：风起大漠》]]
@@ -36,7 +37,7 @@ date: 2026-07-16
 - 0917 [[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|《用 Gemini 2.5 Flash 制作一个小工具》]]
 - 0828 [[music|音乐]]，[[taylor swift albums|Taylor Swift Albums]]
 - 0822 [[self authorship|Self-Authorship]]
-- 0814 [[plain text|纯文本]]，[[movies collection|待看片单]]
+- 0814 [[plain text|纯文本]]，~~待看片单~~
 - 0806 [[gossip on movies|影视剧想法]]
 - 0718 [[easy has a cost]]
 - 0711 [[how to calm|平复情绪的方法]]

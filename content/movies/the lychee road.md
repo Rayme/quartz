@@ -1,8 +1,8 @@
 ---
-tags:
-  - movies
 title: 长安的荔枝
 created: 2025-07-25
+tags:
+  - movies
 ---
 ## 长安的荔枝
 
