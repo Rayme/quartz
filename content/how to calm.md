@@ -16,7 +16,7 @@ created: 2025-07-11
 | 1h后重要性 | 3天后重要性 | 3年后重要性 |
 填满它，然后就能理清思路。
 
-20250919 更新：
+2025-09-19 更新：
 
 Anne-Laure Le Cunff 的一篇文章 [Levels of Thinking: How to Make Better Decisions with Second-Level Thinking](https://nesslabs.com/levels-of-thinking) 提到类似的方法。
 

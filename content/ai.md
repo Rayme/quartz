@@ -1,6 +1,6 @@
 ---
 title: AI
-date: 2026-07-16
+date: 2026-07-22
 created: 2022-12-05
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
@@ -11,9 +11,13 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-07-22 另一个大事件：OpenAI 内部测试的模型，对开源平台 Hugging Face 发起越狱攻击，Hugging Face 想用 OpenAI 或者 Anthropic 的顶级模型溯源，但是被二者的安全围栏拦住了，不得已使用 GLM-5.2，结果成功取证被获取完整分析。用[赛博禅心](https://mp.weixin.qq.com/s/b13clJh-NUkVTiEkEwJOkA)的话讲，“GLM 帮 HuggingFace 拦下了 OpenAI 的攻击”。具体参考这篇[爱范儿的文章](https://www.ifanr.com/1672746)，以及 InfoQ 的[这一篇](https://mp.weixin.qq.com/s/DqqB98abJh5KgFC0KiRZbg?click_id=1042652735)。这个新闻给我的感觉是，我们距离通用 AGI 又近了一步，没有那么近，但是方向上近了。
+- 2026-07-22 月之暗面在7月16日[发布迄今最强旗舰模型 Kimi K3](https://www.kimi.com/blog/kimi-k3)，各大排行榜与 GPT-5.6 Sol 和 Claude Fable 5 均打得有来有回，由此引发了一系列人工智能行业的震荡。官方公众号的 [Kimi K3 介绍](https://mp.weixin.qq.com/s/V4xhEIy8xDXSMDPrPkmUAQ)中，第一句话是：“**犯其至难而图其至远者，发之以勇，守之以专，达之以强。**” 出自苏轼的《思治论》，很难让人不想到 DeepSeek V4 系列发布时引用的那句荀子。
+- 外媒对 K3 的评价趋于正面，不论立场。两天后，月之暗面[暂停了 C 端订阅](https://mp.weixin.qq.com/s/EPs028Zj1DiYaOk_01-JFQ)，显然自 K3 发布后的模型请求量远远大于预期。同时[月之暗面即将上市](https://www.ithome.com/0/978/527.htm)的消息也越来越频繁，紧跟智谱和 MiniMax 的步伐。
+- 7月21日，千问发布了 Qwen3.8-Max-Preview，也很快就要开源了。这个模型的参数量达到 2.4T，前面的 Kimi K3 参数量是 2.8T，国产模型堆料也追上了领先的闭源模型。Kimi K3 的发布公告里还提到，月之暗面将在7月27日之前开源 Kimi K3 的完整模型权重。国内头部的几个模型大厂，基本都拥抱了开源。
 - 2026-07-16 过去一周多时间以来，Codex 的老大 Tibo 在不停 reset usage，广大 Codex 用户常常一醒来就发现自己额度被重置了，有的甚至刚刚使用一张重置卡不久后就被重置，不得不说有些亏。而我此刻有着四张重置卡，覆盖7月底到8月中旬，我可以毫无顾忌用 Codex 做我任何想做的事情。
 	- 然而自从 ChatGPT 与 Codex App 合并以后，有一些 bug 有些恼人，Windows 下卡顿、吃内存甚至删除用户文件等等事件时有发生。Tibo 选择重置也有基于这些原因。既然现在 Codex 高速迭代，经常重置，受益者其实是用户，特别是订阅了 Plus 和 Pro 的用户，只需等待官方更新即可。（我还是习惯把它叫做 Codex，我觉得合并改名为 ChatGPT App 是错误的方向）
-- 2026-07-10 OpenAI 今天终于[发布了 GPT-6.6 家族](https://openai.com/index/gpt-5-6/)，分为 Sol、Luna 和 Terra 三个版本，推理强度增加了 Max 和 Ultra 两个程度，具体已有几位大佬（[浮之静](https://mp.weixin.qq.com/s/InOszksX0VXXz2J67qCVPw)  [数字生命卡兹克](https://mp.weixin.qq.com/s/EqgGQ2TkKhSv1eCKVLD-Vg) [赛博禅心](https://mp.weixin.qq.com/s/vKI8thb_LGYg1n5cWmiqQw) [卡尔的AI沃茨](https://mp.weixin.qq.com/s/AabBvPiRxmfhHBX3oztZ_w)）做了详细分析。这次发布同时带来几个变化：Codex Desktop 和 ChatGPT Desktop 正式合并，从此 Codex Desktop 消失，留下 ChatGPT App，其中 Desktop 分为 Work 和 Codex 两个模式。在我看来，这样的策略有些模糊和不解，让产品线变得更加复杂了，用户的选择也会更加犹豫。对了，OpenAI 还把 ChatGPT Atlas 浏览器砍了，我甚至还没用过
+- 2026-07-10 OpenAI 今天终于[发布了 GPT-5.6 家族](https://openai.com/index/gpt-5-6/)，分为 Sol、Luna 和 Terra 三个版本，推理强度增加了 Max 和 Ultra 两个程度，具体已有几位大佬（[浮之静](https://mp.weixin.qq.com/s/InOszksX0VXXz2J67qCVPw)  [数字生命卡兹克](https://mp.weixin.qq.com/s/EqgGQ2TkKhSv1eCKVLD-Vg) [赛博禅心](https://mp.weixin.qq.com/s/vKI8thb_LGYg1n5cWmiqQw) [卡尔的AI沃茨](https://mp.weixin.qq.com/s/AabBvPiRxmfhHBX3oztZ_w)）做了详细分析。这次发布同时带来几个变化：Codex Desktop 和 ChatGPT Desktop 正式合并，从此 Codex Desktop 消失，留下 ChatGPT App，其中 Desktop 分为 Work 和 Codex 两个模式。在我看来，这样的策略有些模糊和不解，让产品线变得更加复杂了，用户的选择也会更加犹豫。对了，OpenAI 还把 ChatGPT Atlas 浏览器砍了，我甚至还没用过
 - 好消息是，奥特曼再次重置额度！甚至逼得隔壁A社也吓得重置了额度，甚是欣喜。
 	- 刚刚试了一下 Sol 极高跑一个原本跑过的任务，用上了 ChatGPT Sites，结果一下子把我5小时额度用到剩下 14%，新的一周额度剩下 87%，吓得赶紧切换成 Luna 高。
 - 2026-07-06 腾讯今天[发布了混元 Hy3 模型](https://hy.tencent.com/research/hy3)正式版，从官方通告和网友口碑来看，这一波进步比较大，Agent 能力和中文能力大幅提升，价格不贵，似乎突然有了性价比，可以和 DeepSeek V4 Flash 甚至 Pro 掰掰手腕了。并且作为 Workbuddy 官方钦定的模型，以后有机会得试试效果。

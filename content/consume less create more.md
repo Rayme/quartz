@@ -17,7 +17,7 @@ ref: [Consume less, create more](https://blog.tjcx.me/p/consume-less-create-more
 > The act of making something will force you to learn more deeply than reading ever will.
 > \- [James Clear](https://jamesclear.com/3-2-1/may-8-2025)
 
-20250528 更新：
+2025-05-28 更新：
 
 > The hard part isn't knowing what to do; it's doing it daily, whether you feel like it or not.
 > 

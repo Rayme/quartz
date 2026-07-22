@@ -18,7 +18,7 @@ date: 2026-07-02
 - zm.rayme at gmail.com
 - x@raymekee
 
-> [!notes on 20250929, updated 20260511]
+> [!notes on 2025-09-29, updated 2026-05-11]
 > - 定期审计生活和工作系统
 > - 多反驳自己坚信的观点
 > - 尝试建构，无论领域

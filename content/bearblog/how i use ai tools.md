@@ -12,6 +12,6 @@ We, as humans, are ought to think in our own way, not the way algorithms do.
 
 I immediately wrote down this in Chinese by then:
 
-> 刻意减少 AI 的使用频率对于保护自己的思考过程有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者借助 AI 从不同视角批判特定事物。 Deliberately reducing the frequency of AI use is extremely beneficial for protecting one's thought process, especially since I'm used to discussing thought processes with AI. I believe the most dangerous behavior is allowing AI to intervene too much in the writing process. A safer approach is to let AI open up new ideas, learn knowledge in a specific field, or use AI to critique particular issues from different perspectives.
+> 刻意减少 AI 的使用频率对于保护自己的思考过程有莫大的好处，尤其是我习惯跟 AI 讨论关于思考的思考。我认为最危险的行为，是让 AI 从写作层面介入太多。比较安全的行为是让 AI 打开思路或者学习某个领域知识，或者借助 AI 从不同视角批判特定事物。 Deliberately reducing the frequency of AI use is extremely beneficial for protecting one's thought process, especially since I'm used to discussing thought processes with AI. I believe the most dangerous behavior is allowing AI to intervene too much in the writing process. A safer approach is to let AI open up new ideas, learn knowledge in a specific field, or use AI to critique particular issues from different perspectives. (本段由 Google 翻译)
 
 Day 27.

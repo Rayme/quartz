@@ -33,5 +33,5 @@ created: 2025-09-29
 
 ---
 
-20250929 待更新：[How to better remember what you read](https://nesslabs.com/remember-what-you-read) Anne-Laure Le Cunff
+2025-09-29 待更新：[How to better remember what you read](https://nesslabs.com/remember-what-you-read) Anne-Laure Le Cunff
 
