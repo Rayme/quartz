@@ -1,6 +1,6 @@
 ---
 title: AI
-date: 2026-07-22
+date: 2026-07-24
 created: 2022-12-05
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
@@ -8,10 +8,12 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 
 关于 AI 编年史，[Artificial Intelligence Timeline](https://nhlocal.github.io/AiTimeline) 整理得更加客观且清晰易读。
 
+*2026-07-24 本页记录日渐冗长，默认阅读顺序为倒序阅读，正在思考是否有更合理的编排方式。*
+
 ---
 ## 2H26
 
-- 2026-07-22 另一个大事件：OpenAI 内部测试的模型，对开源平台 Hugging Face 发起越狱攻击，Hugging Face 想用 OpenAI 或者 Anthropic 的顶级模型溯源，但是被二者的安全围栏拦住了，不得已使用 GLM-5.2，结果成功取证被获取完整分析。用[赛博禅心](https://mp.weixin.qq.com/s/b13clJh-NUkVTiEkEwJOkA)的话讲，“GLM 帮 HuggingFace 拦下了 OpenAI 的攻击”。具体参考这篇[爱范儿的文章](https://www.ifanr.com/1672746)，以及 InfoQ 的[这一篇](https://mp.weixin.qq.com/s/DqqB98abJh5KgFC0KiRZbg?click_id=1042652735)。这个新闻给我的感觉是，我们距离通用 AGI 又近了一步，没有那么近，但是方向上近了。
+- 2026-07-22 同日另一个大事件：OpenAI 内部测试的模型，对开源平台 Hugging Face 发起越狱攻击，Hugging Face 想用 OpenAI 或者 Anthropic 的顶级模型溯源，但是被二者的安全围栏拦住了，不得已使用 GLM-5.2，结果成功取证并获得完整分析。用[赛博禅心](https://mp.weixin.qq.com/s/b13clJh-NUkVTiEkEwJOkA)的话讲，“GLM 帮 HuggingFace 拦下了 OpenAI 的攻击”。具体参考这篇[爱范儿的文章](https://www.ifanr.com/1672746)，以及 InfoQ 的[这一篇](https://mp.weixin.qq.com/s/DqqB98abJh5KgFC0KiRZbg?click_id=1042652735)。这个新闻给我的感觉是，我们距离通用 AGI 又近了一步，没有那么近，但是方向上近了。
 - 2026-07-22 月之暗面在7月16日[发布迄今最强旗舰模型 Kimi K3](https://www.kimi.com/blog/kimi-k3)，各大排行榜与 GPT-5.6 Sol 和 Claude Fable 5 均打得有来有回，由此引发了一系列人工智能行业的震荡。官方公众号的 [Kimi K3 介绍](https://mp.weixin.qq.com/s/V4xhEIy8xDXSMDPrPkmUAQ)中，第一句话是：“**犯其至难而图其至远者，发之以勇，守之以专，达之以强。**” 出自苏轼的《思治论》，很难让人不想到 DeepSeek V4 系列发布时引用的那句荀子。
 - 外媒对 K3 的评价趋于正面，不论立场。两天后，月之暗面[暂停了 C 端订阅](https://mp.weixin.qq.com/s/EPs028Zj1DiYaOk_01-JFQ)，显然自 K3 发布后的模型请求量远远大于预期。同时[月之暗面即将上市](https://www.ithome.com/0/978/527.htm)的消息也越来越频繁，紧跟智谱和 MiniMax 的步伐。
 - 7月21日，千问发布了 Qwen3.8-Max-Preview，也很快就要开源了。这个模型的参数量达到 2.4T，前面的 Kimi K3 参数量是 2.8T，国产模型堆料也追上了领先的闭源模型。Kimi K3 的发布公告里还提到，月之暗面将在7月27日之前开源 Kimi K3 的完整模型权重。国内头部的几个模型大厂，基本都拥抱了开源。
