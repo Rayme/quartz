@@ -83,22 +83,8 @@ plugins:
   - source: github:quartz-community/description
     enabled: true
     order: 70
-  - source: github:quartz-community/citations
-    enabled: false
-    order: 85
-  - source: github:quartz-community/hard-line-breaks
-    enabled: false
-    order: 90
-  - source: github:quartz-community/ox-hugo
-    enabled: false
-    order: 91
-  - source: github:quartz-community/roam
-    enabled: false
-    order: 92
   - source: github:quartz-community/remove-draft
     enabled: true
-  - source: github:quartz-community/explicit-publish
-    enabled: false
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}
@@ -110,12 +96,6 @@ plugins:
       passwordField: password
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
-  - source: github:quartz-community/stacked-pages
-    enabled: false
-    layout:
-      position: afterBody
-      priority: 50
-      display: all
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -228,8 +208,6 @@ plugins:
         作者：陈仓颉: /about-me
         CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
         Mastodon: https://m.cmx.im/@imzm
-  - source: github:quartz-community/recent-notes
-    enabled: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
