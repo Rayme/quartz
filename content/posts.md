@@ -12,6 +12,7 @@ created: 2025-04-01
 
 ### 2026
 
+- [[memory crisis|内存危机、刚需与购买决策]]
 - [[dear you|暹罗没有春天]]
 - [[what does it all mean|What Does It All Mean?]]
 - [[about online storage services|云存储和不安全感的幻觉]]

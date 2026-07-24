@@ -4,6 +4,7 @@ created: 2025-04-01
 ---
 ## 赛博社会
 
+- [[memory crisis|内存危机、刚需与购买决策]]
 - [[about online storage services|云存储和不安全感的幻觉]]
 - [[group chats could be overwhelming|Group Chats Could Be Overwhelming]]
 - [[make a tool with gemini in python|用 Gemini 2.5 Flash 制作一个小工具]]
