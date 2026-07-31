@@ -2,7 +2,7 @@
 title: 仿生猫梦见电子猫粮
 description: 按钮是控制，磁带是记录。
 created: 2025-04-01
-date: 2026-07-24
+date: 2026-07-31
 ---
 
 谢谢你来我的寒舍。我在这里分享我感兴趣的事物、所见所闻和一点点思考，希望你也能找到感兴趣的内容。
@@ -18,7 +18,7 @@ date: 2026-07-24
 - [[bye 2025|再见 2025]]
 - [[long live macdonalds|麦门永存。]]
 - [[travel in liu zhou|柳州见闻]]
-- [[the shadows edge|刀锋]]
+- [[the razors edge|刀锋]]
 - [[my thoughts on wechat ten years|微信十年的产品思考]]
 
 ---
