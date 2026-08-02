@@ -121,6 +121,12 @@
       "commit": "6ed61928d3c0178d7cef972ebcbca6a206a2f065",
       "installedAt": "2026-07-19T09:02:57.728Z"
     },
+    "gallery": {
+      "source": "./quartz/plugins/gallery",
+      "resolved": "/home/zm/clawd/workspace/jefftay-quartz/quartz/plugins/gallery",
+      "commit": "local",
+      "installedAt": "2026-08-01T18:12:05.827Z"
+    },
     "github-flavored-markdown": {
       "source": "github:quartz-community/github-flavored-markdown",
       "resolved": "https://github.com/quartz-community/github-flavored-markdown.git",
