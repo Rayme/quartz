@@ -22,7 +22,7 @@ configuration:
       code: Consolas
     colors:
       lightMode:
-        light: "#f4f3ef"
+        light: "#fcfcfc"
         lightgray: "#e5e5e5"
         gray: "#C2C3C3"
         darkgray: "#2d2b28"
