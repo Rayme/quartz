@@ -42,9 +42,6 @@ configuration:
         highlight: ""
         textHighlight: "#b3aa0288"
 plugins:
-  - source: ./quartz/plugins/gallery
-    enabled: true
-    order: 55
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
