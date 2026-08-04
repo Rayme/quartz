@@ -1,5 +1,5 @@
 ---
-title: "#5 All You Need Is 1,000 Ideas"
+title: "Mental Tune-Up #5 All You Need Is 1,000 Ideas"
 created: 2024-01-17
 ---
 2023-01-15 [Nick Milo](https://www.linkingyourthinking.com/ideaverse/all-you-need-is-1000-ideas)
