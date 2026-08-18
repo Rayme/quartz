@@ -1,15 +1,16 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-07-24
+date: 2026-08-19
 ---
 ## 最近更新
 
 ### 2026
 
+- 08-19 [[spiderman brand new day|《蜘蛛侠：崭新之日》]]，[[ai|主观 AI 编年史]]
 - 07-24 [[memory crisis|《内存危机、刚需与购买决策》]]，[[now]]，[[index]]，[[mental tune-up]] 系列，[[random thoughts]]
 - 07-22 [[detective chen series|《逃学神探》和《卧底神探》]]，删除 AI 生成的内容
-- 07-16 [[posts|随便写写]]，补充2006年到2008年[[posts#2008|一些年份文章]]，[[ai|主观 AI 编年史]]
+- 07-16 [[posts|随便写写]]，补充2006年到2008年[[posts#2008|一些年份文章]]
 - 07-10 [[wings of dread|《万米危机》]]
 - 07-06 [[ai|主观 AI 编年史]]，[[blades of the guardians|《镖人：风起大漠》]]
 - 07-01 [[now]]，[[the punisher one last kill|《惩罚者：最后一击》]]，[[the night agent season 3|《暗夜情报员第三季》]]

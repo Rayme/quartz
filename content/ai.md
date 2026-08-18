@@ -1,6 +1,6 @@
 ---
 title: AI
-date: 2026-08-16
+date: 2026-08-19
 created: 2022-12-05
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
@@ -13,6 +13,7 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-08-19 自从8月17日 DeepSeek V4 系列正式涨价后，Opencode 经历一次大起大落的调价。先是在8月17日，DeepSeek V4 Flash 的每五小时请求数从 63300 次爆降到 3800 次，月度消费上限从 $60 降到 $15，估计是扛不住用户的怒骂，又在8月18日把五小时配额涨回 7600 次，消费上限稍微涨回 $30。这次 DeepSeek 的涨价，脱掉了 DeepSeek 性价比之王的外衣，有点可惜。
 - 2026-08-16 7月31日是传奇的一天。这一天 DeepSeek [发布了 DeepSeek V4 Flash 正式版](https://www.ithome.com/0/984/116.htm)，自那之后，它就是我的 Hermes Agent 常驻主力模型。正式版的分数超出预览版一大截，甚至超过了 V4 Pro 的预览版。另外是 [GPT-5.6 Luna 降价80%](https://www.ithome.com/0/983/912.htm)，这让 GPT-5.6 系的大模型突然有了性价比。还有 [MiniMax 发布了多模态视频模型 MiniMax H3](https://www.ithome.com/0/983/957.htm)，并且将会在[8月3日开源](https://www.ithome.com/0/984/379.htm)。同天字节也[发布了 Seedance 2.5](https://www.ithome.com/0/984/104.htm)。半个月过去，这三件事至少有两件都对这个行业产生了较明显的影响。
 	- 后来 [DeepSeek V4 Pro 也如约“尽快”在8月13日发布](https://www.ithome.com/0/989/423.htm)了，同天还发布了传说中的 [DeepSeek Harness](https://www.deepseek.com/harness/)。不过在短暂的使用时间里，我还没搞明白 dsh 可以怎么玩。上个月底以来的人工智能行业就像过年一样。
 - 2026-07-22 同日另一个大事件：OpenAI 内部测试的模型，对开源平台 Hugging Face 发起越狱攻击，Hugging Face 想用 OpenAI 或者 Anthropic 的顶级模型溯源，但是被二者的安全围栏拦住了，不得已使用 GLM-5.2，结果成功取证并获得完整分析。用[赛博禅心](https://mp.weixin.qq.com/s/b13clJh-NUkVTiEkEwJOkA)的话讲，“GLM 帮 HuggingFace 拦下了 OpenAI 的攻击”。具体参考这篇[爱范儿的文章](https://www.ifanr.com/1672746)，以及 InfoQ 的[这一篇](https://mp.weixin.qq.com/s/DqqB98abJh5KgFC0KiRZbg?click_id=1042652735)。这个新闻给我的感觉是，我们距离通用 AGI 又近了一步，没有那么近，但是方向上近了。
