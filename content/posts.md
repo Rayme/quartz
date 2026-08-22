@@ -12,6 +12,7 @@ created: 2025-04-01
 
 ### 2026
 
+- [[spiderman brand new day|成为蜘蛛侠]]
 - [[memory crisis|内存危机、刚需与购买决策]]
 - [[dear you|暹罗没有春天]]
 - [[what does it all mean|What Does It All Mean?]]
