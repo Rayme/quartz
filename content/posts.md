@@ -12,6 +12,7 @@ created: 2025-04-01
 
 ### 2026
 
+- [[from wordpress to quartz|从 WordPress 到 Quartz]]
 - [[spiderman brand new day|成为蜘蛛侠]]
 - [[memory crisis|内存危机、刚需与购买决策]]
 - [[dear you|暹罗没有春天]]
