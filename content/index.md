@@ -51,3 +51,5 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
 本站点内容采用 [知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
 
 如无特别声明，除引用内容外，[本站所有内容均由人类写作](https://no-ai-icon.com/statement/?url=jefftay.com)。
+
+[RSS 订阅链接](https://jefftay.com/index.xml)

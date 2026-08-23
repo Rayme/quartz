@@ -1,12 +1,13 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-08-19
+date: 2026-08-23
 ---
 ## 最近更新
 
 ### 2026
 
+- 08-23 [[v 2026|《空枪》]]
 - 08-19 [[spiderman brand new day|《蜘蛛侠：崭新之日》]]，[[ai|主观 AI 编年史]]
 - 07-24 [[memory crisis|《内存危机、刚需与购买决策》]]，[[now]]，[[index]]，[[mental tune-up]] 系列，[[random thoughts]]
 - 07-22 [[detective chen series|《逃学神探》和《卧底神探》]]，删除 AI 生成的内容
@@ -58,6 +59,8 @@ date: 2026-08-19
 
 ## 站点更新日志
 
+- 2026-08-23 微调全站 CSS 样式
+	- *我是真喜欢微调全站样式啊...*
 - 2026-07-06 更新全站 CSS 样式，灵感来源：[Vermilion](https://anotherdayu.com/vermilion/) 
 - 2026-06-24 微调全站 CSS 样式
 - 2026-06-01 Quartz v4.5.2 更新至 Quartz v5.0.0 儿童节快乐！

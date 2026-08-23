@@ -3,10 +3,10 @@
 // put your custom CSS here!
 
 body {
-  font-family: "Verdana","PingFang SC", sans-serif;
+  font-family: Verdana, "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
   font-size: 16px;
   line-height: 1.9;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -65,7 +65,8 @@ a.internal:hover {
 }
 
 .explorer {
-  font-family: Arial, "Noto Sans SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
+  --headerFont: var(--bodyFont);
+  // font-family: Arial, "Noto Sans SC", "Source Han Sans SC", "Microsoft YaHei", sans-serif;
   font-size: 0.88rem;
   line-height: 1.45;
 }
