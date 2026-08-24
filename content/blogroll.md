@@ -7,8 +7,8 @@ title: 网上邻居
 实际上这个页面会包含我喜欢的经常访问的站点，可以是个人网站、博客、数字花园或者任何形态的有人味的地方。
 
 - [印记](https://yinji.org/)
-- [风清的精神角落](https://wind.ink/) | [HerBlue 她的蓝](https://her.blue/)
 - [好事发生](https://hahaha.net/) 经常找借口不更新的哥们
+- [风清的精神角落](https://wind.ink/)
 - [JustGoIdea](https://justgoidea.com/)
 - [1900的灯泡店](https://1900.live/)
 - [Another dayu](https://anotherdayu.com/)
