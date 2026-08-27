@@ -1,14 +1,15 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-08-23
+date: 2026-08-24
 ---
 ## 最近更新
 
 ### 2026
 
+- 08-28 [[refresh|《刷新》]]，[[ai|主观 AI 编年史]]
 - 08-23 -> 08-25 [[v 2026|《空枪》]]，[[from wordpress to quartz|《从 WordPress 到 Quartz》]]，[[mutiny|《怒之杀》]]
-- 08-19 [[spiderman brand new day|《蜘蛛侠：崭新之日》]]，[[ai|主观 AI 编年史]]
+- 08-19 [[spiderman brand new day|《蜘蛛侠：崭新之日》]]
 - 07-24 [[memory crisis|《内存危机、刚需与购买决策》]]，[[now]]，[[index]]，[[mental tune-up]] 系列，[[random thoughts]]
 - 07-22 [[detective chen series|《逃学神探》和《卧底神探》]]，删除 AI 生成的内容
 - 07-16 [[posts|随便写写]]，补充2006年到2008年[[posts#2008|一些年份文章]]

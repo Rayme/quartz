@@ -6,6 +6,7 @@ created: 2025-04-21
 
 ## 城市观察系列
 
+- 2025-08-28 [[refresh|刷新]]
 - 2025-10-15 [[passersby|路人]]
 - 2025-09-11 [[long live macdonalds|麦门永存。]]
 - 2025-07-09 [[travel in liu zhou|柳州见闻]]

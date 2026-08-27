@@ -1,6 +1,6 @@
 ---
 title: AI
-date: 2026-08-19
+date: 2026-08-28
 created: 2022-12-05
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
@@ -13,6 +13,9 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-08-28 上周爆火的匿名模型 Ox-Alpha 又作 “牛来模型”，后来被智谱认领，唤作 [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)。最早在大聪明的公众号看到有这么一个模型，OpenCode 订阅也出现了这个选项，我没有细想，第一天便试用，但后来实在过于卡顿，就没有继续使用下去。直到一周后，我才发现这个模型已经在社区有了极高的讨论热度，拳打 Opus 4.8 脚踢 DeepSeek V4 Flash。Artificial Analysis 的评分（57）也说明了这一点，以至于今天有些博主已经把 Ox Alpha 称为新的模型斩杀线。
+	- DeepSeek 涨价以后，我基本没有再用过了，也取消了 OpenCode 订阅，全面转向 ChatGPT Plus，连 hermes agent 也主要用上了 GPT-5.6 luna 作为基础模型。如果有便宜够用的模型，谁不想订阅呢？然而 GLM 真的[太贵了](https://bigmodel.cn/glm-coding)，最便宜的 Lite 也要118/月（连续包年82.6），这个价格真不如加多20直接用 ChatGPT Plus。ChatGPT 最大的问题就是使用门槛，在订阅环节好不容易注册新的信用卡订阅成功，在 VPS 上好不容易让 hermes 用上。
+	- 说到 ChatGPT，昨天（8月26日）恢复了五小时使用限额。根据 Tibo 的[推文](https://x.com/thsottiaux/status/2092058556707344708)，这个决策出于平衡负载和新手保护，但在我看来就是为了省钱并且最大化限制恶意使用。因为一百刀和两百刀的订阅用户并不受影响。
 - 2026-08-19 自从8月17日 DeepSeek V4 系列正式涨价后，OpenCode 经历一次大起大落的调价。先是在8月17日，DeepSeek V4 Flash 的每五小时请求数从 63300 次爆降到 3800 次，月度消费上限从 $60 降到 $15，估计是扛不住用户的怒骂，又在8月18日把五小时配额涨回 7600 次，消费上限稍微涨回 $30。这次 DeepSeek 的涨价，脱掉了 DeepSeek 性价比之王的外衣，有点可惜。
 - 2026-08-16 7月31日是传奇的一天。这一天 DeepSeek [发布了 DeepSeek V4 Flash 正式版](https://www.ithome.com/0/984/116.htm)，自那之后，它就是我的 Hermes Agent 常驻主力模型。正式版的分数超出预览版一大截，甚至超过了 V4 Pro 的预览版。另外是 [GPT-5.6 Luna 降价80%](https://www.ithome.com/0/983/912.htm)，这让 GPT-5.6 系的大模型突然有了性价比。还有 [MiniMax 发布了多模态视频模型 MiniMax H3](https://www.ithome.com/0/983/957.htm)，并且将会在[8月3日开源](https://www.ithome.com/0/984/379.htm)。同天字节也[发布了 Seedance 2.5](https://www.ithome.com/0/984/104.htm)。半个月过去，这三件事至少有两件都对这个行业产生了较明显的影响。
 	- 后来 [DeepSeek V4 Pro 也如约“尽快”在8月13日发布](https://www.ithome.com/0/989/423.htm)了，同天还发布了传说中的 [DeepSeek Harness](https://www.deepseek.com/harness/)。不过在短暂的使用时间里，我还没搞明白 dsh 可以怎么玩。上个月底以来的人工智能行业就像过年一样。
