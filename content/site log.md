@@ -7,7 +7,7 @@ date: 2026-09-01
 
 ### 2026
 
-- 09-01 [[the odyssey|《奥德赛》|]]，[[ai|主观 AI 编年史]]，[[now]]，[[music/index|音乐]]
+- 09-01 [[the odyssey|《奥德赛》]]，[[ai|主观 AI 编年史]]，[[now]]，[[music/index|音乐]]
 - 08-28 [[refresh|《刷新》]]
 - 08-23 -> 08-25 [[v 2026|《空枪》]]，[[from wordpress to quartz|《从 WordPress 到 Quartz》]]，[[mutiny|《怒之杀》]]
 - 08-19 [[spiderman brand new day|《蜘蛛侠：崭新之日》]]
