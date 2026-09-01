@@ -2,14 +2,14 @@
 title: 仿生猫梦见电子猫粮
 description: 按钮是控制，磁带是记录。
 created: 2025-04-01
-date: 2026-08-24
+date: 2026-09-01
 ---
 
 谢谢你来我的寒舍。我在这里分享我感兴趣的事物、所见所闻和一点点思考，希望你也能找到感兴趣的内容。
 
 可以从这里开始：[[why this site|为什么会有这个站点]]、[[about this site|关于本站]]、[[site log#最近更新|最近更新]]的内容。也可以到处看看。
 
-我从2006年开始在互联网写东西。本职工作是[[amazon|跨境电商]]，工作以外喜欢[[movies and shows|影视剧]]、[[music/index|音乐]]、[[digital life|科技数码]]和[[i love books|书籍]]，近些年来喜欢观察 [[ai|AI 行业的发展]]及其与个人的关系。线下喜欢拍照，做了一个[在线相册](https://photo.jefftay.com/)。定期更新 [[now|now 页面]]，可以了解我最近在关注什么和做什么。
+我喜欢互联网和写东西这两件事物，于是把二者结合了。本职工作是[[amazon|跨境电商]]，工作以外喜欢[[movies and shows|影视剧]]、[[music/index|音乐]]、[[digital life|科技数码]]和[[i love books|书籍]]，近些年来喜欢观察 [[ai|AI 行业的发展]]及其与个人的关系。线下喜欢拍照，做了一个[在线相册](https://photo.jefftay.com/)。定期更新 [[now|now 页面]]，可以了解我最近在关注什么和做什么。
 
 如想通过文章认识我，以下我最满意的文章：
 
@@ -30,7 +30,7 @@ date: 2026-08-24
 - [[i love books|书籍读后感]] | [[music/index|音乐]]
 - [[digital life|科技生活]] | [[ai|主观 AI 编年史]]
 - [[amazon|跨境电商与亚马逊]]
-- [[tao/index|我读《道德经》]] | [[now|我的 now 页面]] *7月24日更新*
+- [[tao/index|我读《道德经》]] | [[now|我的 now 页面]] *9月1日更新*
 
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。要有自己的[[anchor|锚点]]。
 

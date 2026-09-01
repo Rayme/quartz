@@ -1,7 +1,7 @@
 ---
 title: AI
-date: 2026-08-28
 created: 2022-12-05
+date: 2026-09-01
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
 *2025-06-05 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。*
@@ -13,6 +13,9 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-09-01 上月月末的几个新闻：8月28日[腾讯混元发布了 Hy4 Preview](https://hy.tencent.com/research/hy4-preview)，没几天 Workbuddy 就宣布[紧急扩容](https://www.ithome.com/0/996/414.htm)了，层面说明 Workbuddy 已经成为许多打工人的首选 agent，我也在工作和生活中尝试用了几回解决问题，竟然比想象中要更好些。趁着现在模型限免，尽可能薅多点羊毛。
+- [OpenClaw 发布了 2.0](https://openclaw.ai/blog/openclaw-2-accidentally)（v2026.8.1），包含大量功能和安全性改进，但我早在四月就不再使用 OpenClaw，也没有兴趣再次安装了。Hermes Agent 几乎满足了我对一个 Agent 的所有要求。
+- DeepSeek 在8月21日[发布了多模态模型 DeepSeek-V4-Flash-Vision-Exp](https://api-docs.deepseek.com/guides/vision/)，随后在8月31日[开源](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)。我已经停止订阅 OpenCode，DeepSeek API 余额也所剩无几，没有多少机会去试用一下。我现在的主力模型已经完全变成了 GPT-5.6 Sol/Terra/Luna。
 - 2026-08-28 上周爆火的匿名模型 Ox-Alpha 又作 “牛来模型”，后来被智谱认领，唤作 [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)。最早在大聪明的公众号看到有这么一个模型，OpenCode 订阅也出现了这个选项，我没有细想，第一天便试用，但后来实在过于卡顿，就没有继续使用下去。直到一周后，我才发现这个模型已经在社区有了极高的讨论热度，拳打 Opus 4.8 脚踢 DeepSeek V4 Flash。Artificial Analysis 的评分（57）也说明了这一点，以至于今天有些博主已经把 Ox Alpha 称为新的模型斩杀线。
 	- DeepSeek 涨价以后，我基本没有再用过了，也取消了 OpenCode 订阅，全面转向 ChatGPT Plus，连 hermes agent 也主要用上了 GPT-5.6 luna 作为基础模型。如果有便宜够用的模型，谁不想订阅呢？然而 GLM 真的[太贵了](https://bigmodel.cn/glm-coding)，最便宜的 Lite 也要118/月（连续包年82.6），这个价格真不如加多20直接用 ChatGPT Plus。ChatGPT 最大的问题就是使用门槛，在订阅环节好不容易注册新的信用卡订阅成功，在 VPS 上好不容易让 hermes 用上。
 	- 说到 ChatGPT，昨天（8月26日）恢复了五小时使用限额。根据 Tibo 的[推文](https://x.com/thsottiaux/status/2092058556707344708)，这个决策出于平衡负载和新手保护，但在我看来就是为了省钱并且最大化限制恶意使用。因为一百刀和两百刀的订阅用户并不受影响。
