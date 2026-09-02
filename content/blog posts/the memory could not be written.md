@@ -10,11 +10,11 @@ This [Bearblog](https://zm.bearblog.dev/) was first called `zm`. It was nonse
 
 Then I stumbled into something interesting. The error window popped up in my head: `The memory could not be written`. It’s a classic Windows error and we, the people in China, often see a wrong translation of this error in the past 20 maybe 30 years since Windows 95.
 
-The interesting thing is that there is no way to translate `该内存不能为written` back into english. And the meaning of this error can be interpreted into two ways. One is as it officially means “a program was trying to save data to a specific location in the computer’s memory but was blocked”, the other one is “we can not write down something we remember”. It was very fun when I found this out. I bet there are people found it fun too.
+The interesting thing is that there is no way to translate `该内存不能为written` back into English. And the meaning of this error can be interpreted into two ways. One is as it officially means “a program was trying to save data to a specific location in the computer’s memory but was blocked”, the other one is “we can not write down something we remember”. It was very fun when I found this out. I bet there are people found it fun too.
 
 So I changed my blog name to `The memory could not be written`. I hope it means: **no matter how hard we try to write our memories down, they can never be the same as we remember in the first place.**
 
-Even more fun, I asked Grok to access this site. It replies:
+Even more fun, I asked Grok to access this site. It replied:
 
 > However, when I tried to access it, I ran into an error (“The memory could not be written”) and couldn’t retrieve meaningful content— it might be down, under maintenance, or facing a temporary glitch on the hosting side.
 
@@ -24,4 +24,4 @@ As it turns out, it was indeed a good name. It can prevent DDoS attacks launched
 
 ---
 
-I still recall this name from time to time. I remembered I started a little project “write 100 pieces in english in 100 days” and I stopped at number 57. I didn’t feel sorry but feel as if relieved.
+I still recall this name from time to time. I remembered I started a little project “write 100 pieces in english in 100 days” and I stopped at number 57. I didn’t feel sorry but felt as if relieved.

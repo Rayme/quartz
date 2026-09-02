@@ -7,7 +7,8 @@ tags:
 2023-09-03
 
 > We knew the world would not be the same. A few people laughed, a few people cried, most people were silent. I remembered the line from the Hindu scripture, the Bhagavad-Gita. Vishnu is trying to persuade the Prince that he should do his duty and to impress him takes on his multi-armed form and says, “Now, I am become Death, the destroyer of worlds.” I suppose we all thought that one way or another.
-> - J. Robert Oppenheimer
+> 
+> \- J. Robert Oppenheimer
 
 今天看了期待已久的奥本海默，我选择了最近能找到的最高规格 IMAX，只是可惜坐在比较偏的角落。电影本身还是熟悉的诺兰味，星光璀璨，不少有头有脸的奥斯卡名角仅仅出场几分钟到十几分钟不等，例如奥斯卡影帝拉米·马雷克、加里·奥德曼（他饰演的杜鲁门总有一种丘吉尔的感觉）金像奖最佳导演肯尼斯·布拉纳、小绿魔戴恩·德哈恩、杰森·克拉克等等。侧面说明诺兰在好莱坞的号召力有多强大。
 

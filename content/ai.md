@@ -13,11 +13,11 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
-- 2026-09-01 上月月末的几个新闻：8月28日[腾讯混元发布了 Hy4 Preview](https://hy.tencent.com/research/hy4-preview)，没几天 Workbuddy 就宣布[紧急扩容](https://www.ithome.com/0/996/414.htm)了，层面说明 Workbuddy 已经成为许多打工人的首选 agent，我也在工作和生活中尝试用了几回解决问题，竟然比想象中要更好些。趁着现在模型限免，尽可能薅多点羊毛。
+- 2026-09-01 上月月末的几个新闻：8月28日[腾讯混元发布了 Hy4 Preview](https://hy.tencent.com/research/hy4-preview)，没几天 Workbuddy 就宣布[紧急扩容](https://www.ithome.com/0/996/414.htm)了，侧面说明 Workbuddy 已经成为许多打工人的首选 agent，我也在工作和生活中尝试用了几回解决问题，竟然比想象中要更好些。趁着现在模型限免，尽可能薅多点羊毛。
 - [OpenClaw 发布了 2.0](https://openclaw.ai/blog/openclaw-2-accidentally)（v2026.8.1），包含大量功能和安全性改进，但我早在四月就不再使用 OpenClaw，也没有兴趣再次安装了。Hermes Agent 几乎满足了我对一个 Agent 的所有要求。
 - DeepSeek 在8月21日[发布了多模态模型 DeepSeek-V4-Flash-Vision-Exp](https://api-docs.deepseek.com/guides/vision/)，随后在8月31日[开源](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)。我已经停止订阅 OpenCode，DeepSeek API 余额也所剩无几，没有多少机会去试用一下。我现在的主力模型已经完全变成了 GPT-5.6 Sol/Terra/Luna。
 - 2026-08-28 上周爆火的匿名模型 Ox-Alpha 又作 “牛来模型”，后来被智谱认领，唤作 [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)。最早在大聪明的公众号看到有这么一个模型，OpenCode 订阅也出现了这个选项，我没有细想，第一天便试用，但后来实在过于卡顿，就没有继续使用下去。直到一周后，我才发现这个模型已经在社区有了极高的讨论热度，拳打 Opus 4.8 脚踢 DeepSeek V4 Flash。Artificial Analysis 的评分（57）也说明了这一点，以至于今天有些博主已经把 Ox Alpha 称为新的模型斩杀线。
-	- DeepSeek 涨价以后，我基本没有再用过了，也取消了 OpenCode 订阅，全面转向 ChatGPT Plus，连 hermes agent 也主要用上了 GPT-5.6 luna 作为基础模型。如果有便宜够用的模型，谁不想订阅呢？然而 GLM 真的[太贵了](https://bigmodel.cn/glm-coding)，最便宜的 Lite 也要118/月（连续包年82.6），这个价格真不如加多20直接用 ChatGPT Plus。ChatGPT 最大的问题就是使用门槛，在订阅环节好不容易注册新的信用卡订阅成功，在 VPS 上好不容易让 hermes 用上。
+	- DeepSeek 涨价以后，我基本没有再用过了，也取消了 OpenCode 订阅，全面转向 ChatGPT Plus，连 Hermes Agent 也主要用上了 GPT-5.6 luna 作为基础模型。如果有便宜够用的模型，谁不想订阅呢？然而 GLM 真的[太贵了](https://bigmodel.cn/glm-coding)，最便宜的 Lite 也要118/月（连续包年82.6），这个价格真不如加多20直接用 ChatGPT Plus。ChatGPT 最大的问题就是使用门槛，在订阅环节好不容易注册新的信用卡订阅成功，在 VPS 上好不容易让 hermes 用上。
 	- 说到 ChatGPT，昨天（8月26日）恢复了五小时使用限额。根据 Tibo 的[推文](https://x.com/thsottiaux/status/2092058556707344708)，这个决策出于平衡负载和新手保护，但在我看来就是为了省钱并且最大化限制恶意使用。因为一百刀和两百刀的订阅用户并不受影响。
 - 2026-08-19 自从8月17日 DeepSeek V4 系列正式涨价后，OpenCode 经历一次大起大落的调价。先是在8月17日，DeepSeek V4 Flash 的每五小时请求数从 63300 次爆降到 3800 次，月度消费上限从 $60 降到 $15，估计是扛不住用户的怒骂，又在8月18日把五小时配额涨回 7600 次，消费上限稍微涨回 $30。这次 DeepSeek 的涨价，脱掉了 DeepSeek 性价比之王的外衣，有点可惜。
 - 2026-08-16 7月31日是传奇的一天。这一天 DeepSeek [发布了 DeepSeek V4 Flash 正式版](https://www.ithome.com/0/984/116.htm)，自那之后，它就是我的 Hermes Agent 常驻主力模型。正式版的分数超出预览版一大截，甚至超过了 V4 Pro 的预览版。另外是 [GPT-5.6 Luna 降价80%](https://www.ithome.com/0/983/912.htm)，这让 GPT-5.6 系的大模型突然有了性价比。还有 [MiniMax 发布了多模态视频模型 MiniMax H3](https://www.ithome.com/0/983/957.htm)，并且将会在[8月3日开源](https://www.ithome.com/0/984/379.htm)。同天字节也[发布了 Seedance 2.5](https://www.ithome.com/0/984/104.htm)。半个月过去，这三件事至少有两件都对这个行业产生了较明显的影响。
@@ -46,12 +46,12 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 - Nousresearch 发布了官方的 [Hermes Desktop](https://hermes-agent.nousresearch.com/desktop)。别的不说，这个美术，我真的爱死。
 ## 1H26
 
-- 2026-05-20 半个月后，我已经决定续费 ChatGPT Plus。不仅仅是 Codex，Hermes Agent 近期的更新已经可以使用 OpenAI Oauth 使用同样的 Plus 订阅。以我目前的用法，Plus 的额度一周只用到一半，剩下一半正好给到 Hermes。此外，我的 OpenClaw 自从最后一次更新挂掉以后，再也没有启动过了。
+- 2026-05-20 半个月后，我已经决定续费 ChatGPT Plus。不仅仅是 Codex，Hermes Agent 近期的更新已经可以使用 OpenAI Oauth 使用同样的 Plus 订阅。以我目前的用法，Plus 的额度一周只用到一半，剩下一半正好给到 hermes。此外，我的 OpenClaw 自从最后一次更新挂掉以后，再也没有启动过了。
 - Andrej Karpathy [宣布加入](https://x.com/karpathy/status/2056753169888334312) Anthropic。
 - 2026-05-03 四月底订阅了 ChatGPT Plus 后，我突然意识到 Plus 用户可以使用 [Codex](https://chatgpt.com/zh-Hans-CN/codex/)（实际上免费用户也可以），于是在探索中从 Codex CLI 到 Codex App，才发现这是一个多么优秀的应用。它几乎是 OpenClaw 的完全体，设计风格简洁优雅，尽管是在 Windows 下。若是 Mac 想必更美。Plus 的额度几乎够一个非重度用户使用一周还有富余。
 - 2026-04-30 近一周以来，Anthropic 砍掉了 Claude Pro 用户使用 Claude Code 的权限，限流、涨价且封号，各种争议从未停止过。[参考文献](https://www.ifanr.com/1663315)
 - 我用着 Claude Code 但接入了别家大模型，然后订阅了 ChatGPT Plus。原来 GPT-5.5 现在已经强大到这个级别。
-- 昨日（4月29日）小米发布了 [Orbit 百万亿 Token 计划](https://platform.xiaomimimo.com/docs/zh-CN/news/v2.5-open-sourced)，顺便开源了刚刚发布不久的 MiMo V2.5 系列，这个系列模型支持也开始支持 1M 上下文窗口。我在[这个链接](https://100t.xiaomimimo.com)申请加入计划，填了一些信息后就成功入选了，收到一个月 Standard Token Plan，有两亿 creadits。二话不说把 Hermes agent 换成 MiMo V2.5 系列。米子的模型用起来还是不错的。
+- 昨日（4月29日）小米发布了 [Orbit 百万亿 Token 计划](https://platform.xiaomimimo.com/docs/zh-CN/news/v2.5-open-sourced)，顺便开源了刚刚发布不久的 MiMo V2.5 系列，这个系列模型支持也开始支持 1M 上下文窗口。我在[这个链接](https://100t.xiaomimimo.com)申请加入计划，填了一些信息后就成功入选了，收到一个月 Standard Token Plan，有两亿 creadits。二话不说把 Hermes Agent 换成 MiMo V2.5 系列。米子的模型用起来还是不错的。
 - 2026-04-27 今天是个好日子：[依法依规对外资收购 Manus 项目作出禁止投资决定](https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20623)，来自发改委。吃里扒外的企业终于遭受铁拳锤击了。
 - 2026-04-25 过去一周，AI 行业的迭代非常剧烈。按时间倒序，首先是4月24日，终于[发布了 DeepSeek V4 预览版](https://mp.weixin.qq.com/s/8bxXqS2R8Fx5-1TLDBiEDg)，且同步开源。我认真读完深度求索的发布稿，核心就写在标题上：**百万上下文**，**普惠**。基本的推理性能和知识属于基础更新，但额外加强了 Agent 能力，这也符合时代趋势。现在，所有普通人，都能在一个 app 或者网页端，享受到 1M 上下文窗口以及接近世界最强的大语言模型同级别性能了。
 	- 这次 V4 包含 Pro 和 Flash 两个版本，都很有性价比。Flash 适合作为 Agent 性价比基座，Pro 已经接近 Opus 4.6 non-thinking，“但仍与 Opus 4.6 思考模式存在一定差距。” 这句话是发布稿中的原话，很少会见到大语言模型厂商会如此叙述，简直是业界的一股清流（深度求索一直是这股气质，让人喜欢）。

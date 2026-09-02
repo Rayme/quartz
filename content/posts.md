@@ -12,6 +12,7 @@ created: 2025-04-01
 
 ### 2026
 
+- [[the odyssey|奥德赛]]
 - [[refresh|刷新]]
 - [[from wordpress to quartz|从 WordPress 到 Quartz]]
 - [[spiderman brand new day|成为蜘蛛侠]]
