@@ -9,7 +9,7 @@ date: 2026-09-01
 
 可以从这里开始：[[why this site|为什么会有这个站点]]、[[about this site|关于本站]]、[[site log#最近更新|最近更新]]的内容。也可以到处看看。
 
-我喜欢互联网和写东西这两件事物，于是把二者结合了。本职工作是[[amazon|跨境电商]]，工作以外喜欢[[movies and shows|影视剧]]、[[music/index|音乐]]、[[digital life|科技数码]]和[[i love books|书籍]]，近些年来喜欢观察 [[ai|AI 行业的发展]]及其与个人的关系。线下喜欢拍照，做了一个[在线相册](https://photo.jefftay.com/)。定期更新 [[now|now 页面]]，可以了解我最近在关注什么和做什么。
+我喜欢计算机和互联网，也喜欢写东西，于是把二者结合了。本职工作是[[amazon|跨境电商]]，工作以外喜欢[[movies and shows|影视剧]]、[[music/index|音乐]]、[[digital life|科技数码]]和[[i love books|书籍]]，近些年来喜欢观察 [[ai|AI 行业的发展]]及其与个人的关系。线下喜欢拍照，有一个[在线相册](https://photo.jefftay.com/)。定期更新 [[now|now 页面]]，可以了解我最近在关注什么和做什么。
 
 如想通过文章认识我，以下我最满意的文章：
 

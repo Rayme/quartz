@@ -1,6 +1,7 @@
 ---
 title: 从 WordPress 到 Quartz
 created: 2026-08-24
+date: 2026-09-02
 ---
 8月19日，我发现我的 WordPress 博客被黑了。
 
@@ -23,3 +24,5 @@ created: 2026-08-24
 ---
 
 就在前几天，WordPress 7.1 正式版发布，稍微浏览了更新内容，大多数都是我不感兴趣的。遥想我第一次使用 WordPress 的2015年，那时候的版本号还是 4.x，用起来并不算好用，古腾堡编辑器还没有被开发出来。
+
+小胡也[说过这个话题](https://yinji.org/from-wordpress-to-hugo.html/)。他妈的，[韩宇说的确实是对的](https://hahaha.me/posts/98)。
