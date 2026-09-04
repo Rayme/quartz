@@ -8,7 +8,7 @@ tags:
 
 > If you make a mistake, get all tangled up, just tango on. Why don't you try?
 > 
-> - Frank Slate
+> \- Frank Slate
 
 十多年前就被好友安利的电影，几年前看了个开头没有继续看下去，甚至阿尔·帕西诺的两部教父已经翻看数次；这次终于完整看完了《闻香识女人》，不愧是获得奥斯卡最佳男主角奖和三提名的经典电影。
 

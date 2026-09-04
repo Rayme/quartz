@@ -10,7 +10,7 @@ Nick 发明了一个新词：**Ideaverse**，意为一个有1000条想法（笔�
 
 > PKM is making sense of the world.
 > 
-> - Nick Milo
+> \- Nick Milo
 
 我们如何理解这个世界？Nick 举例提出了以下几个问题（Nick 称这些是 **existential questions**，存在主义问题）：
 
