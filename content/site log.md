@@ -1,13 +1,14 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-09-01
+date: 2026-09-06
 ---
 ## 最近更新
 
 ### 2026
 
-- 09-01 [[the odyssey|《奥德赛》]]，[[ai|主观 AI 编年史]]，[[now]]，[[music/index|音乐]]
+- 09-06 [[once upon a time in the middle east|《欢迎来龙餐馆》]]，[[movies and shows|影视剧观后感]]，[[ai|主观 AI 编年史]]
+- 09-01 [[the odyssey|《奥德赛》]]，[[now]]，[[music/index|音乐]]
 - 08-30 [[the ultimate gift|《超级礼物》]]
 - 08-28 [[refresh|《刷新》]]
 - 08-23 -> 08-25 [[v 2026|《空枪》]]，[[from wordpress to quartz|《从 WordPress 到 Quartz》]]，[[mutiny|《怒之杀》]]

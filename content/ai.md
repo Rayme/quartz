@@ -15,6 +15,7 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 
 - 2026-09-04 OpenAI 在 今天[发布了 GPT-6 Astra](https://openai.com/index/gpt-6-astra/)，坏消息是普通用户还用不上，好消息是每晚一天用上 Astra，普通用户就多一张重置卡。最出彩的评分是 ARC-AGI-3 砍下了 99.9%，一骑绝尘。价格也跑到了跟 Fable 5 一个水平，比 5.6 Sol 多了两倍多，也是我们这种 Plus 用户用不起的了。
 	- 隔壁智谱就在同一天发布了[夜间畅用活动](https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash)，支持到9月20日，不过需要订阅 GLM Coding Plan。
+	- 2026-09-05 补充：没想到一天后就全员推送 Astra 了，我还想着晚几天能多攒几个重置卡呢。不过就算放开了，我也不敢用，据网友反馈，ChatGPT Plus 订阅也就够用 Astra 讲两三个回合的。
 - 2026-09-01 上月月末的几个新闻：8月28日[腾讯混元发布了 Hy4 Preview](https://hy.tencent.com/research/hy4-preview)，没几天 Workbuddy 就宣布[紧急扩容](https://www.ithome.com/0/996/414.htm)了，侧面说明 Workbuddy 已经成为许多打工人的首选 agent，我也在工作和生活中尝试用了几回解决问题，竟然比想象中要更好些。趁着现在模型限免，尽可能薅多点羊毛。
 	- [OpenClaw 发布了 2.0](https://openclaw.ai/blog/openclaw-2-accidentally)（v2026.8.1），包含大量功能和安全性改进，但我早在四月就不再使用 OpenClaw，也没有兴趣再次安装了。Hermes Agent 几乎满足了我对一个 Agent 的所有要求。
 	- DeepSeek 在8月21日[发布了多模态模型 DeepSeek-V4-Flash-Vision-Exp](https://api-docs.deepseek.com/guides/vision/)，随后在8月31日[开源](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp)。我已经停止订阅 OpenCode，DeepSeek API 余额也所剩无几，没有多少机会去试用一下。我现在的主力模型已经完全变成了 GPT-5.6 Sol/Terra/Luna。
