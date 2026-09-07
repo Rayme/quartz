@@ -46,7 +46,7 @@ Focus on [[like instead of want|what I like, not what I want]]. Hope we all have
 
 ---
 
-![[ilikecomeputer.png|88x31]] ![[by-sa.png|88x31]]
+![[ilikecomeputer.png|88x31]] ![[by-sa.png|88x31]] ![[notbyai.png|88x31]] 
 
 本站点内容采用 [知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
 

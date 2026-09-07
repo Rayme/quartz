@@ -7,7 +7,7 @@ date: 2026-09-07
 
 ### 2026
 
-- 09-07 [[crime 101|《洛杉矶劫案》]]
+- 09-07 [[crime 101|《洛杉矶劫案》]]，[[blogroll|网上邻居]]
 - 09-06 [[once upon a time in the middle east|《欢迎来龙餐馆》]]，[[movies and shows|影视剧观后感]]，[[ai|主观 AI 编年史]]
 - 09-01 [[the odyssey|《奥德赛》]]，[[now]]，[[music/index|音乐]]
 - 08-30 [[the ultimate gift|《超级礼物》]]
@@ -64,6 +64,8 @@ date: 2026-09-07
 
 ## 站点更新日志
 
+- 2026-09-09 首页添加 not by AI 标签
+	- *又添加回来了，当做一个提醒吧*
 - 2026-08-23 微调全站 CSS 样式
 	- *我是真喜欢微调全站样式啊...*
 - 2026-07-06 更新全站 CSS 样式，灵感来源：[Vermilion](https://anotherdayu.com/vermilion/) 
@@ -73,7 +75,7 @@ date: 2026-09-07
 - 2026-04-25 更新页脚信息
 - 2026-04-19 移除全站冗余 CSS 样式，取消使用 Google Fonts，去除 No-AI-icon
 - 2026-04-13 轻微修改全站 CSS 样式
-- 2026-01-22 替换 Not By AI 为 No-AI-icon
+- 2026-01-22 替换 not by AI 为 No-AI-icon
 - 2025-09-19 更新人类写作声明和知识共享许可声明
 - 2025-08-15 更新全站 CSS 样式
 - 2025-08-11 取消 Google Analytics，开启 [SPA Routing](https://quartz.jzhao.xyz/features/SPA-Routing)
