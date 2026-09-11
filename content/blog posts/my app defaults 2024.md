@@ -11,7 +11,7 @@ created: 2025-01-20
 📷 ~~iPhone~~ Android Photo Shooting: 使用 [[vivo x200 pro|vivo X200 Pro]] 系统自带相机。  
 🟦 Photo Management: OneDrive 和 Google Photos。  
 📆 Calendar: PC 端和移动端均使用系统默认日历。  
-📁 Cloud File Storage: 使用 OneDrive、百度云盘、夸克云盘、阿里云盘、InifiniCLOUD、阿里云 OSS 以及一部分自建存储。  
+📁 Cloud File Storage: 使用 OneDrive、百度云盘、夸克云盘、阿里云盘、InfiniCLOUD、阿里云 OSS 以及一部分自建存储。  
 📖 RSS: 目前没有使用 RSS 订阅工具，短暂试用过 [follow](https://follow.is/)。  
 🙍🏻‍♂️ Contacts: 使用系统自带联系人应用。  
 🌐 Browser: PC 端和移动端均主力使用 Chrome，辅助 Firefox。  

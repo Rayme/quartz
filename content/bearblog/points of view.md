@@ -2,7 +2,7 @@
 title: Points Of View
 created: 2025-10-31
 ---
-I opened Bearblog today and saw that the Halloween is coming. This is not the most famous holiday in China, but it becomes more known to people these years.
+I opened Bear Blog today and saw that the Halloween is coming. This is not the most famous holiday in China, but it becomes more known to people these years.
 
 In China, most people don't believe in Gods or ghosts. We receive a materialistic education. Of course there are churches and christians but their numbers are small. Out of curiosity, I tried to read the Bible when I was in college. I even went to a church once a week, hearing fathers talk about the Bible and how Jesus saved us.
 

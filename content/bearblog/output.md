@@ -9,7 +9,7 @@ The number is quite unexpected. Here it is:
 - content in digital garden: 402,000 words (including Chinese blog)
 - content in private diary: 418,000 words
 - content in daily journal: 35,000 words
-- content in Bearblog: 10,000 words (in English)
+- content in Bear Blog: 10,000 words (in English)
 
 I never expected that I could write this much content. I always felt I write not enough according to those essays and articles I have published. But I somehow ignored those diaries. Gemini says "they are the iceberg underneath". (I spelled it as "ice mountain" before)
 

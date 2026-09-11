@@ -12,7 +12,7 @@ This is a serious problem. It lets some important ideas drift away when I'm focu
 
 - 51 unread pages saved in my Chrome's reading list;
 - 11 links in my Obsidian vault;
-- 249 watch it later videos on Bilibili and 62 on Youtube;
+- 249 watch it later videos on Bilibili and 62 on YouTube;
 - 234 unread books in my reading app (and hundreds uncountable in OneDrive);
 - 48 unread emails, 20 unread newsletters
 

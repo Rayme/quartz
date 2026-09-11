@@ -16,7 +16,7 @@ Said Hemingway.
 
 Only by producing lots of shit can I produce something has a little value. If I don't produce anything at all, that's worse.
 
-I reread some of my posts on this bearblog, most of them are ideas coming from others. Few of them are totally mine. I am not ashamed of that either.
+I reread some of my posts on this bear Blog, most of them are ideas coming from others. Few of them are totally mine. I am not ashamed of that either.
 
 I remember Jay Chou wrote 50 songs and tossed 40 of them. The 10 songs remained became the first album. I didn't do that on this blog, but I wrote drafts in chinese and ended up being thrown away. Publishing those shits means nothing if I don't even like them.
 

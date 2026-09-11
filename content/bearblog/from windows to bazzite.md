@@ -20,7 +20,7 @@ Then I installed Obsidian, Epic and some games on Steam and Epic. I haven't play
 
 But the most important thing to me is, there are already plenty of better OSes besides Windows 11. I was thinking about Ubuntu, Debian or Fedora, turns out there are people who love gaming have made such a wonderful one.
 
-Bazzite OS looks beautiful, elegant and seems easy to use. The KDE Plasma is similar to Windows 11 but even better. I can customize whatever I want without running into serious bugs. The window, fonts and UX look smoother compared to Windows 11. The controller, bluetooth and touchscreen work well out of the box. I feel so great using Bazzite for now.
+Bazzite OS looks beautiful, elegant and seems easy to use. The KDE Plasma is similar to Windows 11 but even better. I can customize whatever I want without running into serious bugs. The window, fonts and UX look smoother compared to Windows 11. The controller, Bluetooth and touchscreen work well out of the box. I feel so great using Bazzite for now.
 
 I really appreciated those developers for their great work. This is a brilliant way out of the blackhole of Windows.
 

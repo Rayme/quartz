@@ -8,6 +8,6 @@ There are some reasons. I see a lot of blogs that just use the author's name. It
 
 That reminds me of my WordPress blog. It uses my nickname. It has been a decade but there is no issue at all. People just call me by that name.
 
-The Bearblog is awesome. So should the people using it.
+The Bear Blog is awesome. So should the people using it.
 
 Day 5.

@@ -83,7 +83,7 @@ if __name__ == '__main__':
     generate_sorted_file_list()
 ```
 
-这个版本的工具可以放在任何文件夹下运行，自动遍历该文件夹所有文件和子文件夹，用 Markdown 二级标题区分文件夹，以目录树形式显示所有文件名，忽略掉工具本身这个文件（Gemini 给这个工具起了名字：list_generator.py），输出为一个 `folder_content.md` 文本文件。这个小工具可以在 Windows 系统任何文件夹下使用，预计也可以在 MacOS 和 Linux 下运行。
+这个版本的工具可以放在任何文件夹下运行，自动遍历该文件夹所有文件和子文件夹，用 Markdown 二级标题区分文件夹，以目录树形式显示所有文件名，忽略掉工具本身这个文件（Gemini 给这个工具起了名字：list_generator.py），输出为一个 `folder_content.md` 文本文件。这个小工具可以在 Windows 系统任何文件夹下使用，预计也可以在 macOS 和 Linux 下运行。
 
 最终这个小工具在我的硬盘生成的文件内容如下（有做删减）：
 

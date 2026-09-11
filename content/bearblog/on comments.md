@@ -8,6 +8,6 @@ I claimed that I don't care about how many people would visit my blog, but actua
 
 My WordPress blog though has a lot comments since 2017. Probably I should keep it that way? I could communicate with others through IM or forum or emails.
 
-Anyway, bearblog doesn't have comment section for now. I intend to keep it that way.
+Anyway, bear Blog doesn't have comment section for now. I intend to keep it that way.
 
 Day 4.

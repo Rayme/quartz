@@ -2,7 +2,7 @@
 title: 工具只是工具，重要的是工具以外的一切
 created: 2025-08-07
 ---
-看到 reddit 上有这么[一篇帖子](https://www.reddit.com/r/ObsidianMD/comments/1khpcoo/are_there_any_digital_gardens_that_arent_about/)：
+看到 Reddit 上有这么[一篇帖子](https://www.reddit.com/r/ObsidianMD/comments/1khpcoo/are_there_any_digital_gardens_that_arent_about/)：
 
 > I love the idea of digital gardens as those independent personal islands where people expand on their topics of interest free of attachment to major social media platforms, but what I find again and again is that instead of people creating digital gardens around their passions and interests, instead of each garden being uniquely personal to the person who creates it, they all look exactly the same: mostly empty, obsessed over productivity and note-taking but without any actual notes of substance on any topic other than notes itself. The only books you see within books notes section are Atomic Habits and How To Take Smart Notes, the only people who seem to make digital gardens are uniquely boring individuals who have absolutely nothing to say and think of nothing other than another reiteration of "how to use obsidian". Like what are you guys even using obsidian for if using it seems to be a goal in itself? It gets ridiculous how devoid of any personality those public vaults are and I just don't understand how is it even possible. How is it possible that personal digital gardens all look like they're automatically generated using the same template and are anything BUT personal, anything BUT unique?
 

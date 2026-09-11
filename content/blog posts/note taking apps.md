@@ -67,7 +67,7 @@ Tiddlywiki 和 Obsidian 相关：
 - [如何构建笔记系统-实际操作篇](https://zhuanlan.zhihu.com/p/353521308)
 - [对于工具狂热的反思](https://sspai.com/post/61029)
 
-Youtube NickMilo 的视频：
+YouTube NickMilo 的视频：
 
 - [Why Make Notes](https://www.youtube.com/watch?v=-0tYwMeCJjo)
 - [What is PKM? What is Personal Knowledge Management?](https://www.youtube.com/watch?v=Q2WBHyqRsxA)

@@ -11,8 +11,8 @@ created: 2026-01-19
 - 📷 ~~iPhone~~ Android Photo Shooting: 使用 [[vivo x200 pro|vivo X200 Pro]] 系统自带相机。
 - 🟦 Photo Management: 本地硬盘、OneDrive 和 Google Photos。
 - 📆 Calendar: PC 端和移动端均使用系统默认日历，稍微涉及 Trilium Notes 中的日历模块。
-- 📁 Cloud File Storage: 使用 OneDrive、Google Drive、夸克云盘、InifiniCLOUD、阿里云 OSS 以及一部分 Kodbox 自建存储，不再使用百度网盘和阿里云盘。
-- 📖 RSS: 没有使用 RSS 订阅工具（[一位智者](https://hanyu.me/)曾经说过，你不需要 RSS 订阅工具），短暂试用过 folo。去年 folo 开发团队发生过一些事件。
+- 📁 Cloud File Storage: 使用 OneDrive、Google Drive、夸克云盘、InfiniCLOUD、阿里云 OSS 以及一部分 KodBox 自建存储，不再使用百度网盘和阿里云盘。
+- 📖 RSS: 没有使用 RSS 订阅工具（[一位智者](https://hanyu.me/)曾经说过，你不需要 RSS 订阅工具），短暂试用过 Folo。去年 Folo 开发团队发生过一些事件。
 - 🙍🏻‍♂️ Contacts: 使用系统自带联系人应用。
 - 🌐 Browser: Windows 下主要使用 Chrome，Bazzite OS 下使用 Firefox，移动端使用 Chrome 和夸克浏览器。
 - 💬 Chat: 微信、QQ、Telegram 以及一些不以即时通讯为目的的社交应用。

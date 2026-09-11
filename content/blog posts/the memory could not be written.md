@@ -2,11 +2,11 @@
 title: The Memory Could Not Be Written
 created: 2026-03-13
 ---
-_This short piece is [published](https://zm.bearblog.dev/the-memory-could-not-be-written/) on my bearblog, 14th November 2025._
+_This short piece is [published](https://zm.bearblog.dev/the-memory-could-not-be-written/) on my Bear Blog, 14th November 2025._
 
 ---
 
-This [Bearblog](https://zm.bearblog.dev/) was first called `zm`. It was nonsense except it was the abbreviation of my real name. I started thinking if there is any better name to use.
+This [Bear Blog](https://zm.bearblog.dev/) was first called `zm`. It was nonsense except it was the abbreviation of my real name. I started thinking if there is any better name to use.
 
 Then I stumbled into something interesting. The error window popped up in my head: `The memory could not be written`. It’s a classic Windows error and we, the people in China, often see a wrong translation of this error in the past 20 maybe 30 years since Windows 95.
 

@@ -2,7 +2,7 @@
 title: About Creating Stuff
 created: 2025-10-18
 ---
-The homepage of bearblog says:
+The homepage of Bear Blog says:
 
 > Publish something with your bear hands
 
