@@ -1,14 +1,15 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-09-07
+date: 2026-09-16
 ---
 ## 最近更新
 
 ### 2026
 
+- 09-16 [[ai|主观 AI 编年史]]
 - 09-07 [[crime 101|《洛杉矶劫案》]]，[[blogroll|网上邻居]]
-- 09-06 [[once upon a time in the middle east|《欢迎来龙餐馆》]]，[[movies and shows|影视剧观后感]]，[[ai|主观 AI 编年史]]
+- 09-06 [[once upon a time in the middle east|《欢迎来龙餐馆》]]，[[movies and shows|影视剧观后感]]
 - 09-01 [[the odyssey|《奥德赛》]]，[[now]]，[[music/index|音乐]]
 - 08-30 [[the ultimate gift|《超级礼物》]]
 - 08-28 [[refresh|《刷新》]]
