@@ -13,7 +13,7 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
-- 2026-09-16 最近几篇比较重要的文章：*[We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)*，*[Code of Conduct](https://microsoft.ai/code-of-conduct/)*，[我不得不把才华埋葬在昨天](https://mp.weixin.qq.com/s/zk0KxuLzhmMJ4LPYW_OHMA)。前两篇分别来自 Anthropic 的 Dario Amodei 和 Microsoft，第三篇作者是 DeepSeek 的工程师刘胜与。刘胜与后来在知乎上针对这篇文章有一个回答，[一并附上](www.zhihu.com/question/2083123101873844765/answer/2083249715588621732)。我嘲讽这些西方大厂的虚伪和伪善，我赞叹人工智能领域一线工程师的文学底色和理想主义。
+- 2026-09-16 最近几篇比较重要的文章：*[We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)*，*[Code of Conduct](https://microsoft.ai/code-of-conduct/)*，[我不得不把才华埋葬在昨天](https://mp.weixin.qq.com/s/zk0KxuLzhmMJ4LPYW_OHMA)。前两篇分别来自 Anthropic 的 Dario Amodei 和 Microsoft，第三篇作者是 DeepSeek 的工程师刘胜与。刘胜与后来在知乎上针对这篇文章有一个回答，[一并附上](https://www.zhihu.com/question/2083123101873844765/answer/2083249715588621732)。我嘲讽这些西方大厂的虚伪和伪善，我赞叹人工智能领域一线工程师的文学底色和理想主义。
 - 2026-09-04 OpenAI 在 今天[发布了 GPT-6 Astra](https://openai.com/index/gpt-6-astra/)，坏消息是普通用户还用不上，好消息是每晚一天用上 Astra，普通用户就多一张重置卡。最出彩的评分是 ARC-AGI-3 砍下了 99.9%，一骑绝尘。价格也跑到了跟 Fable 5 一个水平，比 5.6 Sol 多了两倍多，也是我们这种 Plus 用户用不起的了。
 	- 隔壁智谱就在同一天发布了[夜间畅用活动](https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash)，支持到9月20日，不过需要订阅 GLM Coding Plan。
 	- 2026-09-05 补充：没想到一天后就全员推送 Astra 了，我还想着晚几天能多攒几个重置卡呢。不过就算放开了，我也不敢用，据网友反馈，ChatGPT Plus 订阅也就够用 Astra 讲两三个回合的。
