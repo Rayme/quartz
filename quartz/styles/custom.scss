@@ -87,3 +87,224 @@ a.internal:hover {
 .explorer a.internal {
   text-decoration: none;
 }
+
+
+// ============================================================================
+// Ipsum-inspired visual layer
+// Preserves Quartz's three-column grid; this layer only changes surface,
+// hierarchy, and component treatment.
+// ============================================================================
+
+:root {
+  --ipsum-paper: #fcfcfc;
+  --ipsum-ink: rgba(0, 0, 0, 0.75);
+  --ipsum-faint: rgba(10, 10, 10, 0.12);
+  --ipsum-wash: rgba(10, 10, 10, 0.035);
+  --ipsum-blue: #3355ff;
+  --ipsum-radius: 10px;
+}
+
+body {
+  background: var(--ipsum-paper);
+  color: var(--ipsum-ink);
+}
+
+::selection {
+  background: color-mix(in srgb, var(--ipsum-blue) 22%, transparent);
+}
+
+.page > #quartz-body {
+  column-gap: 1rem;
+}
+
+.page > #quartz-body .sidebar {
+  padding-top: clamp(3.5rem, 7vw, 6rem);
+}
+
+.page > #quartz-body .page-header {
+  margin-top: clamp(3.5rem, 7vw, 6rem);
+  padding-bottom: 1.25rem;
+  border-bottom: 1px dotted var(--ipsum-faint);
+}
+
+h2.page-title {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+.center article > h1 {
+  max-width: 19ch;
+  font-size: clamp(2rem, 4vw, 3.25rem);
+  font-weight: 700;
+  line-height: 1.12;
+  letter-spacing: -0.045em;
+  text-wrap: balance;
+}
+
+.center article h2 {
+  margin-top: 2.6rem;
+  padding-top: 1.3rem;
+  border-top: 1px dotted var(--ipsum-faint);
+  font-size: 1.35rem;
+  letter-spacing: -0.025em;
+}
+
+.center article h3 {
+  font-size: 1.08rem;
+  letter-spacing: -0.012em;
+}
+
+.center article :is(p, li) {
+  color: var(--ipsum-ink);
+}
+
+.center article p:first-of-type {
+  font-size: 1.06rem;
+}
+
+.center article blockquote {
+  margin: 1.75rem 0;
+  padding: 0.2rem 0 0.2rem 1.15rem;
+  border-left: 1px solid var(--dark);
+  color: var(--ipsum-ink);
+}
+
+.center article hr {
+  margin: 3rem 0;
+  background: transparent;
+  border-top: 1px dotted var(--ipsum-faint);
+}
+
+a,
+a.internal {
+  color: inherit;
+  text-decoration-color: color-mix(in srgb, var(--ipsum-blue) 70%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+a:hover,
+a.internal:hover {
+  color: var(--ipsum-blue);
+  text-decoration-color: currentcolor;
+}
+
+button,
+input,
+select,
+textarea {
+  border-radius: var(--ipsum-radius);
+}
+
+button {
+  border: 1px solid var(--ipsum-faint);
+  background: transparent;
+  transition:
+    background-color 0.16s ease,
+    border-color 0.16s ease,
+    color 0.16s ease;
+}
+
+button:hover {
+  border-color: var(--darkgray);
+  background: var(--ipsum-wash);
+}
+
+.search > .search-button,
+.darkmode,
+.explorer button.desktop-explorer,
+.explorer button.mobile-explorer {
+  border-radius: var(--ipsum-radius);
+}
+
+.explorer button.desktop-explorer,
+.explorer button.mobile-explorer {
+  padding: 0.45rem 0.55rem;
+}
+
+.explorer-content {
+  margin-top: 0.4rem;
+  padding-top: 0.6rem;
+  border-top: 1px dotted var(--ipsum-faint);
+}
+
+.explorer-content ul li {
+  margin: 0.08rem 0;
+}
+
+.explorer-content ul li > a,
+.folder-container div > a {
+  border-radius: 5px;
+}
+
+.explorer-content ul li > a:hover,
+.folder-container div > a:hover {
+  background: var(--ipsum-wash);
+}
+
+.toc,
+.backlinks,
+.recent-notes,
+.graph {
+  padding-top: 0.85rem;
+  border-top: 1px dotted var(--ipsum-faint);
+}
+
+.toc h3,
+.backlinks h3,
+.recent-notes h3,
+.graph h3 {
+  margin-top: 0;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.page-listing li.section-li {
+  padding: 1.1rem 0;
+  border-bottom: 1px dotted var(--ipsum-faint);
+}
+
+.page-listing li.section-li > .section > .meta {
+  color: color-mix(in srgb, var(--ipsum-ink) 62%, transparent);
+  letter-spacing: 0;
+}
+
+.page-listing li.section-li > .section > .desc > h3 {
+  font-size: 1.15rem;
+  letter-spacing: -0.02em;
+}
+
+.center article :is(pre, code) {
+  border-color: var(--ipsum-faint);
+  border-radius: var(--ipsum-radius);
+}
+
+.center article pre {
+  padding: 0.8rem 1rem;
+  background: var(--ipsum-wash);
+}
+
+.center article img {
+  border-radius: var(--ipsum-radius);
+}
+
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left {
+    padding-top: 1.6rem;
+  }
+
+  .page > #quartz-body .page-header {
+    margin-top: 0;
+  }
+
+  .center article > h1 {
+    font-size: clamp(1.85rem, 9vw, 2.45rem);
+  }
+
+  .center article p:first-of-type {
+    font-size: 1rem;
+  }
+}
