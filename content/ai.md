@@ -1,7 +1,7 @@
 ---
 title: AI
 created: 2022-12-05
-date: 2026-09-16
+date: 2026-09-18
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
 *2025-06-05 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。*
@@ -13,6 +13,8 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-09-18 智谱爆出大丑闻，旗下 Zcode 偷传用户仓库代码，一位博主[详细描述](https://blog.ferstar.org/posts/zcode-silent-workspace-snapshot-upload/)，经其他多位用户验证，再加上不久后[智谱道歉并称“问题已修复”](https://www.ithome.com/1/004/310.htm)，基本可以说明事件为真。智谱好不容易建立起来的口碑毁于一旦。
+	- 与此同时，[MiniMax Code CLI 正式开源](https://www.ithome.com/1/004/319.htm)，时间选得刚刚好。
 - 2026-09-16 最近几篇比较重要的文章：*[We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)*，*[Code of Conduct](https://microsoft.ai/code-of-conduct/)*，[我不得不把才华埋葬在昨天](https://mp.weixin.qq.com/s/zk0KxuLzhmMJ4LPYW_OHMA)。前两篇分别来自 Anthropic 的 Dario Amodei 和 Microsoft，第三篇作者是 DeepSeek 的工程师刘胜与。刘胜与后来在知乎上针对这篇文章有一个回答，[一并附上](https://www.zhihu.com/question/2083123101873844765/answer/2083249715588621732)。我嘲讽这些西方大厂的虚伪和伪善，我赞叹人工智能领域一线工程师的文学底色和理想主义。
 - 2026-09-04 OpenAI 在 今天[发布了 GPT-6 Astra](https://openai.com/index/gpt-6-astra/)，坏消息是普通用户还用不上，好消息是每晚一天用上 Astra，普通用户就多一张重置卡。最出彩的评分是 ARC-AGI-3 砍下了 99.9%，一骑绝尘。价格也跑到了跟 Fable 5 一个水平，比 5.6 Sol 多了两倍多，也是我们这种 Plus 用户用不起的了。
 	- 隔壁智谱就在同一天发布了[夜间畅用活动](https://docs.bigmodel.cn/cn/coding-plan/notice/event-glm-5.3-flash)，支持到9月20日，不过需要订阅 GLM Coding Plan。
