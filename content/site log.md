@@ -1,12 +1,13 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-09-19
+date: 2026-09-21
 ---
 ## 最近更新
 
 ### 2026
 
+- 09-21 [[gossip on movies|影视剧碎碎念]]，[[page views and sessions|访问量指标]]，[[rules of amazon advertising campaigns|亚马逊广告投放原则]]，[[amazon market research|市场调查的方法]]
 - 09-19 [[reacher season 4|《侠探杰克》第四季]]，[[ai|主观 AI 编年史]]
 - 09-07 [[crime 101|《洛杉矶劫案》]]，[[blogroll|网上邻居]]
 - 09-06 [[once upon a time in the middle east|《欢迎来龙餐馆》]]，[[movies and shows|影视剧观后感]]
