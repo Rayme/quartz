@@ -1,7 +1,7 @@
 ---
 title: AI
 created: 2022-12-05
-date: 2026-09-18
+date: 2026-09-23
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
 *2025-06-05 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。*
@@ -13,6 +13,9 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-09-23 人工智能行业过中秋节了。OpenAI 和 Anthropic 相继发布新模型。首先是 [OpenAI 发布了 GPT-6-Sol 和 GPT-6-Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)，价格均比 GPT-5.6 时期降一倍，重点放在 Computer use 和 coding 能力上。对于我这种普通用户来说，最开心的莫过于 Plus 订阅能用上更强且价格只有原来一半的 Luna 了。除此之外 OpenAI 还给所有订阅用户赠送了一张重置卡，这会我已经累积三张，终于有机会可以尝尝 Astra 咸淡。
+	- Anthropic 发布了 Claude Opus 5.5，运行成本比 Opus 5 降低 40%，性能接近 Fable 5.1。一如往常，我一般不会去用它。不过好像A社也给订阅用户送了重置卡，这倒是第一次见。
+	- 我终于敢在 Hermes Agent 上用 GPT-6-Sol 了！
 - 2026-09-18 智谱爆出大丑闻，旗下 Zcode 偷传用户仓库代码，一位博主[详细描述](https://blog.ferstar.org/posts/zcode-silent-workspace-snapshot-upload/)，经其他多位用户验证，再加上不久后[智谱道歉并称“问题已修复”](https://www.ithome.com/1/004/310.htm)，基本可以说明事件为真。智谱好不容易建立起来的口碑毁于一旦。
 	- 与此同时，[MiniMax Code CLI 正式开源](https://www.ithome.com/1/004/319.htm)，时间选得刚刚好。
 - 2026-09-16 最近几篇比较重要的文章：*[We Must Pace the Frontier](https://darioamodei.com/post/we-must-pace-the-frontier)*，*[Code of Conduct](https://microsoft.ai/code-of-conduct/)*，[我不得不把才华埋葬在昨天](https://mp.weixin.qq.com/s/zk0KxuLzhmMJ4LPYW_OHMA)。前两篇分别来自 Anthropic 的 Dario Amodei 和 Microsoft，第三篇作者是 DeepSeek 的工程师刘胜与。刘胜与后来在知乎上针对这篇文章有一个回答，[一并附上](https://www.zhihu.com/question/2083123101873844765/answer/2083249715588621732)。我嘲讽这些西方大厂的虚伪和伪善，我赞叹人工智能领域一线工程师的文学底色和理想主义。
