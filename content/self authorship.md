@@ -2,7 +2,7 @@
 title: "Self-Authorship: The Art of Trusting Your Own Authority"
 created: 2025-08-19
 ---
-https://nesslabs.com/self-authorship
+2025-08-19 [Anne-Laure Le Cunff](https://nesslabs.com/self-authorship)
 
 在外界评价和内心标准之间，勇敢选择后者。相信自己内心的声音。
 

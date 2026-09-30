@@ -1,13 +1,13 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-09-30
+date: 2026-10-01
 ---
 ## 最近更新
 
 ### 2026
 
-- 09-30 [[ai|主观 AI 编年史]]
+- 10-01 [[ai|主观 AI 编年史]]，[[about this site|关于本站]]，[[about me|关于我]]，[[index|首页]]
 - 09-27 [[music/index|音乐]]
 - 09-21 [[gossip on movies|影视剧碎碎念]]，[[page views and sessions|访问量指标]]，[[rules of amazon advertising campaigns|亚马逊广告投放原则]]，[[amazon market research|市场调查的方法]]
 - 09-19 [[reacher season 4|《侠探杰克》第四季]]
@@ -68,13 +68,14 @@ date: 2026-09-30
 
 ## 站点更新日志
 
+- 2026-10-01 更新全站 CSS 样式 *国庆节快乐！*
 - 2026-09-09 首页添加 not by AI 标签
 	- *又添加回来了，当做一个提醒吧*
 - 2026-08-23 微调全站 CSS 样式
 	- *我是真喜欢微调全站样式啊...*
 - 2026-07-06 更新全站 CSS 样式，灵感来源：[Vermilion](https://anotherdayu.com/vermilion/) 
 - 2026-06-24 微调全站 CSS 样式
-- 2026-06-01 Quartz v4.5.2 更新至 Quartz v5.0.0 儿童节快乐！
+- 2026-06-01 Quartz v4.5.2 更新至 Quartz v5.0.0 *儿童节快乐！*
 - 2026-05-03 添加 GoatCounter 统计访问数据，增加[[about this site#隐私声明|关于本站]]隐私声明
 - 2026-04-25 更新页脚信息
 - 2026-04-19 移除全站冗余 CSS 样式，取消使用 Google Fonts，去除 No-AI-icon
