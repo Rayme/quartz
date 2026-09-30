@@ -1,7 +1,7 @@
 ---
 title: AI
 created: 2022-12-05
-date: 2026-09-23
+date: 2026-09-30
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
 *2025-06-05 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。*
@@ -13,6 +13,10 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-09-30 昨天（9月29日）是 OpenAI 的 [DevDay 2026](https://openai.com/index/devday-2026-recap/) 开发者大会，这一次发布了许多新东西：[Dots](https://openai.com/zh-Hans-CN/index/introducing-dots/)、[GPT-6.1-Sol](https://openai.com/zh-Hans-CN/index/introducing-gpt-6-1-sol/)、插件生态和协作等等一系列内容，其中最让我感兴趣的是被成为 Personal Agent 的 Dots。但是经过细细一番研究，发现这不就是我今年以来一直在琢磨的 Hermes Agent（和更早的 OpenClaw）吗？于是最感兴趣的变成了 6.1-Sol。
+	- 距离 GPT-6-Sol 的发布仅仅过去一周，也许是那一代的实际使用体验过于糟糕、早前砍掉最具性价比的订阅会员（Pro 20x）、疑似各种会员订阅额度缩水，加上外部环境（Anthropic 连发 Opus 5.5 和 Sonnet 5.5）的变化，OpenAI 不得不掏出更好的模型来。发布会结束还送了一张重置卡，今天白天我已经累积了四张，最早的10月4日过期，今天猛猛用了几次 Astra 和 6.1 Sol 的 xhigh 消耗掉一张。旗舰模型性能是真的好，消耗也是真的快。
+	- Tibo 手上真的有一个 reset button 啊。
+- 2026-09-30 昨天 DeepSeek 发布了 [DeepSeek Harness 桌面端 v0.2 预览版](https://www.deepseek.com/harness/)，在 Windows 和 macOS 下可以下载安装开箱即用了，用老账号登录还能领取6元赠金。我晚间和早晨试用了一下，解决了一些电脑遗留问题，在 DeepSeek V4.1 Flash Max/High 下耗尽了全部赠金，又充了20块钱进去。agentic 场景下 270 tok/s 的速度非常快。
 - 2026-09-23 人工智能行业过中秋节了。OpenAI 和 Anthropic 相继发布新模型。首先是 [OpenAI 发布了 GPT-6-Sol 和 GPT-6-Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)，价格均比 GPT-5.6 时期降一倍，重点放在 Computer use 和 coding 能力上。对于我这种普通用户来说，最开心的莫过于 Plus 订阅能用上更强且价格只有原来一半的 Luna 了。除此之外 OpenAI 还给所有订阅用户赠送了一张重置卡，这会我已经累积三张，终于有机会可以尝尝 Astra 咸淡。
 	- Anthropic 发布了 Claude Opus 5.5，运行成本比 Opus 5 降低 40%，性能接近 Fable 5.1。一如往常，我一般不会去用它。不过好像A社也给订阅用户送了重置卡，这倒是第一次见。
 	- 我终于敢在 Hermes Agent 上用 GPT-6-Sol 了！
