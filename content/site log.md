@@ -1,12 +1,13 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-10-01
+date: 2026-10-08
 ---
 ## 最近更新
 
 ### 2026
 
+- 10-08 [[neagley season 1|《侠女内莉》第一季]]，[[runner|《护肝人》]]
 - 10-01 [[ai|主观 AI 编年史]]，[[about this site|关于本站]]，[[about me|关于我]]，[[index|首页]]
 - 09-27 [[music/index|音乐]]
 - 09-21 [[gossip on movies|影视剧碎碎念]]，[[page views and sessions|访问量指标]]，[[rules of amazon advertising campaigns|亚马逊广告投放原则]]，[[amazon market research|市场调查的方法]]
@@ -23,7 +24,7 @@ date: 2026-10-01
 - 07-16 [[posts|随便写写]]，补充2006年到2008年[[posts#2008|一些年份文章]]
 - 07-10 [[wings of dread|《万米危机》]]
 - 07-06 [[ai|主观 AI 编年史]]，[[blades of the guardians|《镖人：风起大漠》]]
-- 07-01 [[now]]，[[the punisher one last kill|《惩罚者：最后一击》]]，[[the night agent season 3|《暗夜情报员第三季》]]
+- 07-01 [[now]]，[[the punisher one last kill|《惩罚者：最后一击》]]，[[the night agent season 3|《暗夜情报员》第三季]]
 - 05-26 [[the boys|《黑袍纠察队》]]
 - 05-20 [[dear you|《给阿嬷的情书》]]
 - 05-05 [[fixing browser use in codex app under windows 11|Windows 11 下修复 Codex 的 Browser Use]]，[[about this site|关于本站]]
