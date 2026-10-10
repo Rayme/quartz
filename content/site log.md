@@ -1,12 +1,13 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-10-08
+date: 2026-10-10
 ---
 ## 最近更新
 
 ### 2026
 
+- 10-10 [[now]]
 - 10-08 [[neagley season 1|《侠女内莉》第一季]]，[[runner|《护肝人》]]
 - 10-01 [[ai|主观 AI 编年史]]，[[about this site|关于本站]]，[[about me|关于我]]，[[index|首页]]
 - 09-27 [[music/index|音乐]]
