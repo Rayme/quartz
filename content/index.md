@@ -29,7 +29,7 @@ date: 2026-10-08
 - [[i love books|书籍读后感]] | [[music/index|音乐]]
 - [[digital life|科技生活]] | [[ai|主观 AI 编年史]]
 - [[amazon|跨境电商与亚马逊]]
-- [[tao/index|我读《道德经》]] | [[now|我的 now 页面]] *9月1日更新*
+- [[tao/index|我读《道德经》]] | [[now|我的 now 页面]] *10月10日更新*
 
 聆听[[quotes from others|他人的智慧]]，也告诉自己[[random thoughts|要多想]]。要有自己的[[anchor|锚点]]。
 

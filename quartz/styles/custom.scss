@@ -2,24 +2,19 @@
 
 // put your custom CSS here!
 
-// 字体排列：西文 Verdana，中文依次 PingFang SC → Noto Sans SC
 :root {
   --bodyFont: Verdana, "PingFang SC", "Noto Sans SC", sans-serif;
   --headerFont: Verdana, "PingFang SC", "Noto Sans SC", sans-serif;
 }
 
 body {
-  // font-family: Verdana, "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
   font-size: 16px;
   line-height: 1.9;
-  letter-spacing: 0.02em;
   -webkit-font-smoothing: antialiased;
 }
 
 .center article p {
-  letter-spacing: 0.02em;
   line-height: 1.9;
-  margin-bottom: 1em;
 }
 
 a,
@@ -92,4 +87,3 @@ a.internal:hover {
 .explorer a.internal {
   text-decoration: none;
 }
-

@@ -17,7 +17,7 @@ configuration:
     fontOrigin: local
     cdnCaching: false
     typography:
-      header: Verdana
+      header: Noto Sans SC
       body: Verdana
       code: Consolas
     colors:
