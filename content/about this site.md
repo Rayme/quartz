@@ -2,13 +2,13 @@
 title: 关于本站
 created: 2026-04-09
 description: 这个网站是什么
-date: 2026-10-01
+date: 2026-10-12
 ---
 ## 非简介
 
 这里是互联网上的一个普通网站，基于 [Quartz 5](https://quartz.jzhao.xyz/) 构建，数据位于本地和 GitHub 仓库，使用赛博大善人 Cloudflare 部署。本地使用 [[obsidian|Obsidian]] 编辑草稿并推送至 GitHub。
 
-网站的建立完全出于作者的兴趣，没有明确目的，也没有结束之日，可能在十年后，也可能在明天。作者原本的 WordPress 博客（`imzm.im`，已 301 跳转至本站）于2026年4月9日归档，目的是为了节省维护多个网站的精力。关于[[why this site|为什么会有这个站点]]，有一点说明和心路历程。
+网站的建立完全出于作者的兴趣，没有明确目的，也没有结束之日，可能在十年后，也可能在明天。作者原本的 WordPress 博客（`imzm.im`，已 301 跳转至本站）于2026年4月9日归档，目的是为了节省维护多个网站的精力。关于[[why this site|为什么会有这个站点]]，有一点说明和心路历程。关于为何归档 WordPress 博客的详细经历可以参考[[from wordpress to quartz|从 WordPress 到 Quartz]]。
 
 本网站留言板基于 Giscus，需要一个 GitHub 账号，由此带来的不便敬请原谅，但我可能不会改。
 
