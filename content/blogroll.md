@@ -15,6 +15,7 @@ title: 网上邻居
 - [雅余](https://yayu.net/)
 - [Jack’s Space](https://veryjack.com/)
 - [非理勿试](https://www.ntiy.com/)
+- [莫比乌斯](https://mobius.blog)
 - [椒盐豆豉](https://blog.douchi.space/)
 - [Garden of Outlier](https://chlo.is)
 - [刘其然的部落格](https://liuqiran.github.io/zh/) | [Liu Qiran](https://liuqiran.github.io/en/)

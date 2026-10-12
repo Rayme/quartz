@@ -71,7 +71,9 @@ function scrollToTopImmediately() {
 }
 
 function shouldAnimatePageTransition() {
-  return !window.matchMedia("(prefers-reduced-motion: reduce)").matches
+  return window.matchMedia(
+    "(max-width: 800px) and (prefers-reduced-motion: no-preference)",
+  ).matches
 }
 
 function beginPageTransition() {
@@ -82,7 +84,7 @@ function beginPageTransition() {
   root.classList.add("quartz-page-leaving")
 
   return new Promise<void>((resolve) => {
-    window.setTimeout(resolve, 180)
+    window.setTimeout(resolve, 200)
   })
 }
 
@@ -122,7 +124,6 @@ let p: DOMParser
 async function _navigate(url: URL, isBack: boolean = false) {
   isNavigating = true
   startLoading()
-  const pageLeaving = beginPageTransition()
   p = p || new DOMParser()
   const contents = await fetchCanonical(url)
     .then((res) => {
@@ -138,7 +139,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
     })
 
   if (!contents) return
-  await pageLeaving
+  await beginPageTransition()
 
   // notify about to nav
   const event: CustomEventMap["prenav"] = new CustomEvent("prenav", { detail: {} })
@@ -192,6 +193,10 @@ async function navigate(url: URL, isBack: boolean = false) {
     window.location.assign(url)
   } finally {
     stopLoading()
+    document.documentElement.classList.remove(
+      "quartz-page-leaving",
+      "quartz-page-entering",
+    )
     isNavigating = false
   }
 }
