@@ -1,10 +1,12 @@
 ---
 title: 要多想
 created: 2024-04-09
-date: 2026-07-25
+date: 2026-10-15
 ---
 ## 2026
 
+- 2026-10-14 ['AI' is Not a Tool](https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b11c02) by Rich Hickey
+	- 原来工具一词也可以做出这种含义解释，把 LLM 区别于传统意义的工具定义。Rich 对于 tool can be wielded 的解释很新奇。这让我联想，一个工具是否被成为工具，应当可以理解为，作为使用者的人，能否通过这个工具改造世界。以这个定义出发，如果仅仅是让 AI 去阅读分析总结文章，那么并没有。如果是做自动化，那么某种意义上，就是把原本作为人去改造世界这件事，间接交给了 AI 去做，相当于人类驱使 AI 去改造世界。
 - 2026-07-25 Sometimes I fear of action. Then I read [[tuning big fears into tiny experiments]] from Anne-Laure Le Cunff.
 - 2026-04-26 [[what does it all mean|What Does it All Mean?]]
 ## 2025

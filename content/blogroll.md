@@ -6,6 +6,10 @@ title: 网上邻居
 
 实际上这个页面会包含我喜欢的经常访问的站点，可以是个人网站、博客、数字花园或者任何形态的有人味的地方。
 
+我很喜欢两位网友把这类页面称为[林卷](https://www.geedea.pro/linkroll/) 和 [波卷](https://blog.hhpeng.org/blogroll/)。我称之为网上邻居，因为我真的很喜欢这个图标：
+
+![[cyberneighbor.png|81x81]]
+
 - [印记](https://yinji.org/)
 - [好事发生](https://hahaha.net/) 经常找借口不更新的哥们
 - [风清的精神角落](https://wind.ink/)
@@ -46,3 +50,12 @@ title: 网上邻居
 - Newsletter of [Anne-Laure Le Cunff](https://nesslabs.com/author/annelaure)
 - [Gwern.net](https://gwern.net/)
 - [BlackGlory](https://blackglory.me/)
+
+---
+
+感谢诸位对中文博客圈做出的贡献。
+
+- [Indi](https://indi.blog/)
+- [十年之约](https://www.foreverblog.cn/)
+- [博友圈](https://www.boyouquan.com/)
+- [川流](https://chuanliu.org/) 它已经不在了，但他永远活着。
