@@ -1,7 +1,7 @@
 ---
 title: AI
 created: 2022-12-05
-date: 2026-10-15
+date: 2026-10-18
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
 *2025-06-05 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。*
@@ -13,6 +13,8 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-10-18 昨日（10月17日）DeepSeek 突然发布了 [DeepSeek V4.1 Flash 1017](https://api-docs.deepseek.com/zh-cn/news/news261017/)，官方声称为 “许愿式编程” ，于是我赶紧更新 DeepSeek Harness 到最新版本 v0.2.1-rc.2，用一句话许愿了一个[网页端 FPS 游戏](https://fire.jefftay.com/)。没想到结果竟然比预想要好不少。
+	- 当然，后续迭代了好几次，切换成 ChatGPT 6.1 Sol 又迭代了好几次，自己玩得不亦乐乎。
 - 2026-10-15 国庆假期，国内大模型厂商安静至极，以至于海外网友以为国内发生了什么事。今天早上 DeepSeek 官方[宕机了近五个小时](https://www.ithome.com/1/013/179.htm)，恢复后给每位 API 用户[补偿了过去七天消耗的费用](https://www.ithome.com/1/013/533.htm)。大家都很后悔，为什么没有在过去七天站起来蹬。
 	- Google 终于在10月14日发布了旗舰模型 [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)，终于不再是抠抠搜搜的 Flash 模型了。不过我早已对谷歌的模型失去兴趣，我的会员也已过期许久。
 	- 阶跃在10月13日[发布了原生智能体手机 STEPX Neo](https://www.ithome.com/1/012/556.htm)，起步价格只要3999，比预想中便宜不少。阶跃前段时间还发布了 Step 5 Preview，不过似乎没有多少声量了。
