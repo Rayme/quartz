@@ -2,6 +2,7 @@
 title: 他们如是说
 created: 2025-04-01
 ---
+- [[lost in abundance|迷失在丰富里]] 和菜头
 - [[how to do great work|How to Do Great Work]] Paul Graham
 - [[tuning big fears into tiny experiments|Tuning Big Fears into Tiny Experiments]] Anne-Laure Le cunff
 - [[get your body going]] James Clear

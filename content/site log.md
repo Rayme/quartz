@@ -7,7 +7,7 @@ date: 2026-10-18
 
 ### 2026
 
-- 10-18 [[ai|主观 AI 编年史]]
+- 10-19 [[ai|主观 AI 编年史]]，[[quotes from others|他们如是说]]
 - 10-10 [[now]]
 - 10-08 [[neagley season 1|《侠女内莉》第一季]]，[[runner|《护肝人》]]
 - 10-01 [[about this site|关于本站]]，[[about me|关于我]]，[[index|首页]]
