@@ -39,9 +39,20 @@ export default (() => {
       (r) => r.loadTime === "beforeDOMReady" && r.contentType === "external",
     )
 
-    return (
-      <head>
-        <title>{title}</title>
+return (
+  <head>
+    <title>{title}</title>
+    <script
+      dangerouslySetInnerHTML={{
+        __html: `
+          try {
+            if (sessionStorage.getItem("explorerScrollTop") === null) {
+              sessionStorage.setItem("explorerScrollTop", "0");
+            }
+          } catch (e) {}
+        `,
+      }}
+    />
         <meta charSet="utf-8" />
         {coreStylesheet && <link rel="preload" href={coreStylesheet} as="style" />}
         {coreScript && coreScript.contentType === "external" && (

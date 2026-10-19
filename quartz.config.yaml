@@ -17,7 +17,7 @@ configuration:
     fontOrigin: local
     cdnCaching: false
     typography:
-      header: Noto Sans SC
+      header: Verdana
       body: Verdana
       code: Consolas
     colors:
@@ -89,13 +89,6 @@ plugins:
     enabled: true
     options: {}
     order: 45
-  - source: "@quartz-community/encrypted-pages"
-    enabled: false
-    options:
-      iterations: 600000
-      passwordField: password
-      unlistWhenEncrypted: false
-      outputPath: static/encryptedContentIndex.json
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"
@@ -104,13 +97,10 @@ plugins:
       enableSiteMap: true
       enableRSS: true
       includeEmptyFiles: false
+      rssLimit: 20
   - source: "@quartz-community/favicon"
     enabled: true
-  - source: "@quartz-community/og-image"
-    enabled: false
   - source: "@quartz-community/cname"
-    enabled: true
-  - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"
     enabled: true
@@ -128,11 +118,6 @@ plugins:
     layout:
       position: left
       priority: 50
-  - source: "@quartz-community/graph"
-    enabled: false
-    layout:
-      position: right
-      priority: 10
   - source: "@quartz-community/search"
     enabled: true
     layout:
@@ -156,11 +141,6 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
-  - source: "@quartz-community/tag-list"
-    enabled: false
-    layout:
-      position: beforeBody
-      priority: 30
   - source: "@quartz-community/page-title"
     enabled: true
     layout:
@@ -216,10 +196,6 @@ plugins:
       position: left
       priority: 25
       display: mobile-only
-  - source: "@quartz-community/bases-page"
-    enabled: true
-    options: {}
-    order: 50
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
@@ -256,5 +232,3 @@ layout:
         - reader-mode
       positions:
         right: []
-    canvas: {}
-    bases: {}
