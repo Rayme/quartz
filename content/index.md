@@ -1,5 +1,5 @@
 ---
-title: 仿生猫梦见电子猫粮
+title: 按钮与磁带
 description: 按钮是控制，磁带是记录。
 created: 2025-04-01
 date: 2026-10-08
