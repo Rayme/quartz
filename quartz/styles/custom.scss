@@ -116,3 +116,26 @@ h2.page-title::after {
     animation: none;
   }
 }
+
+/* Footer 极简打孔纸带 VIVRE LIBRE OU MOURIR  */
+footer::before {
+  content: "";
+  display: block;
+  width: min(100%, 385px);
+  height: 44px;
+  margin: 0 0 1.2rem 0;
+
+  background-color: var(--secondary);
+  opacity: 0.55;
+  width: min(100%, 340px);
+
+  -webkit-mask-image: url("/static/footer-paper-tape.svg");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: left center;
+  -webkit-mask-size: contain;
+
+  mask-image: url("/static/footer-paper-tape.svg");
+  mask-repeat: no-repeat;
+  mask-position: left center;
+  mask-size: contain;
+}

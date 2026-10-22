@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 385 44" fill="none">
+  <line x1="1" y1="1" x2="384" y2="1" stroke="black" stroke-width="1.5" stroke-linecap="square"/>
+  <line x1="1" y1="43" x2="384" y2="43" stroke="black" stroke-width="1.5" stroke-linecap="square"/>
+
+  <circle cx="12" cy="22" r="1.1" fill="black"/>
+  <circle cx="12" cy="10" r="1.7" fill="black"/>
+  <circle cx="12" cy="18" r="1.7" fill="black"/>
+  <circle cx="12" cy="30" r="1.7" fill="black"/>
+  <circle cx="12" cy="34" r="1.7" fill="black"/>
+
+  <circle cx="30" cy="22" r="1.1" fill="black"/>
+  <circle cx="30" cy="10" r="1.7" fill="black"/>
+  <circle cx="30" cy="26" r="1.7" fill="black"/>
+  <circle cx="30" cy="38" r="1.7" fill="black"/>
+
+  <circle cx="48" cy="22" r="1.1" fill="black"/>
+  <circle cx="48" cy="10" r="1.7" fill="black"/>
+  <circle cx="48" cy="18" r="1.7" fill="black"/>
+  <circle cx="48" cy="30" r="1.7" fill="black"/>
+  <circle cx="48" cy="34" r="1.7" fill="black"/>
+
+  <circle cx="66" cy="22" r="1.1" fill="black"/>
+  <circle cx="66" cy="10" r="1.7" fill="black"/>
+  <circle cx="66" cy="18" r="1.7" fill="black"/>
+  <circle cx="66" cy="34" r="1.7" fill="black"/>
+
+  <circle cx="84" cy="22" r="1.1" fill="black"/>
+  <circle cx="84" cy="10" r="1.7" fill="black"/>
+  <circle cx="84" cy="30" r="1.7" fill="black"/>
+  <circle cx="84" cy="38" r="1.7" fill="black"/>
+
+  <circle cx="102" cy="22" r="1.1" fill="black"/>
+  <circle cx="102" cy="14" r="1.7" fill="black"/>
+
+  <circle cx="120" cy="22" r="1.1" fill="black"/>
+  <circle cx="120" cy="10" r="1.7" fill="black"/>
+  <circle cx="120" cy="26" r="1.7" fill="black"/>
+  <circle cx="120" cy="30" r="1.7" fill="black"/>
+
+  <circle cx="138" cy="22" r="1.1" fill="black"/>
+  <circle cx="138" cy="10" r="1.7" fill="black"/>
+  <circle cx="138" cy="26" r="1.7" fill="black"/>
+  <circle cx="138" cy="38" r="1.7" fill="black"/>
+
+  <circle cx="156" cy="22" r="1.1" fill="black"/>
+  <circle cx="156" cy="10" r="1.7" fill="black"/>
+  <circle cx="156" cy="34" r="1.7" fill="black"/>
+
+  <circle cx="174" cy="22" r="1.1" fill="black"/>
+  <circle cx="174" cy="10" r="1.7" fill="black"/>
+  <circle cx="174" cy="18" r="1.7" fill="black"/>
+  <circle cx="174" cy="34" r="1.7" fill="black"/>
+
+  <circle cx="192" cy="22" r="1.1" fill="black"/>
+  <circle cx="192" cy="10" r="1.7" fill="black"/>
+  <circle cx="192" cy="30" r="1.7" fill="black"/>
+  <circle cx="192" cy="38" r="1.7" fill="black"/>
+
+  <circle cx="210" cy="22" r="1.1" fill="black"/>
+  <circle cx="210" cy="14" r="1.7" fill="black"/>
+
+  <circle cx="228" cy="22" r="1.1" fill="black"/>
+  <circle cx="228" cy="10" r="1.7" fill="black"/>
+  <circle cx="228" cy="26" r="1.7" fill="black"/>
+  <circle cx="228" cy="30" r="1.7" fill="black"/>
+  <circle cx="228" cy="34" r="1.7" fill="black"/>
+  <circle cx="228" cy="38" r="1.7" fill="black"/>
+
+  <circle cx="246" cy="22" r="1.1" fill="black"/>
+  <circle cx="246" cy="10" r="1.7" fill="black"/>
+  <circle cx="246" cy="18" r="1.7" fill="black"/>
+  <circle cx="246" cy="30" r="1.7" fill="black"/>
+  <circle cx="246" cy="38" r="1.7" fill="black"/>
+
+  <circle cx="264" cy="22" r="1.1" fill="black"/>
+  <circle cx="264" cy="14" r="1.7" fill="black"/>
+
+  <circle cx="282" cy="22" r="1.1" fill="black"/>
+  <circle cx="282" cy="10" r="1.7" fill="black"/>
+  <circle cx="282" cy="26" r="1.7" fill="black"/>
+  <circle cx="282" cy="30" r="1.7" fill="black"/>
+  <circle cx="282" cy="38" r="1.7" fill="black"/>
+
+  <circle cx="300" cy="22" r="1.1" fill="black"/>
+  <circle cx="300" cy="10" r="1.7" fill="black"/>
+  <circle cx="300" cy="26" r="1.7" fill="black"/>
+  <circle cx="300" cy="30" r="1.7" fill="black"/>
+  <circle cx="300" cy="34" r="1.7" fill="black"/>
+  <circle cx="300" cy="38" r="1.7" fill="black"/>
+
+  <circle cx="318" cy="22" r="1.1" fill="black"/>
+  <circle cx="318" cy="10" r="1.7" fill="black"/>
+  <circle cx="318" cy="18" r="1.7" fill="black"/>
+  <circle cx="318" cy="30" r="1.7" fill="black"/>
+  <circle cx="318" cy="38" r="1.7" fill="black"/>
+
+  <circle cx="336" cy="22" r="1.1" fill="black"/>
+  <circle cx="336" cy="10" r="1.7" fill="black"/>
+  <circle cx="336" cy="18" r="1.7" fill="black"/>
+  <circle cx="336" cy="34" r="1.7" fill="black"/>
+
+  <circle cx="354" cy="22" r="1.1" fill="black"/>
+  <circle cx="354" cy="10" r="1.7" fill="black"/>
+  <circle cx="354" cy="26" r="1.7" fill="black"/>
+  <circle cx="354" cy="38" r="1.7" fill="black"/>
+
+  <circle cx="372" cy="22" r="1.1" fill="black"/>
+  <circle cx="372" cy="10" r="1.7" fill="black"/>
+  <circle cx="372" cy="18" r="1.7" fill="black"/>
+  <circle cx="372" cy="34" r="1.7" fill="black"/>
+</svg>
