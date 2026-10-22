@@ -25,6 +25,7 @@ title: 网上邻居
 - [Garden of Outlier](https://chlo.is)
 - [刘其然的部落格](https://liuqiran.github.io/zh/) | [Liu Qiran](https://liuqiran.github.io/en/)
 - [Kaffa.im](https://kaffa.im/)
+- [见字如面](https://hiwannz.com)
 - [希路路克](https://xiluluke.com/)
 - [查令十字街 84 号](https://javis.me/)
 - [触之有形的幻想集](http://fankasy.xyz/)
