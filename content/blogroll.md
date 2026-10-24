@@ -32,6 +32,7 @@ title: 网上邻居
 - [極客死亡計劃](https://www.geedea.pro/)
 - [CC的数字花园](https://cyrus19.cc/)
 - [水拍石](https://www.leitao.cn/) 网站有丰富的经济学知识
+- [羽忆江南]([https://lizihao.com](https://lizihao.com/))
 - [松易涅的写作分享站](https://www.sungyinieh.com/)
 - [Owen的博客](https://www.owenyoung.com/)
 - [白熊阿丸的小屋](https://blog.bxaw.name/)
