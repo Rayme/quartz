@@ -1,12 +1,13 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-10-23
+date: 2026-10-25
 ---
 ## 最近更新
 
 ### 2026
 
+- 10-25 [[cold eyes|《绝密跟踪》]]
 - 10-23 [[time is a thief|《时间是贼》]]
 - 10-19 [[ai|主观 AI 编年史]]，[[quotes from others|他们如是说]]
 - 10-10 [[now]]
