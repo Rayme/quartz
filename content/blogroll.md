@@ -60,6 +60,6 @@ title: 网上邻居
 感谢诸位对中文博客圈做出的贡献。
 
 - [Indi](https://indi.blog/)
-- [十年之约](https://www.foreverblog.cn/)
+- [十年之约](https://www.foreverblog.cn/) | [开往](https://www.foreverblog.cn/go.html)
 - [博友圈](https://www.boyouquan.com/)
 - [川流](https://chuanliu.org/) 它已经不在了，但他永远活着。
