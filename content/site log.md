@@ -1,12 +1,13 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-10-25
+date: 2026-10-27
 ---
 ## 最近更新
 
 ### 2026
 
+- 10-27 [[being proactive|Being Proactive]]
 - 10-26 [[i love books|出版与印刷]]
 - 10-25 [[cold eyes|《绝密跟踪》]]
 - 10-23 [[time is a thief|《时间是贼》]]
