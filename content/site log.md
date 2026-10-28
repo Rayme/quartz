@@ -1,17 +1,18 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-10-27
+date: 2026-10-28
 ---
 ## 最近更新
 
 ### 2026
 
+- 10-28 [[ai|主观 AI 编年史]]
 - 10-27 [[being proactive|Being Proactive]]
 - 10-26 [[i love books|出版与印刷]]
 - 10-25 [[cold eyes|《绝密跟踪》]]
 - 10-23 [[time is a thief|《时间是贼》]]
-- 10-19 [[ai|主观 AI 编年史]]，[[quotes from others|他们如是说]]
+- 10-19 [[quotes from others|他们如是说]]
 - 10-10 [[now]]
 - 10-08 [[neagley season 1|《侠女内莉》第一季]]，[[runner|《护肝人》]]
 - 10-01 [[about this site|关于本站]]，[[about me|关于我]]，[[index|首页]]
@@ -55,7 +56,7 @@ date: 2026-10-27
 - 11-03 [[music/index|音乐]]
 - 10-20 [[peacemaker season 2|《和平使者》第二季]]
 - 10-15 [[music/index|音乐]]，[[ai|主观 AI 编年史]]，[[passersby|《路人》]]
-- 10-04 [[faint|Faint]]，[何来尘埃飞舞](https://photo.imzm.org)
+- 10-04 [[faint|Faint]]，[何来尘埃飞舞](https://photo.jefftay.com)
 - 09-29 [[on how to read|如何读书]]，[[about me|关于我]]
 - 09-18 [[attention training|注意力训练]]
 - 09-17 [[long live macdonalds|《麦门永存。》]]，[[make a tool with gemini in python|《用 Gemini 2.5 Flash 制作一个小工具》]]

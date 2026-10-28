@@ -1,7 +1,7 @@
 ---
 title: AI
 created: 2022-12-05
-date: 2026-10-18
+date: 2026-10-28
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
 *2025-06-05 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。*
@@ -13,6 +13,8 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-10-28 月之暗面在1024这天[发布了 Kimi 3.1 Pro](https://www.kimi.com/en/blog/kimi-k3-1-pro)，作为 Kimi 3 Pro 的后训练款，从排名来看提升非常大。这可能是我用的最少的国产模型。
+- 深度求索是一家伟大的公司。他们在10月20日[开源了自家的推理框架](https://mp.weixin.qq.com/s/5MEu2eeqNfBWXlkCKTd6sg)：DeepInfer，在知乎[发表了一篇](https://zhuanlan.zhihu.com/p/2095560295930508953)详细的大模型部署推理实践，把“普惠”二字当作自己真正想要创建的现实。他们一定是一群理想主义者。
 - 2026-10-18 昨日（10月17日）DeepSeek 突然发布了 [DeepSeek V4.1 Flash 1017](https://api-docs.deepseek.com/zh-cn/news/news261017/)，官方声称为 “许愿式编程” ，于是我赶紧更新 DeepSeek Harness 到最新版本 v0.2.1-rc.2，用一句话许愿了一个[网页端 FPS 游戏](https://fire.jefftay.com/)。没想到结果竟然比预想要好不少。
 	- 当然，后续迭代了好几次，切换成 ChatGPT 6.1 Sol 又迭代了好几次，自己玩得不亦乐乎。
 - 2026-10-15 国庆假期，国内大模型厂商安静至极，以至于海外网友以为国内发生了什么事。今天早上 DeepSeek 官方[宕机了近五个小时](https://www.ithome.com/1/013/179.htm)，恢复后给每位 API 用户[补偿了过去七天消耗的费用](https://www.ithome.com/1/013/533.htm)。大家都很后悔，为什么没有在过去七天站起来蹬。
@@ -77,7 +79,7 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 	- 我最感慨的，是发布稿写在文章最后的话：“**不诱于誉，不恐于诽，率道而行，端然正己**”。这句话出自《荀子》，非常适合当前的深度求索，也同样适合有任何追求的企业和个人。
 	- 发布当晚，我小小支持了官方 API，把 OpenClaw 的默认模型换成了 DeepSeek-V4-Flash，久违感受到那股熟悉的D老师味。
 	- 发布后24小时内，寒武纪、华为云/昇腾、摩尔线程都在当日适配了 V4。英伟达在第二日适配。
-- 同日（4月24日）OpenAI [发布了 GPT-5.5]([https://www.ithome.com/0/942/841.htm](https://openai.com/index/introducing-gpt-5-5/))，根据 X 和其他平台的用户反馈，明显比前代强了不少，甚至有些用户反映比 Opus 4.7 更强，还更省钱。很遗憾我最近半年使用 ChatGPT 的次数极少，也从未使用过 Codex。
+- 同日（4月24日）OpenAI [发布了 GPT-5.5](https://www.ithome.com/0/942/841.htm)，根据 X 和其他平台的用户反馈，明显比前代强了不少，甚至有些用户反映比 Opus 4.7 更强，还更省钱。很遗憾我最近半年使用 ChatGPT 的次数极少，也从未使用过 Codex。
 - 4月23日，腾讯的混元[发布并开源了 Hy3 Preview](https://hy.tencent.com/hy3-preview)，真是稀客啊！我以为腾讯把元宝的默认模型设置为 DeepSeek 以后已经放弃了自己研发，没想到还在默默搞事情。从官方文档给出的评分看，性能不算特别突出，重点放在了推理、智能体能力和与腾讯生态结合方面。价格也不算便宜，每百万输入1.2，输出4元，甚至还做了上下文分档（0-16k，16-32k，32-256k），逐级增加价格，这很符合腾讯的企业文化。相比之下，DeepSeek 才是那个业界良心。归根到底，腾讯也是国产企业，希望国产大模型巨头都能形成国际竞争力。
 - 同日（4月23日），小米 MiMo 迭代了 V2.5，还没来得及更新。目前家里电脑的 Claude Code 用的是 MiMo-V2-Flash，能解决一些小问题。
 - 2026-04-25 这周最让人震撼的，是 OpenAI 发布的[生图模型 ChatGPT Images 2.0](https://openai.com/zh-Hans-CN/index/introducing-chatgpt-images-2-0/)。[Arena.ai](https://arena.ai/leaderboard/text-to-image) 上，Images 2 断档式领先。一言以蔽之，在这个模型发布之前，人们会怀疑一张 AI 生成的图片是否是真实照片，在模型发布之后，人们会开始怀疑一张真实的图片是否由 Images 2.0 生成。网上已经有大量真假难辨的案例，这是我从 Stable Diffusion 以来，第一次需要仔细分辨一张图片的真假。OpenAI 把模型开放给了所有用户使用，免费用户每日限制生成三张。这一点好评。我已经有了强大意愿想要订阅 ChatGPT Plus 会员。
@@ -206,14 +208,14 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 - 2023-03-15 OpenAI 最近动作颇多，今天发布了 [GPT-4 新模型](https://www.ithome.com/0/679/661.htm)，[New Bing 用的就是 GPT-4](https://www.ithome.com/0/679/679.htm)。
 - 2023-03-14 New Bing 又又提升了对话限制，现在是15回合，总是150条。另外 Microsoft Edge 更新到111版本，工具栏自带一个 New Bing 的快捷方式。
 - 2023-03-09 New Bing 又提升了对话限制，现在可以聊10个回合了，总数达到120条。
-- 2023-03-07 基于 [ConversationWithNewBing](https://wiki.imzm.im/#ConversationWithNewBing) 重新进行了一次对话：[NewConversationWithNewBing](https://wiki.imzm.im/#NewConversationWithNewBing) 结局让人沉默。
+- 2023-03-07 基于 New Bing 重新进行了一次对话：NewConversationWithNewBing（记录已丢失） 结局让人沉默。
 - 2023-03-06 一个[文生图和图生图站点](https://rightbrain.art/text2Image)，速度快模型多，暂时没看到收费点。
 - 2023-03-06 New Bing 把每回合对话限制提高到8条。聊胜于无吧。
 - 2023-03-02 New Bing 移动端上线了，现在可以通过手机上的 Bing 应用开启聊天了。
 - 2023-02-28 前段时间 New Bing 恢复，限制每段交流只有6句。限制更多回答范围，增加三种回答语气：（更多）创造力/平衡/精确。目前一直用的是创造力，另外二者基本没有使用。6句基本上可以解答大部分问题，可惜不能长时间交流了。
 - 2023-02-17 今天的 New Bing 无法正常问答了，一直提示`正在尝试重新连接` 还有个 refresh 按钮
 - 2023-02-16 [ChatGPTPromptInjection](https://news.mydrivers.com/1/890/890577.htm)
-- 2023-02-14 [ConversationWithNewBing](https://wiki.imzm.im/#ConversationWithNewBing) 仿佛把一个 AI 逼急了
+- ~~2023-02-14 ConversationWithNewBing 仿佛把一个 AI 逼急了~~
 - 2023-02-13 经过一天的体验，New Bing 比 ChatGPT 强多了。主要强在以下几个方面：实时结果，不像 ChatGPT 的数据库只截至到2021年；给出数据源，每一个数据的出处很清晰；正确的前提下会坚持自己的说法，ChatGPT 容易低头认错；访问起来比 ChatGPT 轻松，也不需要注册账号。
     - 对了，New Bing 的模型是和 ChatGPT 同源的，但是实际应用上，前者更生产力，其中的关键就是 Bing 作为一个搜索引擎辅助（search engine assistant）更能直接地帮助到使用者，而不是相对独立又有历史数据限制的 ChatGPT。
     - 2023-02-16 更新：在使用 Bing 的过程中，我提了几个工作中的相关问题，他能比较贴合地回答。尚未验证准确性，但这是一个很好的起始。

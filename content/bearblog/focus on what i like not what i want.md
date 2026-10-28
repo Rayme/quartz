@@ -2,7 +2,7 @@
 title: Focus On What I Like, Not What I Want
 created: 2025-11-03
 ---
-Do things that I like. I like how it feels when I finished an article or took a great photo. I like to [show and post](https://photo.imzm.org/) nice photos that I took. I like how it feels like to sit down peacefully and watch a great movie. I don’t want to write something about it but to share my perspective of that movie. I like the feeling of hosting a [digital garden](https://jefftay.com/) online. I like the feeling of having a [computer in the palm of my hand](https://jefftay.com/blog-posts/gpd-win-max-2-review).
+Do things that I like. I like how it feels when I finished an article or took a great photo. I like to [show and post](https://photo.jefftay.com/) nice photos that I took. I like how it feels like to sit down peacefully and watch a great movie. I don’t want to write something about it but to share my perspective of that movie. I like the feeling of hosting a [digital garden](https://jefftay.com/) online. I like the feeling of having a [computer in the palm of my hand](https://jefftay.com/blog-posts/gpd-win-max-2-review).
 
 I feel complete peace and satisfaction doing these things. Let it guide me.
 

@@ -1,5 +1,5 @@
 ---
-title: "\r2024 春节观影"
+title: 2024 春节观影
 created: 2024-02-17
 tags:
   - movies
