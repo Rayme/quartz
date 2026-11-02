@@ -1,0 +1,8 @@
+# 按钮与磁带 https://jefftay.com
+# 最后更新 2026-11-02
+
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=no, ai-train=no
+
+Sitemap: https://jefftay.com/sitemap.xml
