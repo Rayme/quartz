@@ -1,7 +1,7 @@
 ---
 title: AI
 created: 2022-12-05
-date: 2026-10-28
+date: 2026-11-21
 description: 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。
 ---
 *2025-06-05 以下是一份个人角度的主观 AI 编年史，记录了我从初识 ChatGPT（2022年12月5日）到 DeepSeek 横空出世的过程，以及期间与 AI 行业相关的种种事件。顺序观看，能看到历史的车轮正在滚滚向前。*
@@ -13,6 +13,9 @@ description: 以下是一份个人角度的主观 AI 编年史，记录了我从
 ---
 ## 2H26
 
+- 2026-11-21 快一个月未更新本页面，人工智能行业的大事件仍然非常密集。最近的是11月20日，[黎曼猜想疑似被证明](https://www.ithome.com/1/030/278.htm)，来自 Anthropic 的数学家 Levent Alpöge 与 Claude 的合作，咱也看不懂。往前一天11月19日，Anthropic 在纳斯达克敲钟上市，往前两天11月17日 OpenAI 发布 GPT-6.2 系列。这类头部大模型的更新如此密集，但是看起来似乎没有与前一代有根本性变化，后续我应该不会经常记录了。最关键的版本号变化总是更加印象深刻值得记录。
+	- 根据这个原则，最值得记录的大模型版本是 Google 终于发布了配得上他们名号的 Gemini 4 系列，这个系列包含四个名字：[Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)，[Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)，[Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) 和 [Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)，类比 OpenAI 的 Astra/Sol/Luna，或者 Anthropic 的 Fable/Opus/Sonnet/Haiku。谷歌这四个模型名字都取自元素周期表，怪有恶趣味的。并且从社区反馈来看，这个系列的模型都追上甚至超过了其他家的旗舰模型。我还未得以试用。
+	- 黄仁勋辞任英伟达闹得沸沸扬扬，至今后续影响仍然存在。
 - 2026-10-28 月之暗面在1024这天[发布了 Kimi 3.1 Pro](https://www.kimi.com/en/blog/kimi-k3-1-pro)，作为 Kimi 3 Pro 的后训练款，从排名来看提升非常大。这可能是我用的最少的国产模型。
 - 深度求索是一家伟大的公司。他们在10月20日[开源了自家的推理框架](https://mp.weixin.qq.com/s/5MEu2eeqNfBWXlkCKTd6sg)：DeepInfer，在知乎[发表了一篇](https://zhuanlan.zhihu.com/p/2095560295930508953)详细的大模型部署推理实践，把“普惠”二字当作自己真正想要创建的现实。他们一定是一群理想主义者。
 - 2026-10-18 昨日（10月17日）DeepSeek 突然发布了 [DeepSeek V4.1 Flash 1017](https://api-docs.deepseek.com/zh-cn/news/news261017/)，官方声称为 “许愿式编程” ，于是我赶紧更新 DeepSeek Harness 到最新版本 v0.2.1-rc.2，用一句话许愿了一个[网页端 FPS 游戏](https://fire.jefftay.com/)。没想到结果竟然比预想要好不少。

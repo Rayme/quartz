@@ -1,12 +1,14 @@
 ---
 created: 2025-04-01
 title: 时间线
-date: 2026-10-28
+date: 2026-11-21
 ---
 ## 最近更新
 
 ### 2026
 
+- 11-21 [[ai|主观 AI 编年史]]，[[gossip on movies|影视剧碎碎念]]
+- 11-16 [[now]]
 - 10-28 [[ai|主观 AI 编年史]]
 - 10-27 [[being proactive|Being Proactive]]
 - 10-26 [[i love books|出版与印刷]]
